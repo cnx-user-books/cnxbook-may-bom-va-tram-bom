@@ -1,0 +1,361 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các loại máy bơm khác</title>
+  <metadata>
+  <md:content-id>m29875</md:content-id><md:title>Các loại máy bơm khác</md:title>
+  <md:abstract>Phần này trình bày về các loại máy bơm khác</md:abstract>
+  <md:uuid>d725be4c-d801-47bc-ac7c-b06cbf160ddf</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-145184876118">
+      <title>CÁC LOẠI MÁY BƠM KHÁC.</title>
+      <para id="id23970873">Trong chương II chúng ta đã đề cập về máy bơm cánh quạt, là loại máy bơm được dùng phổ biến trong tưới tiêu nông nghiệp, ở chương này chúng ta tìm hiểu thêm một số loại máy bơm khác được dùng trong nhiều lĩnh vực khác mà cả trong nông nghiệp cũng có khi phải dùng đến.</para>
+    </section>
+    <section id="id-188936377729">
+      <title>BƠM PITTÔNG VÀ PITTÔNG TRỤ.</title>
+      <para id="id23970899">Căn cứ vào cấu tạo và hoạt động của bơm pittông chúng ta có thể chia chúng thành các loại: bơm pittông tác dụng đơn và bơm pittông tác dụng kép, bơm sai động, bơm pittông quay ... Trong đó nếu căn cứ vào cấu tạo của pittông lại có thể phân hai loại là pittông thường ( Hình 7 - 1,a và 7 - 2, a ) và pittông trụ ( Hình 7-1,b ). Bơm pittông bơm được lưu lượng nhỏ ( từ 0,01 ...250 m3/h ) nhưng cột nước cao (từ 0,25 ...250 at).</para>
+      <section id="id-983696553397">
+        <title>Bơm pittông tác dụng đơn.</title>
+        <para id="id23970931">Nguyên tắc cấu tạo và hoạt động của loại bơm này thể hiện ở Hình ( 7 - 1,a ): Pittông 2 tịnh tiến qua lại trong xi lanh 1 nhờ cơ cấu động gồm trục O, biên 5 và thanh truyền 4, con trượt. Dung tích xi lanh nằm giữa hai điểm chết của pittông bằng dung tích chất lỏng trong mỗi lần hoạt động của pittông ở điều kiện lý thuyết ( không có tổn thất dung tích ) Khi pittông chuyển động sang phải thì van 8 đóng, van 7 mở, chất lỏng từ bể hút 11 hút lên lòng xi lanh. Khi pittông đến điểm chết bên phải thì hoàn thành quán trình hút. Sau đó pittông chuyển động ngược lại thì van 7 đóng, van 8 mở, chất lỏng được đẩy lên bể 10. Pittông đến điểm chết trái thì quá trình đẩy hoàn thành. Như vậy cứ mỗi vòng quay của trục O thì bơm thực hiện được một chu trình hút và đẩy. Khi trục O quay một góc </para>
+        <figure id="id23970945">
+          <media id="id6344125" alt=""><image src="../../media/graphics1-c284.png" mime-type="image/png" height="277" width="555"/></media>
+        </figure>
+        <para id="id23888529"/>
+        <para id="id23888536"/>
+        <para id="id23888544"> Hình 7 - 1. Sơ đồ máy bơm pittông tác dụng đơn.</para>
+        <para id="id23888556">a) Bơm pittông thường: 1- xi lanh; 2- pittông; 3- cán pittông.</para>
+        <para id="id23888566">b) Bơm pittông trụ: 1- buồng công tác; 2- pittông trụ.</para>
+        <para id="id23888576">thì pittông dịch được một quãng S = r ( 1 - cos  )  l ( 1 - cos ); trong đó r - bán kính quay, l - độ dài thanh truyền; dấu cộng khi pittông tịnh tiến từ trái sang phải, dấu trừ khi</para>
+        <para id="id23888604">ngược lại. Từ hai tam giác BAK và OKA ta có lsin = rsin và đặt r/l =  ta có :</para>
+        <para id="id23586457">S = r ( 1 - cos  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>λ</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {λ}  over  {2} } } {}</m:annotation></m:semantics></m:math>sin2 )  ( * )</para>
+        <para id="id23586544">Trường hợp thanh truyền có nằm ngang thì  = 0; khi đó ( * ) trở thành:</para>
+        <para id="id23586557">S = r ( 1 - cos ) ( ** )</para>
+        <para id="id23586727">Cơ cấu culit 13 đáp ứng điều kiện ( ** ) ( Cơ cấu 13 chỉ dùng cho máy nhỏ ). Từ ( ** ) tính được vận tốc của pittông:</para>
+        <para id="id23586738">v =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dS</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dS</m:mtext></m:mrow></m:mstyle><m:mi fontstyle="italic">dj</m:mi></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mi fontstyle="italic">dj</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>w</m:mi></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext>sin</m:mtext></m:mrow></m:mrow><m:mi>j</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dS"}  over  { ital "dt"} } = {  { ital "dS"}  over  {dj} }  cdot  {  {dj}  over  { ital "dt"} } =r cdot w cdot "sin"j} {}</m:annotation></m:semantics></m:math>( 7 - 1 )</para>
+        <para id="id24422236">Gia tốc của pittông a là:</para>
+        <para id="id24422242">a = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>S</m:mi></m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi fontstyle="italic">dj</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>j</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">⋅</m:mo><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>w</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{d} }  rSup { size 8{2} } S}  over  { { size 24{dj} }  rSup { size 8{2} } } }  cdot  {  { { size 24{d} }  rSup { size 8{2} } j}  over  {d { size 24{t} }  rSup { size 8{2} } } } =r cdot  { size 24{w} }  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>cos( 7 - 2 )</para>
+        <para id="id23962686">Khoảng cách hai điểm chết là S (m) gọi là khoảng chạy của pittông, đường kính trong của xi lanh là D (m), số vòng quay của trục chính là n (v/ph). Vậy lưu lượng lý thuyết của bơm pittông tác dụng đơn là:</para>
+        <para id="id23962700">Ql =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>F</m:mi><m:mtext>.</m:mtext><m:mi>S</m:mi><m:mtext>.</m:mtext><m:mi>n</m:mi></m:mrow><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {F "." S "." n}  over  {"60"} } } {}</m:annotation></m:semantics></m:math>; ( m3/s )( 7 - 3 )</para>
+        <para id="id23962782">Pittông thuờnwg có dạng tấm tròn có kích thước đường kính ngoài lớn hơn chiều dài nhiều lần, còn pittông trụ có đường kính ngoài nhỏ hơn chiều dài của nó.</para>
+      </section>
+      <section id="id-293476967289">
+        <title>Bơm pittông tác dụng kép.</title>
+        <figure id="id23553561">
+          <media id="id1166751635132" alt=""><image src="../../media/graphics2-a11f.png" mime-type="image/png" height="335" width="591"/></media>
+        </figure>
+        <para id="id23553590"/>
+        <para id="id23553594"/>
+        <para id="id23553598">Hình 7 - 2. Sơ đồ máy bơm pittông tác động kép</para>
+        <para id="id23553604"> a) Sơ đồ cấu tạo và nguyên lý hoạt động của pittông tác động kép. </para>
+        <para id="id23553620"> b) Đồ thị lưu lượng lý thuyết của pittông tác động đơn và tác động kép</para>
+        <para id="id23553633">Bơm pittông tác dụng kép có dạng ( Hình 7 - 2,a ). Khi pittông chuyển từ trái sang phải thì phía trái thực hiện quá trình hút, phía phải thực hiện quá trình đẩy và ngược lại. Như vậy với mỗi vòng quay của trục chính thì bơm thực hiện được hai lần hút và hai lần đẩy. Lưu lượng lý thuyết của bơm này theo công thức:</para>
+        <para id="id23553650"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2F</m:mn><m:mo stretchy="false">−</m:mo><m:mi>f</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:mtext>.</m:mtext><m:mi>S</m:mi><m:mtext>.</m:mtext><m:mi>n</m:mi></m:mrow><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q rSub { size 8{l} } = {  { \( 2F-f \)  "." S "." n}  over  {"60"} } } {}</m:annotation></m:semantics></m:math>; ( m3/s )( 7 - 4 )</para>
+        <para id="id23572237">Trong đó F, f - diện tích tiết diện ngang trong của xi lanh, diện tích tiết diện ngang của cần pittông ( m2 ); S- quảng đường của pittông ( m ) ; n - vòng quay trục chính ( v/ph ).</para>
+        <para id="id23572254">Nhược điểm của loại bơm này là chiều dài lớn, lực ép của pittông lên hai phía khác nhau, hộp chèn kín phức tạp và hay hỏng, nhiều van. Tuy nhiên ưu điểm chính của nó có năng suất cao hơn loại tác dụng đơn, dòng chất lỏng ít biến động hơn (xem Hình 7 -2,b). Nếu bỏ qua tiết diện ngang của cần pittông ( f ) thì từ công thức ( 7 - 4 ) có thể coi lưu lượng của bơm tác động kép gấp đôi bơm tác dụng đơn ( công thức 7 - 3 ). Trong thực tế bao giờ cũng có tổn thất dung tích do van không đóng kịp thời hoặc không kín, do hộp đệm không tốt ... do vậy lưu lượng thực tế sẽ nhỏ hơn trị số lý thuyết tính ở trên.</para>
+      </section>
+      <section id="id-557065396756">
+        <title>Bơm pittông trụ sai động.</title>
+        <figure id="id23572302">
+          <media id="id1166750463753" alt=""><image src="../../media/graphics3-1de4.png" mime-type="image/png" height="304" width="414"/></media>
+        </figure>
+        <para id="id23931309"/>
+        <para id="id23931316"> Hình 7 - 3. Sơ đồ cấu tạo và nguyên lý hoạt động bơm trụ sai động.</para>
+        <para id="id23931327">Về cấu tạo bơm pittông trụ sai động gần giống bơm pittông tác dụng kép nhưng lưu lượng mà nó hút, đẩy trong mỗi chu kỳ lại giống bơm tác dụng đơn ( Hình 7 - 3 ). Khi pittông chuyển động sang phải, chất lỏng từ khoang B chảy vào ống đẩy với thể tích V1 V1=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>p</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">)</m:mo><m:mtext>.</m:mtext><m:mi>S</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {p}  over  {4} }  \(  { size 24{D} }  rSup { size 8{2} } - { size 24{d} }  rSup { size 8{2} }  \)  "." S} {}</m:annotation></m:semantics></m:math>, khoang A hút chất lỏng với thể tích V2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>p</m:mi><m:mtext>.</m:mtext><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mn>4</m:mn></m:mfrac><m:mtext>.</m:mtext><m:mi>S</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {p "."  { size 24{D} }  rSup { size 8{2} } }  over  {4} }  "." S} {}</m:annotation></m:semantics></m:math> .Trong đó: D, d là đường kính pittông và đường kính cần ( m ); S - quảng chạy của pittông (m) . Khi pittông chuyển từ phải về trái, chất lỏng chảy vào khoang B với thể tích V1 và đẩy vào ống đẩy thể tích ( V2 - V1 ). Vậy mỗi chu kỳ bơm hút và đẩy được chất lỏng lúy thuyết:</para>
+        <para id="id23586988"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>p</m:mi><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow><m:mtext>.</m:mtext><m:mi>S</m:mi><m:mtext>.</m:mtext><m:mfrac><m:mi>n</m:mi><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{l} } = {  {p { size 24{D} }  rSup { size 8{2} } }  over  {4} }  "." S "."  {  {n}  over  {"60"} } } {}</m:annotation></m:semantics></m:math>; ( m3/s )( 7 - 5 )</para>
+        <para id="id23622518">Đối vơi loại bơm này, nếu tiết diện ngang của cán pittông f bằng 0,5 tiết diện ngang của pittông F thì lượng chất lỏng chảy vào ống đẩy khi pittông chuyển động sang phải hay sang trái đều bằng nhau, động cơ chịu tải đều. Bơm pittông trụ sai động được dùng với lưu lượng nhỏ và vừa, cột áp không lớn.</para>
+      </section>
+      <section id="id-389040455298">
+        <title>Bơm pittông cần ( Hình 7 - 4 )</title>
+        <figure id="id23622552">
+          <media id="id1166752585069" alt=""><image src="../../media/graphics4-55d6.png" mime-type="image/png" height="518" width="245"/></media>
+        </figure>
+        <para id="id23632701"/>
+        <para id="id23632707">Hình 7 - 4. Sơ đồ máy bơm pittông cần.</para>
+        <para id="id23632716">a) Bơm kết cấu thường; b) Bơm sai động.</para>
+        <para id="id23632725">1- ống hút; 2- xi lanh; 3- pittông; 4 - đĩa ; 5- cần ; 6 - ống đẩy; 7 - trụ.</para>
+        <para id="id23632736">Để nâng nước từ giếng người ta dùng máy bơm pittông cần kết cấu thông thường hoặc loại sai động. Loại máy bơm pittông cần kết cấu thông thường ( Hình 7 - 4,a ) hoạt động như sau: Khi nâng pittông lên, van đẩy KH đóng lại, còn van hút KB mở đưa nước vào xi lanh, đồng thời đưa nước vào ống đẩy 6. Khi hạ pittông xuống, van KB đóng, còn van KH mở đưa nước vào không gian trên pittông, trong thời gian này lối nước vào 6 bị đóng. Máy bơm làm việc giống như máy bơm pittông tác dụng đơn. Máy bơm pittông cần sai động ( Hình 7 - 4,b ) phần trên có trụ 7 đường kính lớn hơn đường kính của cần</para>
+        <para id="id23632790">Khi nhấc pittông, lượng nước chảy vào ống đẩy 6 bằng ( F - f ).S, ( ở đây f là diện tích của tiết diện trụ )̣, còn thể tích nước hút qua van KB là FS. Khi hạ trụ 7 xuống, nước sẽ được đẩy vào ống đẩy 6 một lượng bằng fS. Như vậy, sau hai lần dịch chuyển thể tích nước mà bơm cấp được cho ống là V = FS.</para>
+      </section>
+      <section id="id-563240645817">
+        <title>Bơm pittông quay.</title>
+        <para id="id23632823">Bơm píttông quay là loại có cột áp rất cao và có hai loại bơm pittông quay hướng kính và pittông quay hướng trục, dùng trong công nghiệp, nguyên tắc hoạt động của nó để đơn giản ta lấy loại bơm pittông quay hướng kính để mô tả ( Hình 7 - 5, ).</para>
+        <figure id="id23632843">
+          <media id="id1166764352855" alt=""><image src="../../media/graphics5-762c.png" mime-type="image/png" height="260" width="576"/></media>
+        </figure>
+        <para id="id23948148">.</para>
+        <para id="id23948155"/>
+        <para id="id23948162">Hình 7 - 5. Nguyên lý cấu tạo và hoạt động của bơm pittông quay.</para>
+        <para id="id23948170">Phần cố định của bơm này gồm vành trụ 1 và vách ngăn 4. Phần quay gồm rô to 5 có tâm quay lệch tâm e với trục của vành trụ1, các pittông 2 dịch chuyển trong các rãnh ( các xi lanh ) của 5, ống lót 3 ép vào 5 và có thể thay thế khi bị mòn. Khi rô to 5 quay theo chiều kim đồng hồ thì các pittông 2 cũng quay theo, đồng thời tịnh tiến qua lại trong xi lanh tạo ra qúa trình hút và đẩy chất lỏng. Vách ngăn 4 đứng yên. Không gian trong ống lót 3 chia làm hai phần: phần trên vách 4 là cửa hút, phần dưới là cửa đẩy của bơm. Khi pittông đến phần trái của đường C-C là vừa hoàn thành quá trình đẩy và bắt đầu quá trình hút, còn khi đến vị trí bên phải thì ngược lại. Quảng chạy của mỗi pittông là S = 2e. Bơm này có ưu điểm là tạo cột áp rất cao, có thể đạt đến 350 at khi vòng quay lớn n = 6500 v/ph ( dùng trong các động cơ máy bay ) và lưu lượng đồng đều; nhược điểm chính của nó là cấu tạo phức tạp và lưu lượng nhỏ ( từ 0,2 ... 25 m3/h ). </para>
+      </section>
+    </section>
+    <section id="id-211395882648">
+      <title>MÁY BƠM RÔ TO VÀ BƠM XOÁY</title>
+      <section id="id-590025360765">
+        <title>Bơm rô to.</title>
+        <para id="id23948231">Khác với bơm pittông, bơm rô to hút và đẩy chất lỏng nhờ chuyển động quay bộ phận công tác của nó. Có nhiều loại máy bơm rô to, ở đây ta chỉ nghiên cứu bơm bánh răng, bơm trục vít, bơm vòng nước và bơm xoáy.</para>
+        <section id="id-570370985355">
+          <title>Bơm bánh răng </title>
+          <para id="id23948258">( Hình 7 - 6 ).</para>
+          <para id="id23948264">Bơm bánh răng có lưu lượng từ 0,2 ... 140 m3/h và áp lực từ 4 ... 25 at. Cơ cấu quay của nó có số bánh răng bằng 1, 2 hoặc lớn hơn hai. Hình 7 - 6 là loại có hai bánh răng, trong đó bánh 1 là bánh dẫn động được nối với trục động cơ, truyền chuyển động quay cho bánh bị dẫn 4. Các rãnh của bánh xe 1 và 4 đưa chất lỏng từ vùng hút 5 về vùng đẩy 3. Ưu điểm của bơm bánh răng là cấu tạo đơn giản, nhược điểm là gây rung động và tiếng ồn. Nó dùng bơm chất lỏng sạch, nhiệt độ không quá 2500C, hay dùng nhất là để bơm dầu. Lưu lượng thật của bơm này có thể tính theo công thức sau đây của T.M. Bac:</para>
+          <para id="id24397914">Q = 2dDmbn/60 ; ( l /s )( 7 - 6 ).</para>
+          <para id="id24397937">Trong đó d - hiệu suất dung tích, lấy từ 0,8 ... 0,9.</para>
+          <para id="id24397956"> D - đường kính chia của hai bánh răng ( dm ).</para>
+          <para id="id24397968"> m - mô dul của răng ( dm ).</para>
+          <para id="id24397981"> b - chiều rộng bánh răng ( dm )</para>
+          <para id="id24397995"> n - vòng quay ( v/ph ).</para>
+          <figure id="id24398008">
+            <media id="id3590360" alt=""><image src="../../media/graphics6-1671.png" mime-type="image/png" height="224" width="467"/></media>
+          </figure>
+          <para id="id24001026"/>
+          <para id="id24001032">Hình 7 - 6. Sơ đồ cấu tạo và hoạt động của bơm bánh răng.</para>
+        </section>
+        <section id="id-607935517812">
+          <title>Bơm trục vít.</title>
+          <para id="id24001050">Bơm trục vít có lưu lượng từ 0,3 ... 800m3/h, áp lực từ 0,5 ... 25 at. Bơm này làm việc êm, ổn định, tuổi thọ cao. Vì vậy nó được dùng rộng rãi trong các máy ép thủy lực. Nhược điểm của nó là khó chế tạo vì đòi hỏi độ chính xác cao, khó sữa chữa phục hồi.</para>
+          <figure id="id24001077">
+            <media id="id1166763576939" alt=""><image src="../../media/graphics7-fa0f.png" mime-type="image/png" height="210" width="576"/></media>
+          </figure>
+          <para id="id24001106"/>
+          <para id="id24001112">Hình 7 - 7. Nguyên lý cấu tạo và hoạt động của bơm trục vít.</para>
+          <para id="id24001121">a):1- vỏ; 2- giá đỡ; 3- cửa hút; 4- xi lanh; 5- trục vít; 6- trục cacđăng; 7,8- khớp nối; 9- hộp đệm kín; 10- đệm kín; 11- hộp chèn; 12- ống lót; 13- thân ổ đỡ; 14,16- ổ bi; 14- trục chính. b) bơm hai trục vít: 1- bánh dẫn động; 2- bánh bị dẫn; 3- thân bơm.</para>
+          <para id="id24001136">Bơm một trục vít ( Hình 7 - 7,a ) bơm này có ưu điểm là bơm được cả dung dịch đặc như bùn, mật, đường, hoa quả nghiền ... Chính vì vậy nó được dùng rộng rãi trong công nghiệp hóa, thực phẩm ...Ngoài ra ta còn có bơm 2 trục vít (Hình 7-7,b ) hoặc 3 trục vít. </para>
+          <para id="id24001156">Lưu lượng thật của bơm được tính theo công thức sau:</para>
+          <para id="id24001163">Q = 
+<m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>240</m:mtext></m:mfrac><m:mtext>.</m:mtext><m:mfrac><m:mi>p</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">)</m:mo><m:mtext>.</m:mtext><m:mi>t</m:mi><m:mtext>.</m:mtext><m:mi>n</m:mi><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mrow/></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"240"} }  "."  {  {p}  over  {4} }  \(  { size 24{D} }  rSup { size 8{2} } - { size 24{d} }  rSup { size 8{2} }  \)  "." t "." n "."  { size 24{h} }  rSub {} } {}</m:annotation></m:semantics></m:math>; ( l/s )( 7 - 7 )</para>
+          <para id="id23630163">Trong đó: D, d- đường kính đỉnh và chân của trục vít nằm giữa, dm ;</para>
+          <para id="id23630176"> t - bước vít, dm;</para>
+          <para id="id23630186"> n- số vòng quay, v/ph;</para>
+          <para id="id23630197"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mrow/></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub {} } {}</m:annotation></m:semantics></m:math> = 0,6 ... 0,95 - hiệu suất chung của bơm.</para>
+          <para id="id23630255">Từ công thức ( 7 - 7 ) ta thấy muốn thay đổi Q của bơm vít chỉ có cách thay đổi n .</para>
+        </section>
+        <section id="id-679955382402">
+          <title>Bơm vòng nước.</title>
+          <figure id="id23630275">
+            <media id="id1166750524100" alt=""><image src="../../media/graphics8-9d76.png" mime-type="image/png" height="227" width="475"/></media>
+          </figure>
+          <para id="id23630303"/>
+          <para id="id23551100"> Hình 7 - 8.Sơ đồ cấu tạo và nguyên lý làm việc bơm vòng nước. </para>
+          <para id="id23551113">Bơm vòng nước thuộc loại bơm thể tích. Nó thường dùng để tích nước trước khi khởi động máy bơm li tâm có hS dương, hoặc để hút khí duy trì một độ chân không nào đó trong thiết bị. Độ chân không nó tạo được từ - 0,8 ... - 0,9 át. BXCT của máy bơm này đặt lệch tâm với tâm vỏ trụ. Nguyên tắc hoạt động của nó như sau: Đầu tiên đổ nước vào trong trụ ( khoảng chừng một nửa ). Khi bánh xe quay, nước sẽ bắn ra chu vi vỏ trụ tạo thành một vòng nước 7. Vòng nước này phần trên tiếp xúc với đỉnh ống lót C của BXCT, phần dưới của ống lót tạo thành các ngăn không khí 1, 2, 3, 4, 5, 6. Các ngăn 1, 2, 3 là ngăn hút; các ngăn 4, 5, 6 là ngăn đẩy. Khi BXCT quay theo chiều kim đồng hồ thì thể tích các ngăn tăng dần, trong nó chân không được tạo thành, hút không khí từ ống hút qua khe cửa lưỡi liềm A vào khoang. Đồng thời thể tích các ngăn 4, 5, 6 giảm dần, không khí từ chúng bị đẩy qua cửa ra dạng lưỡi liềm B vào ống đẩy. Khi BXCT quay, một phần nước bị đẩy vào ống đẩy , do vậy để duy trì vòng nước cần cần liên tục bổ sung đủ nước cho bơm, đồng thời cũng cần tản nhiệt cho bơm khi nó hoạt động.</para>
+          <para id="id23551161">Lưu luợng không khí hoặc ga được bơm khi nhúng cánh BXCT sâu vào vòng nước một độ sâu a và đỉnh trên của ống lót tiếp xúc với vòng nước sẽ là:</para>
+          <para id="id23551175">Q = {
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mfrac><m:mi>p</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mn>2a</m:mn></m:mrow><m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">−</m:mo><m:mi>Z</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:mtext>.</m:mtext><m:mi>s</m:mi></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:mi>b</m:mi><m:mfrac><m:mi>n</m:mi><m:mtext>60</m:mtext></m:mfrac><m:msub><m:mi>h</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>q</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mrow></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {  {p}  over  {4} }  \[  \(  { size 24{D} }  rSub { size 8{1} } -2a \)  rSup { size 8{2} } - { size 24{D} }  rSub { size 8{o} }  rSup { size 8{2} }  \] -Z \(  { size 24{l} }  rSub { size 8{1} } -a \)  "." s rbrace  "." b {  {n}  over  {"60"} } h rSub { size 8{q} } } {}</m:annotation></m:semantics></m:math>m ; ( m3/s )( 7 - 8 )</para>
+          <para id="id24000474">Trong đó: D1, Do- đường kính BXCT và đường kính ống lót C, m;</para>
+          <para id="id24000489"> Z- số cánh BXCT; b- bề rộng cánh , m;</para>
+          <para id="id23972022"> s,l1- bề dày và chiều dài cánh , m;</para>
+          <para id="id23972038"> n - vòng quay, v/ph;</para>
+          <para id="id23972048"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>q</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{q} } } {}</m:annotation></m:semantics></m:math>- hiệu suất dung tích , bằng 0,7 ... 0,8. Hiệu suất chung của máy bơm chân không vòng nước rất thấp ( 0,2 ... 0,3 ).</para>
+        </section>
+        <section id="id-308453479699">
+          <title>Bơm cánh trượt.</title>
+          <para id="id23972125">Bơm rô to cánh trượt thường có lưu lượng từ 0,25 ... 20 m3/h, áp suất từ 1,5 ... 10 at. Nguyên lý cấu tạo và hoạt động của bơm này thể hiện ở Hình 7 - 9.</para>
+          <figure id="id23972148">
+            <media id="id1166750031043" alt=""><image src="../../media/graphics9-6cad.png" mime-type="image/png" height="278" width="591"/></media>
+          </figure>
+          <para id="id24396885"/>
+          <para id="id24396892"> Hình 7 - 9. Nguyên lý cấu tạo và hoạt động bơm rô to cánh trượt </para>
+          <para id="id24396905">Hoạt động của bơm rô to cánh trượt như sau ( Hình 7 - 9,a ): Khi rô to quay với vòng quay đủ lớn để các cánh 1 dưới tác dụng của lực li tâm tì sát cạnh ngoài vào mặt trụ của stator 4 có lệch tâm với rôto 3 là e. Các cánh 1 vừa quay theo rôto 3 vừa dịch chuyển qua lại trong rãnh 2 của rôto 3. Khi cánh 1 bắt đầu rời vị trí I thì quá trình hút bắt đầu. Cánh 1 đến vị trí II rồi III thì quá trình hút của mỗi khoang a nằm giữa hai cánh đã hoàn thành. Khi cánh rời vị trí III thì quá trình đẩy bắt đầu kết thúc khi cánh đến vị trí IV. </para>
+          <para id="id24396937">Lưu lượng thực tế của bơm sẽ là:</para>
+          <para id="id24396946">Q =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>e</m:mi><m:mtext>.</m:mtext><m:mi>b</m:mi><m:mtext>.</m:mtext><m:mi>n</m:mi><m:mtext>.</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>2p</m:mn><m:mtext>.</m:mtext><m:mrow><m:mi>R</m:mi><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">Ze</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mtext>60</m:mtext></m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>q</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2e "." b "." n "."  \( 2p "." R-Ze \) }  over  {"60"} }  { size 24{h} }  rSub { size 8{q} } } {}</m:annotation></m:semantics></m:math>; ( l/s )( 7 - 9 )</para>
+          <para id="id23633890">Trong đó: R- bán kính vỏ, dm;</para>
+          <para id="id23633899"> b, - bề rộng và bề dày cánh, dm; </para>
+          <para id="id23633915">e- độ lệch tâm, dm;</para>
+          <para id="id23633920">Z- số cánh; q- hiệu suất dung tích bằng 70 ... 95%.</para>
+        </section>
+      </section>
+      <section id="id-402368857962">
+        <title>Máy bơm xoáy.</title>
+        <para id="id23633947">Máy bơm xoáy bơm được lưu lượng từ 1 ... 50 m3/h , cột nước từ 25 ... 100 m. Hình 7 - 10 dưới đây trình bày cấu tạo và nguyên lý hoạt động của máy bơm xoáy:</para>
+        <para id="id23633967">
+          <figure id="id23633970">
+            <media id="id1166756626609" alt=""><image src="../../media/graphics10-1ad6.png" mime-type="image/png" height="188" width="408"/></media>
+          </figure>
+        </para>
+        <para id="id23634003"/>
+        <para id="id22850458">Hình 7 - 10. Cấu tạo và nguyên lý hoạt động của bơm xoáy.</para>
+        <para id="id22850467">Cấu tạo của bơm xoắn có phần giống bơm li tâm, tuy nhiên nguyên lí làm việc lại khác, chúng dùng ma sát để hút, nén và đẩy chất lỏng. Bánh xe công tác của bơm xoáy có các cánh phẳng hướng kính 2 tạo nên những rãnh guồng 5. Bao quanh chu vi BXCT là rãnh dẫn vòng 3 bị chia cắt cửa vào và ra bởi vách ngăn. Khi BXCT 1 quay các phần tử chất lỏng bị cuốn vào rãnh guồng 5, nhận thêm năng lượng, rồi lại bị lực li tâm đẩy văng trở lại vòng dẫn 3, tiếp đến lại bị cuốn vào rãnh guồng động để nhận thêm năng lượng mới ... Quá trình cứ lặp đi lặp lại trên toàn đoạn đường đi của chất lỏng tạo nên dòng chuyển động xoáy. Bởi vậy so với bơm li tâm có cùng đường kính BXCT và cùng vòng quay cột nước do bơm xoáy tạo ra tăng lên 2 đến 4 lần. Cột nước của bơm xoáy được tính theo công thức sau: </para>
+        <para id="id22850515">H = u2/2g; ( m )( 7 - 10 )</para>
+        <para id="id22850542">Trong đó:  là hệ số cột nước, bằng 3,3 ... 4,5;</para>
+        <para id="id22850558"> u = Dn/60 là vận tốc theo, m/s;</para>
+        <para id="id22850574">D đường kính bánh xe công tác, m;</para>
+        <para id="id22850582">n là vòng quay BXCT, v/ph.</para>
+        <para id="id22850590">Do bị tổn hao do ma sát lớn nên hiệu suất của loại máy bơm này thấp  = 25 ... 48%.</para>
+      </section>
+    </section>
+    <section id="id-851822935832">
+      <title>MÁY BƠM TIA</title>
+      <para id="id24057104">Máy bơm tia thuộc loại bơm ma sát. Nguyên lý làm việc của nó là dùng một nguồn tia chất lỏng bên ngoài, gọi là chất lỏng công tác, truyền động năng của nó để kéo chất lỏng cần bơm. Hình 7 - 11 trình bày nguyên tắc cấu tạo và làm việc của bơm tia. Nguồn chất lỏng công tác được lấy ở trên cao, dẫn theo ống 2 qua vòi phun 5 đưa vào buồng hỗn hợp 7, cung cấp năng lượng để hút nước cần bơm từ bể hút 4 qua ống hút 1, đẩy nước lên bể tháo 3. Trong vòi 5, tốc độ chất lỏng công tác và động năng tăng, còn thế năng và áp năng bị giảm. Khi tốc độ đạt tới trị số xác định thì áp suất trong buồng hút 6 giảm nhỏ hơn áp suất không khí và xuất hiện chân không. Dưới tác dụng của chân không nước sẽ được hút lên từ bể 4 theo ống 1 vào buồng hút 6 rồi buồng hỗn hợp 7. Ở trong buồng hỗn hợp, dòng chất lỏng công tác và dòng chất lỏng cần bơm trộn vào nhau, khi đó chất lỏng công tác truyền một phần năng lượng của mình cho chất lỏng cần bơm . Sau đó dòng chất lỏng hỗn hợp chuyển vào đoạn khuếch tán 8, tại đây vận tốc dòng chảy giảm dần và cột nước tĩnh tăng, dòng chất lỏng được đưa lên bể 3.</para>
+      <figure id="id24057145">
+        <media id="id1166754839784" alt=""><image src="../../media/graphics11-a27e.png" mime-type="image/png" height="368" width="280"/></media>
+      </figure>
+      <para id="id24057173"/>
+      <para id="id24057180">Hình 7 - 11. Sơ đồ thiết bị bơm tia.</para>
+      <para id="id24057190">Nếu bỏ qua tổn thất cột nước thì công suất tiêu phí của bơm tia để bơm nước từ bể 4 lên bể 3 là:</para>
+      <para id="id24057202"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mrow/></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {}  rSub {} } {}</m:annotation></m:semantics></m:math>N =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{g} }  rSub { size 8{p} }  { size 24{Q} }  rSub { size 8{p} }  { size 24{H} }  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math>( 7 - 11 )</para>
+      <para id="id24071447">công suất hữu ích là:</para>
+      <para id="id24071452"> Nhi = QH ( 7 - 12 )</para>
+      <para id="id24071488">Trong đó : Qp - lưu lượng của chất lỏng công tác, m3/s;</para>
+      <para id="id24071500"> Q - lưu lượng của bơm tia, m3/s;</para>
+      <para id="id24071521">H1 - cột nước công tác, m;</para>
+      <para id="id23623031">H - chiều cao nâng, m;</para>
+      <para id="id23623039">p - trọng lượng riêng của chất lỏng công tác, kN/m3.</para>
+      <para id="id23623062">Hiệu suất của máy bơm tia khi chất lỏng công tác và chất lỏng cần cùng là nước :</para>
+      <para id="id23623073">  = Q.H / (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{p} }  { size 24{H} }  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math>)( 7 - 13 ).</para>
+      <para id="id23623171">Tỷ số giữa lưu lượng của chất lỏng cần bơm và chất lỏng công tác, gọi làhệ số pha trộn  = Q /
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{p} } } {}</m:annotation></m:semantics></m:math>, còn tỷ số giữa chiều cao nâng chất lỏng và cột nước công tác gọi là hệ số cột nước  = H / H1. Vậy hiệu suất của máy bơm tia  = . Thường hiệu suất máy bơm tiêu rất thấp, từ 15 ... 25%.</para>
+      <para id="id24057392">Lưu lượng chất lỏng công tác qua vòi phun 5 là: </para>
+      <para id="id24057401"> Qp = QH / [( H1 - H ) ]( 7 - 14 )</para>
+      <para id="id24057434">Bơm tia được sử dụng rộng rãi để bơm nước từ các hố đào, dâng và vận chuyển bùn </para>
+      <para id="id23540780">quặng, tháo nước trong thi công, tháo nước mưa, tách khí trong ống hút bơm li tâm trước khi khởi đông bơm li tâm. Ưu điểm chính của máy bơm tia là kết cấu đơn giản, kích thước nhỏ, an toàn. Nhược điểm của nó là hiệu suất rất thấp và cột nước công tác có áp lực cao.</para>
+    </section>
+    <section id="id-679711532958">
+      <title>MÁY BƠM DÂNG BẰNG KHÍ NÉN.</title>
+      <para id="id23540803">Máy bơm dâng bằng khí nén, còn gọi là bơm sục khí, có thể dâng nước từ các lổ khoan. Loại bơm này được sử dụng rộng rãi hơn cả là bơm nước chứa bùn cát từ các lổ khoan trước khi đặt đặt máy bơm nhúng li tâm, hoặc dâng nước từ lỗ khoan nếu có yêu cầu tách ga khỏi nước. Nguyên tắc hoạt động của bơm này là dùng quy tắc bình thông nhau. Hình 7 - 12, mô tả về cấu tạo của máy bơm sục khí. Khí nén được dẫn theo ống theo ống 4 vào miệng phun 2 vào ống dâng 3. Trong ống 3 nước và khí nén tạo nên hỗn </para>
+      <figure id="id23540838">
+        <media id="id3564676" alt=""><image src="../../media/graphics12-9b5b.png" mime-type="image/png" height="384" width="485"/></media>
+      </figure>
+      <para id="id23540866"/>
+      <para id="id23540875">Hình 7 - 12. Bơm sục khí. Hình 7 - 13. Bơm nước va.</para>
+      <para id="id23540890">hợp khí và nước ( nhũ tương ). Hố khoan đầy nước và ống dâng đầy hỗn hợp khí và nước tạo thành những bình thông nhau. Vì tỷ trọng của hỗn hợp nhỏ hơn tỷ trọng nước, do vậy nước đẩy hỗn hợp lên mặt nước, đó cũng chính là nguyên tắc làm việc của loại máy bơm này. Nhũ tương khí nước theo đường ống sẽ được dâng lên độ cao
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>, nếu :</para>
+      <para id="id23625578"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mtext>.</m:mtext><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mi>h</m:mi></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g "." h= { size 24{g} }  rSub { size 8{ ital "hh"} }  \(  { size 24{H} }  rSub { size 8{ ital "dh"} } +h \) } {}</m:annotation></m:semantics></m:math>( 7 - 15 )</para>
+      <para id="id23625699">Trong đó: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mi>,</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g, { size 24{g} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math>là trọng lượng riêng của nước và của hỗn hợp, N/m3;</para>
+      <para id="id24074441">h là độ ngập sâu của miệng phun dưới mực nước động, m.</para>
+      <para id="id24074450">Như vậy có nghĩa là chiều caodâng nước phụ thuộc vào quan hệ tỷ trọng nước, tỷ trọng hỗn hợp khí nước và độ sâu đặt miệng phun.</para>
+      <para id="id24074464">Khi đạt đến mút ống 3, hỗn hợp sẽ vào bể 6, từ đây khí và nước sẽ được tách ra: phần nước sẽ theo ống 5 đến nơi dùng, còn khí sẽ thải ra ngoài theo ống 7.</para>
+      <para id="id24074479">Từ ( 7 - 15 ) rút ra được
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g \( H- { size 24{H} }  rSub { size 8{ ital "dh"} }  \) = { size 24{g} }  rSub { size 8{ ital "hh"} } H} {}</m:annotation></m:semantics></m:math>; ở đây H là độ sâu nhúng của miệng phun, mét. Cũng từ đây biến đổi tiếp, ta có kết quả:</para>
+      <para id="id24059816">H =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">/</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mi>K</m:mi></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} }  "." g/ \( g- { size 24{g} }  rSub { size 8{ ital "hh"} }  \) =K { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>, m;( 7 - 16 )</para>
+      <para id="id23888240">Ở đây K là hệ số nhúng miệng phun, nó nói lên rằng H lớn hơn 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>bao nhiêu lần. Bảng sau đây cho ta quan hệ giữa K và hiệu suất của bơm nhúng  theo
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <table id="id24059628" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Chỉ số</entry>
+              <entry namest="c2" nameend="c6">Chiều cao dâng của hỗn hợp
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>, m</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>&lt;15</entry>
+              <entry>15 ... 30 </entry>
+              <entry>30 ... 60</entry>
+              <entry>60 ... 90</entry>
+              <entry>90 ... 120</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>3,0 ... 2,5</entry>
+              <entry>2,5 ... 2,2</entry>
+              <entry>2,2 ... 2,0</entry>
+              <entry>2,0 ... 1,75 </entry>
+              <entry>1,75 ... 1,65</entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>0,59 ... 0,57</entry>
+              <entry>0,57 ... 0,54</entry>
+              <entry>0,54 ... 0,5</entry>
+              <entry>0,5 ... 0,41</entry>
+              <entry>0,41 ... 0,40</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id23623995">Đầu cuối của ống dâng cần thấp hơn miệng phun từ 3 ... 6 mét.</para>
+      <para id="id23624006">Tiêu hao cần thiết của không khí goị là suất tiêu hao q( tính bằng m3), để dâng 1 m3 nước với hiệu suất và áp suất khí trời đã cho:</para>
+      <para id="id23624030">q =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>23</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>lg</m:mtext><m:mo stretchy="false">[</m:mo><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">/</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">]</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{H} }  rSub { size 8{ ital "dh"} } }  over  {"23" { size 24{h} }  rSub { size 8{'} } "lg" \[  \( H- { size 24{H} }  rSub { size 8{ ital "dh"} } +"10" \) /"10" \] } } } {}</m:annotation></m:semantics></m:math> ( 7 - 17 )</para>
+      <para id="id23534582">Công thức ( 7 - 17 ) nhận được trên cơ sở phân tích công tiêu hao trên máy nén để nén khí theo chu trình đẳng nhiệt.</para>
+      <para id="id23534592">Hiệu suất của bơm dâng bằng khí nén tính theo công thức:</para>
+      <para id="id23534602"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mi>g</m:mi></m:mrow><m:mtext>.</m:mtext><m:mi>Q</m:mi><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mi>A</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{'} } =g "." Q { size 24{H} }  rSub { size 8{ ital "dh"} } /A} {}</m:annotation></m:semantics></m:math>. Ở đây Q là lưu lượng nước cần bơm lên độ cao
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math>, m3/s. A là năng lượng khí nén ở từ cửa ra miệng phun vào ống nâng, kW. Vậy lượng khí cần thiết để dâng lưu lượng Q trong điều kiện nhiết độ không khí 15 ... 200C là :</para>
+      <para id="id22862258">W = q.Q/60, m3/ph ( 7 - 18 )</para>
+      <para id="id22862280">Khi nhiệt độ khác 15 ... 200C thì phải nhân thêm hệ số hiệu chỉnh k ( ở vùng trung Á Liên Xô cũ k = 1,2 ).</para>
+      <para id="id22862294">Áp suất không khí cần cần thiết để nâng được nước là: p = 0,01 ( H - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh"} } } {}</m:annotation></m:semantics></m:math> + ht ), trong đó ht là tổn thất cột áp trong ống dẫn khí ở đoạn từ máy nén khí đến miệng phun, thường ht &lt; 5 m .</para>
+      <para id="id24109917">Máy bơm dâng bằng khí nén có ưu điểm là đơn giản, an toàn, có khả năng dâng nước từ các hố đứng sâu. Nhưng nhược điểm của nó là hiệu suất rất thấp ( 20 ... 25 % ) và chỉ dâng được nước ở hố sâu, điều này gây nên yêu cầu đặt sâu ống dưới mực nước động.</para>
+    </section>
+    <section id="id-186630635134">
+      <title>BƠM NƯỚC VA ( BƠM TA RAN ).</title>
+      <para id="id24109944">Bơm nước va, đó là loại bơm lợi dụng hiện tượng nước va trong đường ống áp lực để bơm nước. Hình 7 - 13 thể hiện sơ đồ cấu tạo và nguyên lý hoạt động của loại máy bơm này. Để bơm nước từ nguồn 7 lên bể 6 ta đăt thiết bị bơm thấp hơn nguồn 7 một độ cao </para>
+      <para id="id24109968">không dưới 1 mét và phải tháo qua bơm nước va một lưu lượng lớn hơn lưu lượng cần bơm một vài lần. Trước khi máy bơm nước va làm việc, van trên đường ống cấp nước 1 đóng. Van tháo 2 do sức nặng bản thân hạ xuống và có thể xả nước từ ống cấp ra ngoài, van 3 đóng. Khi mở van trên ống 1, dưới tác dụng của cột nước H1 nước từ nguồn 7 theo ống cấp 1 bắt đầu chảy ra ngoài trời qua van 2 với vận tốc tăng. Dưới tác dụng của áp lực thủy động bên dưới, van 2 được nâng lên làm ngừng dòng nước đang chảy ra ngoài. Vận tốc dòng nước trong ống 1 đột nhiên giảm dẫn đến xuất hiện hiện tượng nước va thủy lực, kéo theo tăng áp đột ngột. Khi áp lực trong ống cung cấp nước vượt quá áp lực trong buồng khí 4, nắp van 3 mở và nước tràn vào. Sau đó dưới tác dụng của áp lực dư, nước từ buồng không khí 4 theo ống đẩy 5 đẩy lên bể 6 với cột nước H2. Áp lực trong ống cung cấp 1 bắt đầu giảm, van đẩy 3 bắt đầu đóng lại, nước từ nguồn theo đường ống 1 lại qua van va đập 2 thoát ra ngoài, và quá trình lại lặp lại từ đầu ... Bơm nước va hoạt động tự động. Để an toàn làm việc của nó chiều dài ống cung cấp nước 1 cần khoàng từ 5 ... 8 lần chiều cao cột nước H1.</para>
+      <para id="id23962812">Hiệu suất của máy bơm nước va thủy lực: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>q</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>Q</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h= {  {q { size 24{H} }  rSub { size 8{2} } }  over  {Q { size 24{H} }  rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math>( 7 - 19 )</para>
+      <para id="id23962910">Trong đó: q là lưu lương của bơm. m3/s, còn Q là lưư lượng công tác, m3/s.</para>
+      <para id="id23962932">Hiệu suất của máy bơm nước va, lưu lượng q, lưu lượng nước công tác Q và tỷ số H2/H1 có liên quan với nhau theo bảng sau:</para>
+      <table id="id23962955" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>H2/H1</entry>
+              <entry></entry>
+              <entry>q/Q</entry>
+              <entry>H2/H1</entry>
+              <entry></entry>
+              <entry>q/Q</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>0,84</entry>
+              <entry>0,29</entry>
+              <entry>12</entry>
+              <entry>0,43</entry>
+              <entry>0,034</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>0,72</entry>
+              <entry>0,152</entry>
+              <entry>16</entry>
+              <entry>0,32</entry>
+              <entry>0,0196</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>0,63</entry>
+              <entry>0,118</entry>
+              <entry>20</entry>
+              <entry>0,23</entry>
+              <entry>0,0112</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>0,49</entry>
+              <entry>0,046</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id23602736">Bơm nước va có lưu lượng từ 5 ... 18 l/s và cột nước đến 150 mét.</para>
+      <para id="id24311607">Trên đây đã trình bày thêm những loại máy bơm thông dụng trong thực tế của nhiều lĩnh vực sản xuất và đời sống, còn nhiều loại bơm khác chưa đề cập đến, người đọc có thể tìm hiểu thêm trong các tài liệu chuyên ngành khi gặp phải ứng dụng của chúng.</para>
+    </section>
+  </content>
+</document>

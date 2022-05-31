@@ -1,0 +1,824 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các thiết bị cơ điện chính của trạm bơm</title>
+  <metadata>
+  <md:content-id>m30464</md:content-id><md:title>Các thiết bị cơ điện chính của trạm bơm</md:title>
+  <md:abstract>Phần này trình bày về thành phần thiết bị chính và yêu cầu với trạm  bơm</md:abstract>
+  <md:uuid>a3ca9190-1a56-4f7d-9e6f-62fc8e3156a4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-761917434566">
+      <title>THÀNH PHẦN THIẾT BỊ CHÍNH VÀ YÊU CẦU ĐỐI VỚI MÁY BƠM.</title>
+      <para id="id4666305">Các thiết bị chính trong trạm bơm gồm có : các thiết bị cơ khí thủy lực chính và các thiết bị về năng lượng chính:</para>
+      <para id="id4666321">Các thiết bị cơ khí thủy lực chính của trạm bơm đảm bảo cung cấp đủ nước cho các hộ dùng nước ( hoặc tiêu nước ) tương ứng với biểu đồ lưu lượng yêu cầu. Thành phần của thiết bị này gồm có : các tổ máy hoặc các cụm thiết bị tham gia trực tiếp vào qúa trình công nghệ bơm nước theo biểu đồ lưu lượng đã định như : các máy bơm chính, các thiết bị trên đường ống áp lực ( van, thiết bị an toàn, van ngược ... ).</para>
+      <para id="id5110948">Các thiết bị năng lượng chính của trạm bơm nhằm đảm bảo làm việc của các máy bơm chính, gồm có : động cơ để kéo máy bơm chính và các thiết bị để truyền công suất từ trục động cơ cho trục bơm chính.</para>
+      <para id="id5110969">Kiểu và nhãn hiệu của máy bơm chính được chọn dựa vào kết quả tính toán kinh tế - kỹ thuật, luận chứng được tính hợp lý của việc sử dụng nó trong trạm bơm. Việc tính toán không chỉ riêng về giá thành của trạm mà còn phải tính cả đến chi phí vận hành năm của trạm. Đối với trạm bơm tưới và tiêu cũng như trạm bơm cấp nước nông thôn thông thường sử dụng máy bơm cánh quạt.</para>
+      <para id="id5110986">Các máy bơm chính được chọn cần phải thỏa mãn các yêu cầu sau:</para>
+      <para id="id4039384">- Đảm bảo cấp đủ lưu lượng nước theo biểu đồ đã định trong suốt mùa với mức an toàn và kinh tế cao;</para>
+      <para id="id4039395">- Làm việc với hiệu suất cao trong mọi chế độ làm việc;</para>
+      <para id="id4039403">- Có kích thước và khối lượng nhỏ nhất;</para>
+      <para id="id4039410">- Có khả năng phòng chống khí thực tốt nhất để cao trình đặt máy bơm cho phép việc xây dựng trạm bơm với chi phí nhỏ nhất;</para>
+      <para id="id4039422">- Tiện lợi trong lắp đặt và vận hành, dễ sữa chữa;</para>
+      <para id="id4039430">- Có khả năng chống được nước xâm thực;</para>
+      <para id="id4039437">- Máy bơm đã được sản xuất hàng loạt nhắm giá rẽ và tiến độ lắp ráp nhanh.</para>
+      <para id="id4591180">Tất nhiên chọn được một máy bơm đồng thời thỏa mãn các yêu cầu nêu trên thường là khó, bởi vậy trong mỗi trường hợp cụ thể cần dựa vào những yêu cầu quan trọng nhất cho hiệu quả tốt nhất về kinh tế - kỹ thuật cho xây dựng và vận hành trạm. Các máy bơm chính được chia ra thành: máy bơm chính, máy bơm dự trữ và "máy bơm bổ sung".</para>
+    </section>
+    <section id="id-777151302003">
+      <title>TÍNH TOÁN CÁC THÔNG SỐ VÀ CHỌN MÁY BƠM CHÍNH.</title>
+      <para id="id4591207">Các thông số cơ bản để chọn máy bơm là cột nước tính toán ( Htt ) và lưu lượng tính toán ( Qtt ) của mỗi máy bơm. </para>
+      <section id="id-279134867007">
+        <title>Tính toán các cột nước.</title>
+        <section id="id-502205959653">
+          <title>Cột nước thiết kế Htk</title>
+          <para id="id4654963">Cột nước thiết kế của máy bơm cũng chính là cột nước của trạm bơm, nó được xác </para>
+          <para id="id4654975">định bằng tổng của chiều cao bơm nước địa hình bình quân (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bqdh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "bqdh"} } } {}</m:annotation></m:semantics></m:math>) và tổn thất cột </para>
+          <para id="id4502604">nước từ bể hút đến bể tháo ( gồm tổn thất cục bộ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "cb"} } } {}</m:annotation></m:semantics></m:math>và tổn thất dọc đường hd):</para>
+          <para id="id4022578"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bqdh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "tk"} } = { size 24{H} }  rSub { size 8{ ital "bqdh"} } + { size 24{h} }  rSub { size 8{ ital "cb"} } + { size 24{h} }  rSub { size 8{d} } } {}</m:annotation></m:semantics></m:math>( 9 - 1 )</para>
+          <para id="id4519241">Trong công thức ( 9 - 1 ), các thành phần cột nước tính như sau:</para>
+          <para id="id4519251">Trong giai đoạn đang tiến hành chọn máy chúng ta chưa có đường ống cụ thể,do vậy các trị số các cột nước tổn thất chỉ lấy sơ bộ theo kinh nghiệm : Tổn thất dọc đường lấy 2 ... 3 m trên 1000 m dài đường ống, còn tổn thất cục bộ lấy 0,7 ... 2 m.</para>
+          <para id="id4519275">Máy bơm chính dùng trong trạm phải chọn theo cột nước thiết kế có tính đến sự giao động của mực nước ở bể hút và bể tháo sao cho trạm bơm làm việc với hiệu suất cao trong mọi thời kỳ làm việc, do vậy phải dùng cột nước bình quân có kể tới duy trì thời gian tương ứng ( bình quân gia quyền ). Cột nước này tính theo lý luận sau : Công tiêu hao để bơm lượng nước lên với cột nước bình quân gia quyền bằng công cần tiêu hao để bơm lượng nước ấy với các cột nước thay đổi theo các thời kỳ, nghĩa là:</para>
+          <para id="id4519297">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>g</m:mi>
+                        <m:mtext>.</m:mtext>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>bqdh</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mtext>.</m:mtext>
+                        <m:munderover>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>Q</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mtext>.</m:mtext>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>t</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mi>g</m:mi>
+                        </m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:munderover>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>S</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mo stretchy="false">(</m:mo>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>Q</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mtext>.</m:mtext>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mtext>.</m:mtext>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>t</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{g "."  { size 24{H} }  rSub { size 8{ ital "bqdh"} }  "."  { size 24{S} }  cSub { size 8{i=1} }  cSup { size 8{n} }  \(  { size 24{Q} }  rSub { size 8{i} }  "."  { size 24{t} }  rSub { size 8{i} }  \) =g "."  { size 24{S} }  cSub { size 8{i=1} }  cSup { size 8{n} }  \(  { size 24{Q} }  rSub { size 8{i} }  "."  { size 24{H} }  rSub { size 8{i} }  "."  { size 24{t} }  rSub { size 8{i} }  \) } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id4726525">từ đây rút ra cột nước bình quân gia quyền địa hình:</para>
+          <para id="id4726532"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bqdh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:munderover><m:mstyle fontsize="24pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mo stretchy="false">(</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:munderover><m:mstyle fontsize="24pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mo stretchy="false">(</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "bqdh"} } = {  { { size 24{S} }  cSub { size 8{i=1} }  cSup { size 8{n} }  \(  { size 24{Q} }  rSub { size 8{i} }  "."  { size 24{H} }  rSub { size 8{i} }  "."  { size 24{t} }  rSub { size 8{i} }  \) }  over  { { size 24{S} }  cSub { size 8{i=1} }  cSup { size 8{n} }  \(  { size 24{Q} }  rSub { size 8{i} }  "."  { size 24{t} }  rSub { size 8{i} }  \) } } } {}</m:annotation></m:semantics></m:math>( 9 - 2 )</para>
+          <para id="id4022306">trong đó : Qi, Hi là lưu lượng và cột nước địa hình tương ứng với thời kỳ ti.</para>
+          <para id="id5212570">Các trị số cột nước địa hình Hi là hiệu số mực nước ở bể tháo và mực nước bể hút, do vậy nó phụ thuộc vào chế độ mực nước trong hai bể. Cụ thể:</para>
+          <para id="id5212585">* Đối với trạm bơm lấy nước từ sông, mực nước bể hút phụ thuộc vào chế độ thủy văn của sông. Để xác định cột nước bình quân địa hình ta dùng giao động mực nước sông của năm thủy văn trung bình ( tần suất p = 50 % ) để tính toán, còn mực nước ở bể tháo phụ thuộc vào mực nước trong kênh tưới nối bể tháo . Nếu trên kênh tưới nầy không có công trình điều tiết đặc biệt thì mực nước trong kênh phụ thuộc lưu lượng và theo trạng thái chảy đều trong kênh. Mực nước sau trạm bơm tiêu phụ thuộc chế độ thủy văn của khu nhận nước tiêu:</para>
+          <para id="id5212619">- Khi khu nhận nước tiêu là sông thì mực nước phụ thuộc vào hình thức công trình chuyển nước ra sông, nếu dùng kênh hở chuyển nước ra sông thì lấy quá trình mực nước sông theo năm thủy văn trung bình trong thời kỳ tiêu nước.</para>
+          <para id="id3763416">- Nếu khu nhận nước tiêu là ao, hồ chứa thì phải qua tính toán điều tiết hồ để xác định quá trình thay đổi mực nước theo thời gian tiêu.</para>
+          <para id="id3763430">* Mực nước ở bể hút của trạm bơm tiêu phụ thuộc vào đặc tính thiết kế và chế độ làm việc của trạm bơm tiêu. Cụ thể như sau:</para>
+          <para id="id3763444">- Nếu trạm bơm tiêu triệt để, nghĩa là tiêu hết toàn bộ nước trong khu tiêu, thì mực nước lớn nhất trong kênh tiêu đến nhà máy phải được ấn định để tiêu hết khu tiêu, mực nước thay đổi phụ thuộc vào trị số lưu lượng được tải trong kênh . Nếu trước trạm </para>
+          <para id="id3763463">bơm có xây bể điều tiết thì mực nước trong bể hút sẽ do khả năng điều tiết của bể quyết định. Tuy nhiên việc xây bể điều tiết phải thông qua tính toán kinh tế mà quyết định.</para>
+          <para id="id3769149">- Nếu trạm bơm chỉ yêu cầu tiêu đến một cao trình nào đó, còn lại một số diện tích vẫn để ngập. Trong trường hợp này giao động mực nước ở bể hút sẽ phụ thuộc vào diện tích và địa hình khu ngập nước, thời gian cho phép ngập và lưu lượng đến trạm.</para>
+          <para id="id3769165">* Nếu trạm bơm lấy nước tưới từ kênh chính hoặc bơm tưới riêng biệt ở các hệ thống tưới tự chảy thường thiết kế kênh dẫn và kênh tháo có cùng mặt cắt khi địa chất tuyến giống nhau. Trường hợp này mọi cột nước địa hình đều bằng nhau. Còn nếu mặt cắt kênh dẫn và kênh tháo khác nhau thì cột nước địa hình bình quân sẽ lấy trung bình giữa cột nước địa hình lớn nhất ( Hđhmax ) và cột nước địa hình nhỏ nhất ( Hđhmin ):</para>
+          <para id="id3769195">Hbqdh = (Hđhmax + Hđhmin ) / 2( 9 -3 )</para>
+          <para id="id3760791">Công thức ( 9 - 3 ) cũng còn được dùng khi giao động mực nước hai bể nhỏ hơn 2 m.</para>
+        </section>
+        <section id="id-162729196521">
+          <title>Cột nước lớn nhất và nhỏ nhất</title>
+          <para id="id3760808">Trong vận hành thực tế của trạm bơm, ngoài cột nước thiết kế máy bơm còn làm việc cột nước thay đổi từ thấp nhất ( Hmin ) đến cao nhất ( Hmax ), để bảo đảm máy bơm làm việc hiệu suất cao và an toàn chúng ta cần pải biết các trị số cột nước giới hạn này để tiến hành kiểm tra những thông số kỹ thuật của máy bơm. </para>
+          <para id="id4043342">Cột nước lớn nhất được tính theo công thức:</para>
+          <para id="id4043352"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:mtext>max</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"max"} } = { size 24{H} }  rSub { size 8{ ital "dh" "." "max"} } + { size 24{h} }  rSub { size 8{ ital "cb"} } + { size 24{h} }  rSub { size 8{d} } } {}</m:annotation></m:semantics></m:math>( 9 - 4 )</para>
+          <para id="id4827535">Cột nước nhỏ nhất được tính theo công thức:</para>
+          <para id="id4827545"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:mtext>min</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"min"} } = { size 24{H} }  rSub { size 8{ ital "dh" "." "min"} } + { size 24{h} }  rSub { size 8{ ital "cb"} } + { size 24{h} }  rSub { size 8{d} } } {}</m:annotation></m:semantics></m:math>( 9 - 5 )</para>
+          <para id="id5212960">Trong đó các cột nước tổn thất cục bộ và dọc đường xác định như trường hợp thiết kế, còn các cột nước địa hình lớn nhất và nhỏ nhất xác định theo mực nước lớn nhất hay nhỏ nhất ở bể tháo ( Zbt ) và ở bể hút ( Zbh ) trong các trường hợp thiết kế và kiểm tra theo dạng công thức chung sau đây:</para>
+          <para id="id5212977">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>dh</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>max</m:mtext>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>Z</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bt</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>max</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>Z</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bh</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>min</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh" "." "max"} } = { size 24{Z} }  rSub { size 8{ ital "bt" "." "max"} } - { size 24{Z} }  rSub { size 8{ ital "bh" "." "min"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id3566368">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mstyle fontsize="24pt">
+                            <m:mrow>
+                              <m:mi>H</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>dh</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>min</m:mtext>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>Z</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bt</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>min</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>Z</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bh</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mtext>max</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "dh" "." "min"} } = { size 24{Z} }  rSub { size 8{ ital "bt" "." "min"} } - { size 24{Z} }  rSub { size 8{ ital "bh" "." "max"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id5160787">Các cột nước này chúng ta dùng kiểm tra vùng hiệu suất của máy bơm, kiểm tra khả năng phát sinh khí thực và vấn đề quá tải của động cơ, như đã đã trình bày ở chương III và chương V. Các cột nước lớn nhất và nhỏ nhất cùng tên cũng có giá trị khác nhau khi chúng ta tính cho trường hợp thiết kế hay trường hợp kiểm ta, như ở dòng chảy thiết kế có cột nước lớn nhất, nhỏ nhất thiết kế còn khi dùng dòng chảy kiểm tra sẽ có cột nước lớn nhất và nhỏ nhất kiểm tra. Việc tính toán các trường hợp này sẽ được dùng để đánh giá toàn diện các trường hợp vận hành có thể xảy ra đối với máy bơm và trạm bơm. Ngoài ra trong một số trường hợp cụ thể như thiết kế trạm bơm tưới ở vùng cao, việc xác định trạm bơm một cấp chung cho toàn bộ khu tưới không lợi về kinh tế bằng việc thay nó bằng hệ thống gồm 2, 3 cấp ... Có cách tính toán riêng chọn vị trí đặt các bể tháo của các cấp trạm. Gặp trường hợp này chúng ta có thể tham khảo cách tính ở tài liệu (2 ) hoặc so sánh kinh tế các phương án cấp trạm mà chọn, theo phương pháp tính chung .</para>
+        </section>
+      </section>
+      <section id="id-0162739015738">
+        <title>Tính toán chọn số máy bơm và lưu lượng thiết kế của máy bơm</title>
+        <para id="id3770407">Việc chọn số máy bơm và lưu lượng thiết kế của một máy bơm xuất phát từ yêu cầu thỏa mãn biểu đồ yêu cầu dùng nước ( về lưu lượng và lượng nước yêu cầu, Hình 9 -1 ) mà trạm bơm đảm nhận sao cho hiệu quả kinh tế là cao nhất. Muốn vậy phải qua so sánh kinh tế - kỹ thuật về các phương án số máy bơm về cả đầu tư cơ bản lẫn chi phí vận hành hàng năm mà quyết định số tổ máy và loại máy bơm. Các máy bơm được chọn phải thỏa mãn những yêu cầu đặt ra đối với máy bơm như đã đề cập ở mục A của chương này.</para>
+        <figure id="id3770418">
+          <media id="id1168948665673" alt=""><image src="../../media/graphics1-aa7c.png" mime-type="image/png" height="321" width="591"/></media>
+        </figure>
+        <para id="id4101385"/>
+        <para id="id4101394"> Hình 9 - 1. Các dạng biểu đồ yêu cầu nước Q - t.</para>
+        <para id="id4101407">a) Biểu đồ yêu cầu lưu lượng và sự thay đổi mực nước địa hình theo thời gian.</para>
+        <para id="id5187347">b) Biểu đồ lưu lượng yêu cầu (1) và biểu đồ lưu lượng do trạm bơm cung cấp (2).</para>
+        <para id="id5187358">Lưu lương thiết kế của một máy bơm 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> phụ thuộc vào số lượng máy bơm a, nhãn hiệu của máy bơm được chọn và biểu đồ nhu cầu nước. Lưu lượng thực tế của máy bơm giao động từ trị số lưu lượng nhỏ nhất 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> đến trị số lưu lượng lớn nhất 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>và được xác định trên đường đặc tính cột nước H - Q của máy bơm được chọn ứng với cột nước thiết kế lớn nhất nhất 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle><m:mtext>max</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "tk""max"} } } {}</m:annotation></m:semantics></m:math>và nhỏ nhất
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle><m:mtext>min</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "tk""min"} } } {}</m:annotation></m:semantics></m:math>. Việc chọn 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> có thể dựa các trường hợp sau:</para>
+        <para id="id3841337">Nếu biểu đồ lưu lượng yêu cầu có dạng bậc thang và lưu lượng của các bậc đều là bội (số nguyên ) của lưu lượng 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math>nào đó ( như Hình 9 -1,a ) thì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> lấy bằng 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math>). Trường hợp 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> này quá lớn, vượt quá lưu lượng của máy bơm đã sản xuất, ta có thể chia 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> cho 2, 3 .. cho phù hợp và lúc này
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{Q} }  rSub { size 8{"min"} } }  over  {2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{Q} }  rSub { size 8{"min"} } }  over  {3} } } {}</m:annotation></m:semantics></m:math>, ... và số lượng máy bơm trường hợp này là a =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{Q} }  rSub { size 8{"max"} } }  over  { { size 24{Q} }  rSub { size 8{ ital "tk"} } } } } {}</m:annotation></m:semantics></m:math>. Với số lượng máy bơm chọn được thì </para>
+        <para id="id4647982">biểu đồ lưu lượng và tổng lượng yêu cầu luôn được thỏa mãn với mọi giai đoạn bơm và được điều chỉnh bằng việc tăng hay giảm số máy giống nhau cùng tham gia vận hành song song cho phù hợp với yêu cầu của từng thời đoạn.Máy bơm được chọn theo trường hợp này có nhiều ưu điểm: vừa đảm bảo tính lưu chuyển của các tổ máy và những cụm chi tiết máy cùng kích cở trong sữa chữa lắp đặt, vừa nâng cao tinh an toàn cho cả trạm.</para>
+        <para id="id4648007">Tuy nhiên trong thực tê,́ biểu đồ yêu cầu nước phức tạp hơn biểu đồ a), chúng có dạng bậc nhưng các bậc này không phải là bội của 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> ( xem biểu đồ Hình 9 -1,b ), nếu lấy lưu lượng của từng bậc chia cho 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> sẽ là những số không nguyên. Trường hợp này lưu lượng thiết kế của máy bơm được xác định xuất phát từ yêu cầu thỏa mãn lưu lượng lớn nhất 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math> và nhỏ nhất
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math>. Số tổ máy được chọn theo kinh nghiệm, thường a = 2 ... 8 máy, tối thiểu là 2 ... 3 máy, tốt nhất là a = 4 ... 5 máy. ( Theo kinh nghiệm Liên Xô cũ: khi lưu lượng trạm Qtrạm  1 m3/s thì a = 2 ... 4 máy; khi Qtrạm  5 m3/s thì a = 3 ... 5; khi Qtrạm  30 m3/s thì a = 4 ... 6, còn khi Qtrạm &gt; 30 m3/s thì a = 5 ... 9 máy ). Như vậy lưu lượng thiết kế sẽ là: </para>
+        <para id="id4619585"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub><m:mi>a</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } = {  { { size 24{Q} }  rSub { size 8{"max"} } }  over  {a} } } {}</m:annotation></m:semantics></m:math>( 9 - 6 )</para>
+        <para id="id4892250">Biểu đồ yêu cầu dùng nước ( hoặc tiêu nước ) đã cho tương ứng với lưu lượng 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Q} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> được tính theo công thức ( 9 - 6 ) được xây dựng lại thành sơ đồ bậc sao cho giữ được dung tích tổng của lượng nước cần ( ứng với đường 1 ) bằng dung tích tổng mà bơm cung cấp được ( ứng với đường 2 ), nghĩa là
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>S</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mtext>yeu</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cau</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mrow><m:mi fontstyle="italic">Dt</m:mi><m:mo stretchy="false">=</m:mo><m:mi>S</m:mi></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bom</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mi fontstyle="italic">Dt</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{S { size 24{Q} }  rSub { size 8{"yeu" ital "cau"} }  "." Dt=S { size 24{Q} }  rSub { size 8{ ital "bom"} }  "." Dt} {}</m:annotation></m:semantics></m:math>. Cách chọn lưu lượng thiết kế và số máy theo ( 9 - 6 ) mới thỏa mãn được yêu cầu về lưu lượng lớn nhất và yêu cầu về tổng lượng nước yêu cầu mà chưa bảo đảm về mặt lưu lượng của từng giai đoạn ( từng bậc ) tưới. Do vậy cần dựa vào biểu đồ yêu cầu, so sánh giữa yêu cầu lưu lượng và khả năng bơm của từng giai đoạn để điều chỉnh máy bơm làm việc sau này, chú ý đến việc chạy máy bảo đảm hiệu suất cao và đảm bảo năng suất cây trồng. </para>
+        <para id="id4872749">Đôi khi để bơm phủ khít biểu đồ yêu cầu lưu lượng người ta lắp thêm những " tổ máy bơm bổ sung ". Loại máy bơm này đóng vai trò bơm bổ sung tung độ lưu lượng nước còn thiếu ở từng bậc mà máy bơm chính được chọn chưa đủ năng lực để phủ bậc. Khác với các máy bơm chính, các máy bơm bổ sung có tổng lưu lượng không vượt quá lưu lượng của một máy bơm chính, ngoài chức năng bổ sung, máy bơm này còn được dùng mồi nước cho máy bơm chính trước khi khởi động hoặc tham gia bơm tiêu nước trong nhà máy ... Việc có sử dụng máy bơm bổ sung hay không cần phải qua tính toán so sánh kinh tế - kỹ thuật để quyết định.</para>
+        <para id="id4670963">Đối với trạm bơm có cột nước thay đổi nhiều sẽ có ảnh hưởng lớn đối với lưu lượng của máy bơm, do đó trường hợp này cần lập biểu đồ công suất để định phương án số tổ máy. Cách làm cũng giống như dùng biểu đồ lưu lượng yêu cầu.</para>
+        <para id="id4670982">Chọn phương án số tổ máy cuối cùng phải thông qua tính toán và so sánh các chỉ tiêu kinh tế và kỹ thuật của các phương án số máy. Khi tính toán kinh tế thường các công trình ngoài nhà máy ít thay đổi như : bể tháo, ống đẩy, kênh dẫn ..v.v.. nên có thể không cần đưa vào tính đầu tư phương án. Thường dùng phương pháp hoàn vốn chênh lệch để so sánh : 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hv</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{T} }  rSub { size 8{ ital "hv"} } = {  { { size 24{K} }  rSub { size 8{2} } - { size 24{K} }  rSub { size 8{1} } }  over  { { size 24{C} }  rSub { size 8{1} } - { size 24{C} }  rSub { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hv</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{T} }  rSub { size 8{ ital "hv"} }  \] } {}</m:annotation></m:semantics></m:math>= 8 ... 10 năm, mà chúng ta đã biết. Trong công thức này K1, K2 là vốn đầu tư có bản của phương I và phương án II. C1, C2 là tổng chi phí quản lý hàng năm của phương án I và II, bao gồm: tiền trích ra để sữa chữa công trình và thiết bị hàng năm, tiền chí phí năng lượng hàng năm, tiền lương hàng năm của biên chế cán bộ quản lý trạm, tiền chi phí vật liệu bôi trơn, lau chùi máy móc, tiền chi phí hành chính quản trị và các chi phí khác.</para>
+      </section>
+      <section id="id-250248883934">
+        <title>Chọn máy bơm chính</title>
+        <para id="id4739560">Sau khi chúng ta đã xác định được lưu lượng và cột nước thiết kế của máy bơm chúng ta sẽ tiến hành chọn máy bơm. Nội dung của chọn máy bơm là xác định nhãn hiệu và các thông số cụ thể của máy bơm và tiến hành kiểm tra hiệu suất làm việc, điều kiện không sinh khí thực thông qua đường đặc tính của máy bơm được chọn ứng với cột nước Hmax và Hmin ... Để chọn máy bơm chúng ta dựa vào các bảng tra máy bơm hoặc các biểu đồ sản phẩm máy bơm đã có sản xuất ở trong và ngoài nước để tra chọn. Nhãn hiệu máy bơm tuân theo hãng sản xuất đặt. Hiện nay kinh tế nước ta hội nhập với các nước trên thế giới nên ngoài thiết bị trong nước chúng ta có thể mua ở nước ngoài, cách đặt tên thiết bị mỗi nước một khác, do vậy tuân theo hướng dẫn cụ thể của nơi sản xuất. Trong nước chúng ta cũng đã chế tạo một số loại máy bơm, thường là loại nhỏ và trung bình nên ngoài việc mua máy trong nước chúng ta thường mua máy của Liên Xô cũ hoặc của Trung Quốc ..vv.. Sau đây giới thiệu một số loại máy bơm nhãn hiệu Việt Nam và của Liên Xô cũ mà chúng ta hay chọn dùng.</para>
+        <section id="id-964434711542">
+          <title>Máy bơm do Việt Nam chế tạo </title>
+          <para id="id4514587">- Máy bơm công xôn trục ngang, có ký hiệu như sau: hai chữ đầu tiên LT biểu thị loại bơm li tâm, dãy chữ số tiếp theo biểu thị lưu lượng ( m3/h ), dãy chữ số cuối cùng biểu thị cột nước ( m ).</para>
+          <para id="id4514606">Ví dụ 1: LT 450 - 16, biểu thị đây là loại bơm li tâm, có lưu lượng Q = 450 m3/h, cột nước bơm là H = 16 m.</para>
+          <para id="id4514628">Ví dụ 2: LT 28 - 25 A, biểu thị bơm li tâm, có lưu lượng Q = 28 m3/h, cột nước H = 25 m, đã qua cải tiến ( chữ A ).</para>
+          <para id="id4855607">- Máy bơm li tâm song hướng ( hai cửa vào ). Ký hiệu cũng tương tự như bơm công xôn chỉ khác là thêm chữ số 2 sau LT để biểu thị bơm song hướng.</para>
+          <para id="id4855619">Ví dụ LT2 - 280 - 60, biểu thị bơm li tâm song hướng, có lưu lượng Q = 280 m3/h và cột nước H = 60 m.</para>
+          <para id="id4855640">- Máy bơm đa cấp trục ngang. Ký hiệu: ba chữ đầu LTC biểu thị bơm li tâm đa cấp, chữ số tiếp theo chỉ lưu lượng ( m3/h ), chữ số tiếp theo nữa chỉ cột nước ( m ), chữ số sau dấu nhân chỉ số bánh xe công tác ( số cấp ).</para>
+          <para id="id4855662">Ví dụ: LTC 5 - 9 x 13, biểu thị bơm li tâm đa cấp, có Q = 5 m3/h, H = 9 m, 13 cấp. </para>
+          <para id="id3929820">- Máy bơm xoáy. Kí hiệu: hai chữ đầu BX biểu thị máy bơm xoáy, dãy chữ số tiếp theo biểu thị lưu lượng ( m3/h ) và dãy chữ số cuối cùng biểu thị cột nước ( m ). </para>
+          <para id="id3929839">Ví dụ : BX 3,6 - 16, biểu thị máy bơm xoáy, có Q = 3,6 m3/h và cột nước H = 16 m.</para>
+          <para id="id3929860">- Máy bơm chân không. Kí hiệu cũng tương tự máy bơm công xôn chỉ khác chữ đầu là BCK là bơm chân không.</para>
+          <para id="id5152700">Ví dụ: BCK 29-510, biểu thị máy bơm chân không, Q = 29 m3/h và H = 510 mmHg</para>
+          <para id="id5152719">- Máy bơm hướng trục trục đứng và trục nghiêng. Kí hiệu ba chữ đầu HTĐ hoặc (HTN ) biểu thị bơm hướng trục trục đứng ( trục nghiêng ), dãy chữ số tiếp theo biểu thị lưu lượng ( m3/h ) và dãy chữ số sau dấu gạch ngang là cột nước ( m ).</para>
+          <para id="id5152740">Ví dụ HTĐ 3600 - 4,5 biểu thị máy bơm hướng trục trục đứng, có Q = 3600 m3/h và cột nước H = 4,5 m.</para>
+          <para id="id4063864">- Máy bơm li tâm đa cấp trục đứng, Kí hiệu LTCĐ là bơm li tâm đa cấp trục đứng, dãy chữ số tiếp theo là lưu lượng ( m3/h ), chữ số tiếp theo là cột nước của một cấp ( m ) và chữ số sau dấu nhân là số cấp.</para>
+          <para id="id4063886">Ví dụ : LTCĐ 30 - 4x3, biểu thị máy bơm li tâm đa cấp trục đứng, có Q = 30 m3/h, cột nước một cấp là 4 m và có 3 cấp ( H = 4 x 3 = 12 m ).</para>
+          <para id="id4063911">- Máy bơm hỗn lưu ( bơm hướng chéo ). Kí hiệu HL là hỗn lưu, tiếp theo là lưu lượng ( m3/h ), rồi cột nước.Ví dụ HL 230 - 6 là bơm hỗn lưu có Q = 230 m3/h,H = 6 m.</para>
+        </section>
+        <section id="id-825985564704">
+          <title>Máy bơm chế tạo tại Liên Xô cũ:</title>
+          <para id="id4134695">- Máy bơm công xôn. Chữ số đầu là đường kính cửa vào BXCT tính bằng inch (25 mm ), chữ tiếp theo K ( hoặc KM ) là bơm công xôn ( hoặc bơm công xôn khối ), chữ số tiếp theo nữa là tỷ tốc ns đã chia 10.</para>
+          <para id="id4134720">Ví dụ : 3 K - 6 , biểu thị máy bơm công xôn có đường kính cửa vào BXCT D1 = 3x 25 = 75 mm, tỷ tốc nS = 6 x 10 = 60 v/ph.</para>
+          <para id="id4847419">Kí hiệu khác của bơm công xôn. Chữ đầu biểu thị loại bơm công xôn, tỷ số tiếp theo: tử số biểu thị Q ( m3/h ) mẫu số biểu thị H ( m ).</para>
+          <para id="id4847433">Ví dụ: K 8/18 là bơm công xôn, có lưu lượng Q = 8 m3/h, cột nước H = 18 m.</para>
+          <para id="id4847454">- Máy bơm li tâm trục đứng. Dãy số đầu biểu thị đường kính cửa vào BXCT tính bằng ( inch ), chữ B chỉ trục đứng, dãy số tiếp theo chỉ tỷ tốc đã chia 10.</para>
+          <para id="id4635351">Ví dụ : 40 B 24, biểu thị máy bơm li tâm trục đứng, D1 = 40 x 25 = 100 mm, và tỷ tốc nS = 24 x 10 = 240 v/ph.</para>
+          <para id="id4635373">- Máy bơm li tâm đa cấp. Dãy số đầu biểu thị đường kính D1 ( inch ), chữ M biểu thị loại bơm đa cấp, con số sau dấu gạch ngang chỉ tỷ tốc đã chia 10, số tiếp theo sau dấu nhân chỉ số BXCT ( số cấp ).</para>
+          <para id="id4635393">Ví dụ 10 M - 6 x 5 là bơm li tâm đa cấp có D1 = 10 x 25 = 250 mm, nS = 60 v/ph và có 5 BXCT đặt trên cùng một trục ( bơm đa cấp 5 cấp ).</para>
+          <para id="id3846081">- Máy bơm song hướng trục ngang. Kí hiệu: số đầu là đường kính D1 ( inch ), chữ tiếp theo là bơm song hướng, số tiếp theo nữa là tỷ tốc đã chia 10.</para>
+          <para id="id3846103">Ví dụ 10 6, biểu thị D1 = 10 x 25 = 250 mm, máy bơm hai cửa, nS = 60 v/ph.</para>
+          <para id="id4517979">- Máy bơm song hướng trục đứng . Kí hiệu dãy số đầu và cuối theo cách trên còn chữ H CB là bơm li tâm song hướng trục đứng.</para>
+          <para id="id4517994">Ví dụ: 20 H CB là bơm li tâm song hướng có đường kính D1 = 20 x 25 = 500 mm</para>
+          <para id="id4518019">- Máy bơm hướng trục trục đứng. Số đầu là D1 ( inch ), chữ p là bơm hướng trục cánh cố định, số tiếp theo là tỷ tốc đã chia 10.</para>
+          <para id="id4531603">Ví dụ: 20 p - 60, là máy bơm hướng trục cánh cố định có D1 = 20 x 25 = 500 mm, tỷ tốc nS = 60 x 10 = 600 v/ph.</para>
+          <para id="id4531639">Cách kí hiệu khác: Chữ O là bơm hướng trục trục đứng cánh cố định, chữ số tiếp theo là số hiệu BXCT, dãy số tiếp theo là đường kính BXCT ( cm ).</para>
+          <para id="id4531653">Ví dụ: O 6 - 55, nghĩa là bơm hướng trục cánh cố định trục đứng, có số hiệu BXCT là 6, đường kính BXCT là 55 cm.</para>
+          <para id="id4947320">- Máy bơm hướng trục cánh quay trục đứng. Dãy chữ O là bơm hướng trục trục đứng cánh quay, số tiếp theo là số hiệu BXCT, dãy số tiếp đến là đường kính BXCT ( cm ).</para>
+          <para id="id4947338">Ví dụ O6 - 87, nghĩa là máy bơm hướng trục cánh quay trục đứng , số hiệu BXCT là 6 và đường kính BXCT là 87 cm.</para>
+        </section>
+        <section id="id-754999870895">
+          <title>Tài liệu tra cứu máy bơm và cách chọn máy bơm.</title>
+          <para id="id3817480">Nhà máy chế tạo máy bơm công bố sản phẩm máy bơm mà họ đã chế tạo bằng bảng liệt kê hoặc bằng các biểu đồ sản phẩm. Dựa vào cột nước và lưu lượng thiết kê,́ khách hàng có thể tra tìm máy bơm mà mình muốn dùng. Sau đây trình bày tài liệu ở dạng bảng và biểu đồ sản phẩm đã được công bố và cách sử dụng chúng để chọn máy bơm.</para>
+          <para id="id4947373">Bảng tra máy bơm công xôn và hỗn lưu.</para>
+          <table id="id3817502" summary="">
+            <tgroup cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry namest="c2" nameend="c7">Thông số kỹ thuật và kích thước cơ bản</entry>
+                </row>
+                <row>
+                  <entry>Kí hiệu bơm</entry>
+                  <entry>Q ( m3/h )</entry>
+                  <entry>H ( m )</entry>
+                  <entry>n</entry>
+                  <entry>Nđ/cơ</entry>
+                  <entry>Dhút</entry>
+                  <entry>Dxả</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>(v/ph) </entry>
+                  <entry>( kW )</entry>
+                  <entry>( mm )</entry>
+                  <entry>( mm )</entry>
+                </row>
+                <row>
+                  <entry>LT 400 - 16</entry>
+                  <entry>300 - 400</entry>
+                  <entry>20 - 16</entry>
+                  <entry>960</entry>
+                  <entry>30</entry>
+                  <entry>250</entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry>LT 450 - 16</entry>
+                  <entry>300 - 500</entry>
+                  <entry>17,5 - 15</entry>
+                  <entry>1460</entry>
+                  <entry>33</entry>
+                  <entry>200</entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry>LT 500 - 50</entry>
+                  <entry>500</entry>
+                  <entry>50</entry>
+                  <entry>1450</entry>
+                  <entry>100</entry>
+                  <entry>250</entry>
+                  <entry>200</entry>
+                </row>
+                <row>
+                  <entry>HL 800 - 9</entry>
+                  <entry>700 - 1000</entry>
+                  <entry>9,5 - 7</entry>
+                  <entry>960</entry>
+                  <entry>30</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>HL 900 - 9</entry>
+                  <entry>750 - 1000</entry>
+                  <entry>9,5 - 7</entry>
+                  <entry>980</entry>
+                  <entry>33</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>HL 1000 - 12</entry>
+                  <entry>800 - 1200</entry>
+                  <entry>15 - 7,8</entry>
+                  <entry>1450</entry>
+                  <entry>55</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>HL 1200 - 6</entry>
+                  <entry>1000 - 1200</entry>
+                  <entry>8 - 5,5</entry>
+                  <entry>980</entry>
+                  <entry>33</entry>
+                  <entry>350</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>HL 1400 - 5</entry>
+                  <entry>1400</entry>
+                  <entry>5</entry>
+                  <entry>980</entry>
+                  <entry>33</entry>
+                  <entry>350</entry>
+                  <entry>300</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <figure id="id4877470">
+            <media id="id1168948920845" alt=""><image src="../../media/graphics2-c442.png" mime-type="image/png" height="422" width="590"/></media>
+          </figure>
+          <para id="id4760557">Hình 9 -2. Biểu đồ sản phẩm máy bơm công xôn K và công xôn khối KM.</para>
+          <figure id="id4760570">
+            <media id="id1168954159924" alt=""><image src="../../media/graphics3-99f6.png" mime-type="image/png" height="359" width="590"/></media>
+          </figure>
+          <para id="id4760594"> Hình 9 -3. Biểu đồ sản phẩm máy bơm hướng trục O và O.</para>
+          <para id="id4760612">Chọn kiểu máy bơm tùy thuộc vào lưu lượng , cột nước thiết kế ( Qtk, Htk ) và loại chất lỏng cần bơm, ở đây chất lỏng cần bơm là nước, và các yếu tố khác. Bơm được chọn phải làm việc ổn định, hiệu suất cao, trong mọi chế độ làm việc với giao động lưu lượng từ nhỏ nhất đên lớn nhất không phát sinh khí thực. Trạm bơm có máy bơm được chọn cần phải thỏa mãn biểu đồ yêu cầu tưới ( hoặc tiêu nước ).</para>
+          <para id="id4956870">Khi lưu lượng thiết kế của máy bơm Qtk &lt; 2 m3/s thường máy bơm li tâm trục ngang được ưa dùng vì tính an toàn cao, kết cấu đơn giản và nhẹ.</para>
+          <para id="id4956889">Trong các bảng tra, đối với mỗi kiểu máy bơm đều có đặc tính gốc H - Q mà theo đó khi có Qtk và Htk ta dễ dàng xác định nhãn hiệu và vòng quay của trục máy bơm cũng như các thông số về đường kính nối ống hút, ống đẩy, công suất động cơ điện cần có để kéo bơm .Ví dụ ta cần chọn máy bơm làm việc với Qtk = 500 m3/h và cột nước Htk = 50 m, tra bảng trên ta chọn loại bơm li tâm công xôn nhãn hiệu LT 500 - 50, có số vòng quay n = 1450 v/ph, công suất động cơ Nđ/cơ = 100 kW ... </para>
+          <para id="id4956919"><figure id="id4575659"><media id="id1168949117314" alt=""><image src="../../media/graphics4-f381.png" mime-type="image/png" height="217" width="525"/></media></figure> Trên biểu đồ sản phẩm mỗi nhãn hiệu máy bơm, ví dụ bơm công xôn K ( KM ), có một hình chữ nhật cong tương ứng ( xem Hình 9 - 2 ). Cạnh cong trên và dưới của hình chữ nhật cong là các đường đặc tính cột nước H - Q của máy bơm vẽ với các đường kính BXCT cho phép lớn nhất và nhỏ nhất. Các cạnh bên của hình là lưu lượng giới hạn mà máy bơm có thể làm việc với hiệu suất cao ( thường lớn hơn hoặc bằng 0,9 max ) và bảo đảm an toàn. Khi biết lưu lượng và cột nước thiết kế, ví dụ Qtk = 45 m3/h và Htk = 13,5 m, ta tra được điểm A nằm trong hình chữ nhật cong của nhãn hiệu 3K- 13 có n = 2900 v/ph. Nhãn hiệu máy bơm vừa chọn ( ví dụ 3K- 13 ) có đường đặc tính của nó, từ Qtk và Htk ta dóng tìm được điểm A trên đường đặc tính H - Q. Nếu điểm A nằm đúng trên đường H - Q thì máy bơm được chọn với vòng quay đã có đảm bảo hiệu suất cao (xem Hình 9 - 4,a ). Nếu điểm A nằm ngoài H - Q, ta cần dóng tương ứng trên đường đặc tính  - Q để kiểm tra xem nếu bơm vẫn sử dụng vòng quay đó thì hiệu suất có đảm bảo   0,9 max hay không ( xem Hình 9 - 4,b ), nếu hiệu suất thấp thì cần tính vòng quay mới hoặc gọt BXCT ( nếu là bơm li tâm tỷ tốc vừa và thấp ). Cách tính lại n1 và vẽ lại các đường đặc tính mới như đã trình bày ở chương IV. Trường hợp nếu điểm A không nằm </para>
+          <para id="id3805676"/>
+          <para id="id3805682">Hình 9 - 4. a- Điểm A nằm trên đường H-Q; b- Điểm A nằm ngoài đường H-Q.</para>
+          <para id="id3805692">trong một hình chữ nhật cong nào cả , nghĩa là không có máy bơm nào được chế tạo thỏa mãn Qtk và Htk mà ta cần. Trường hợp này cần đặt hàng chế tạo máy bơm mới hoặc cũng có thể chọn máy bơm nào đó nằm gần điểm A, lấy các đường đặc tính của máy bơm này ( coi nó là máy bơm mẫu ) rồi dựa vào đó tính ra vòng quay mới tương ứng với Qtk và Htk, rồi vẽ lại các đường đặc tính mới, như đã biết ở chương IV.</para>
+          <para id="id3805717">Biểu đồ sản phẩm của máy bơm hướng trục O và O có dạng phức tạp hơn so với của bơm li tâm ( xem Hình 9 - 3 ). Đường đặc tính cột nước yêu cầu H - Q của điểm A với tọa độ Qtk, Htk có thể nhận được bằng cách chọn góc quay cánh  của BXCT ( xem Hình 3 - 12, chương III ). Không cho phép gọt BXCT của loại máy bơm này.</para>
+          <para id="id4921371">Tóm lại nội dung chọn máy bơm chính như sau:</para>
+          <para id="id4921380">- Trên cơ sở có Qtk và Htk tra nhãn hiệu máy bơm và các thông số;</para>
+          <para id="id4921388">- Dùng đường đặc tính của nhãn hiệu máy bơm vừa chọn kiểm tra máy bơm được chọn. Vẽ lại các đường đặc tính mới ( nếu cần ) khi thay đổi số vòng quay hoặc khi chọn giải pháp gọt bánh xe công tác;</para>
+          <para id="id4921403">- Xác định cao trình đặt máy bơm và kiểm tra cao trình này về khí thực.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-779682237163">
+      <title>ĐỘNG CƠ ĐIỆN KÉO MÁY BƠM VÀ CHỌN ĐỘNG CƠ ĐIỆN</title>
+      <para id="id5076397">Để truyền động máy bơm có thể dùng động cơ điện, động cơ đốt trong, máy hơi nước, động cơ gió, máy thủy lực ...vv... Trong đó động cơ điện được dùng phổ biến nhất. Động cơ đốt trong chỉ được dùng đối với máy bơm di động hoặc trạm bơm dã chiến ở các vùng xa, động cơ chạy bằng sức gió chỉ dùng ở nơi có điều kiện thích hợp sử dụng gió... Bởi vậy ở đây chúng ta chỉ nghiên cứu về động cơ điện.</para>
+      <para id="id4921409">Hệ thống truyền động máy bơm với sự tác động của năng hượng điện gọi là truyền động điện. Quy ước có thể chia hệ thống này làm ba phần: động cơ điện, thiết bị điều khiển động cơ điện, trang thiết bị truyền năng lượng từ động cơ điện đến máy bơm. </para>
+      <para id="id5076440">Động cơ điện được sử dụng rộng rãi trên trạm bơm do tính ưu việt của nó so với các loại truyền động khác: khối lượng xây lắp được giảm nhỏ, nền móng và thiết bị truyền năng lượng từ động cơ đến máy bơm đơn giản hơn ( trục động cơ và trục máy bơm có thể được nối qua khớp nối trục ), dễ tự động hóa khi khởi động hoặc dừng máy, chi phí vận hành nhỏ, điều kiện làm việc tốt nhất, gian máy sạch sẽ ..v.v...</para>
+      <para id="id4490482">Trong trạm bơm thường sử dụng động cơ điện xoay chiều ba pha dị bộ và đồng bộ.</para>
+      <section id="id-0790566291512">
+        <title>Động cơ điện dị bộ </title>
+        <para id="id4490500">Động cơ điện dị bộ là động cơ có vòng quay của rô to nhỏ hơn vòng quay của từ trường, nó làm việc có " độ trượt " so với từ trường của stator ( bảng so sánh dưới đây ):</para>
+        <table id="id4490511" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Số đôi cực</entry>
+                <entry>Động cơ </entry>
+                <entry>điện</entry>
+                <entry>Số đôi cực</entry>
+                <entry>Động cơ</entry>
+                <entry>điện</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Dị bộ</entry>
+                <entry>Đồng bộ</entry>
+                <entry/>
+                <entry>Dị bộ </entry>
+                <entry>Đồng bộ</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>2900</entry>
+                <entry>3000</entry>
+                <entry>5</entry>
+                <entry>585</entry>
+                <entry>600</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1450</entry>
+                <entry>1500</entry>
+                <entry>6</entry>
+                <entry>485</entry>
+                <entry>500</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>960</entry>
+                <entry>1000</entry>
+                <entry>8</entry>
+                <entry>368</entry>
+                <entry>375</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>730</entry>
+                <entry>750</entry>
+                <entry>10</entry>
+                <entry>290</entry>
+                <entry>300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5183780">Động cơ dị bộ có hai loại là động có rô to ngắn mạch ( còn gọi là động cơ lồng sóc ) và động cơ quấn dây. Động cơ rô to ngắn mạch ( xem Hình 9 - 5 ) so với động cơ quấn dây thì có kết cấu đơn giản hơn, kích thước và khối lượng nhỏ hơn, giá thành rẻ hơn. Nó có thể được đấu trực tiếp vào mạng điện qua cầu giao đơn giản hoặc điều khiển từ xa bằng khởi động từ. Tuy nhiên cần thấy rằng khi đấu trực tiếp động cơ này vào mạch thì dòng điện mở máy tăng 5 ... 7 lần so với dòng điện định mức, và điều này gây bất lợi đối với các hộ dùng điện khác cùng mạng. Động cơ rô to ngắn mạch có thể trục đứng hoặc trục ngang. </para>
+        <para id="id4487785">
+          <figure id="id4487788">
+            <media id="id1168946704926" alt=""><image src="../../media/graphics5-9cca.png" mime-type="image/png" height="197" width="472"/></media>
+          </figure>
+        </para>
+        <para id="id4487821"/>
+        <para id="id5158018">Hình 9 - 5. Cấu tạo động cơ điện dị bộ rô to ngắn mạch.</para>
+        <para id="id5158027">1- cưả nhận không khí; 2- trục; 3- rô to; 4- cuộn dây; 5- nắp thông gió; 6- ổ hướng; </para>
+        <para id="id5158041">7- dây ra của stator; 8- nắp bảo vệ đầu dây ra; 9- phần tĩnh ép vào giá đỡ; 10- giá đỡ</para>
+        <para id="id5158053">bằng gang; 11- vòng để móc nâng hạ.</para>
+        <para id="id5158062">Động cơ điện dị bộ rô to quấn dây có biến trở khởi động được nối với cuộn dây của rô to. Biến trở khởi động chỉ được đóng vào mạch rô to trong giai đoạn mở máy động cơ. Khi vòng quay động cơ điện đạt tới gần vòng quay định mức thì biến trở tự động ngắt, còn động cơ vẫn tiếp tục ở chế độ như rô to ngắn mạch. Dòng điện mở máy ở động cơ rô to quấn dây nhỏ hơn vài lần so với rô to ngắn mạch . Tuy vậy trong trạm bơm, động cơ rô to quấn dây ít được sử dụng hơn hơn rô to ngắn mạch bởi vì kết cấu của nó phức tạp hơn, kém an toàn trong vận hành và giá thành lại đắt hơn .</para>
+        <para id="id5158069">Căn cứ vào công suất có thể chia động cơ điện dị bộ làm ba loại chính sau:</para>
+        <para id="id5158080">- Loại nhỏ ( có công suất nhỏ hơn 100 kW ) thường là động cơ rô to ngắn mạch ba pha, động cơ loại này không có yêu cầu gì đặc biệt khi khởi động; điện áp định mức thường là 220 / 380 hoặc 500 V. </para>
+        <para id="id4619967">Động cơ chế tạo ở Liên Xô cũ dùng chữ A để kí hiệu động cơ điện dị bộ ( hoặc chữ AO kí hiệu động cơ dị bộ có bảo vệ đặt ngoài trời ), con số tiếp theo chỉ cở thân máy, số tiếp theo nữa chỉ cở chiều cao lõi thép từ, con số sau dấu gạch ngang chỉ số cực từ.</para>
+        <para id="id4619988">Ví dụ A 62 - 4 là động cơ dị bộ, có cở thân máy lá cở 6, cở chiều cao lỏi thép từ là cở 2, có 4 cực từ. Nếu kí hiệu AO 62 - 4 là động cơ dị bộ đặt ngoài trời an toàn và các ký hiệu chữ số như quy ước trên.</para>
+        <para id="id5146357">Kí hiệu của động cơ dị bộ Việt Nam cũng giống Liên Xô chỉ khác là thay chữ A bởi</para>
+        <para id="id5146368">chữ K ( không đồng bộ ) hoặc chữ AK ( không đồng bộ kiểu kín, đặt ngoài trời ). Ví dụ DK 62 - 4 là động cơ dị bộ kiểu kín đặt ngoài trời, cở thân máy là 6, cở chiều cao lõi thép từ là 2 và có 4 cực từ.</para>
+        <para id="id5146388">- Loại trung bình ( có công suất từ 100 ... 200 kW ). Động cơ dị bộ loại này có điện áp từ 220 / 380 V, 3.000 V hoặc 6.000 V. Liên Xô cũ chế tạo các loại có kí hiệu AM, AM và AM. Trong đó chữ A là động cơ dị bộ. AM, AM là động cơ rôto ngắn mạch kiểu rãnh sâu và kiểu lồng sóc kép có tính năng mở máy tốt, thích hợp với dung lượng nguồn điện nhỏ, phụ tải khởi động không lớn. Loại AM là loại động cơ dị bộ rô to quấn dây, dùng trong trường hợp dung lượng nguồn nhỏ không đủ cung cấp cho động cơ dị bộ kiểu rô to ngắn mạch khi khởi động.</para>
+        <para id="id4129906">- Loại lớn ( có công suất lớn hơn 300 kW ). Động cơ dị bộ loại lớn Liên Xô chế tạo có các loại: AMCO là loại động cơ kiểu ngắn mạch, loại AMCO là loại động cơ dị bộ kiểu quấn dây. Loại động cơ lớn nầy có điện áp 3000 V và 6000 V. Loại BAH là động cơ dị bộ trục đứng . Kí hiệu loại động cơ này như sau : Sau chữ BAH lần lượt là cở thân máy, cở chiều cao lõi thép từ, số cực từ. Ví dụ BAH 14 - 49 - 6 là động cơ dị bộ trục đứng có cở thân máy là 14, cở chiều cao lõi thép từ là 49 và có 6 cực từ.</para>
+      </section>
+      <section id="id-200608115058">
+        <title>Động cơ điện đồng bộ</title>
+        <para id="id5044718">Động cơ điện đồng bộ là động cơ có số vòng quay của rô to bằng số vòng quay của từ trường stator. Khi động cơ kéo máy bơm có công suất lớn hơn 200 kW và làm việc trong thời gian dài liên tục thì thường dùng động cơ điện đồng bộ để kéo. Số đôi cực p và tần số tiêu chuẩn f = 50 Hz quyết định số vòng quay của động cơ : n = 60f / p.</para>
+        <para id="id5044742">Kết cấu của động cơ đồng bộ ( xem Hình 9 - 6 ) phức tạp hơn kết cấu của động cơ dị bộ. Từ thông trong động cơ đồng bộ được tạo thành do bộ kích từ riêng, đó là một máy phát một chiều nhỏ. Để đưa động cơ điện vào làm việc, rô to cần phải quay với vòng quay gần với vòng quay từ trường của stator. Bởi vậy rô to của phần lớn các động cơ điện đồng bộ có đặt cuộn ngắn mạch khởi động phụ, tương tự như cuộn dây rô to của động cơ dị bộ. </para>
+        <para id="id5044753">Động cơ điện đồng bộ có điện áp 3.000 V, 6.000 V, 10.000 V và hơn. Liên Xô đã chế tạo loại động cơ đồng bộ loại MC, B , B C, BC H ..v.v...</para>
+        <para id="id4922740">Loại B C ( xem Hình 9 - 6 trang sau ) có kí hiệu như sau: B là động cơ trục đứng, chữ là động cơ, chữ C là đồng bộ, dãy số tiếp theo là đường kính stator ( cm ), dãy số sau dấu gạch chéo là chiều cao lõi thép từ ( cm ), chữ số sau gạch ngang là số cực từ. Loại động cơ này hiện nay đã chế tạo có công suất đạt đến 200.000 kW.</para>
+        <para id="id4805272">Ví dụ B C 325 / 44 - 16 là động cơ điện đồng bộ trục đứng có đường kính stator là 325 cm, chiều cao lõi thép từ là 44 cm, có 16 cực từ ( 8 đôi cực ). </para>
+        <para id="id4805296">Loại BC H là loại động cơ đồng bộ trục đứng dùng cho máy bơm nước. Kí hiệu các số sau dãy chữ lần lượt là: cở thân máy, dãy số tiếp sau gạch ngang là cở chiều cao lõi thép từ, con số sau gạch ngang cuối là số cực từ. Ví dụ BC H 15 - 31 - 8 là động cơ điện đồng bộ trục ngang cở thân máy là 15, cở chiều cao lõi thép từ là 31 và có 8 cực từ.</para>
+        <para id="id5146697">
+          <figure id="id5146700">
+            <media id="id2875861" alt=""><image src="../../media/graphics6-aac0.png" mime-type="image/png" height="471" width="472"/></media>
+          </figure>
+        </para>
+        <para id="id5146733"/>
+        <para id="id4844891"> Hình 9 - 6. Cấu tạo của động cơ điện đồng bộ B C- 325/44 - 16.</para>
+        <para id="id4844906">1- giá đỡ dưới; 2,8 - ổ trục định hướng ; 3- rô to; 4- cực từ; 5- stator; 6- ổ đỡ; </para>
+        <para id="id4844917">7- thiết bị làm nguội; 9 - kích từ.</para>
+        <para id="id4844929">Động cơ điện đồng bộ mặc dù có cấu tạo và tự khởi động phức tạp, giá thành cao (thường hơn 20% so với động cơ dị bộ ) nhưng vẫn được dùng rộng rãi trong thực tế vì những ưu điểm sau đây:</para>
+        <para id="id4844949">- Có khả năng làm việc với hệ số công suất ( cos ) đạt tới 1, do vậy nâng cao được hệ số công suất của mạng và tạo khả năng sử dụng điện kinh tế;</para>
+        <para id="id4844954">- Hệ số công suất không phụ thuộc vào vòng quay định mức của rô to;</para>
+        <para id="id4670383">- Động cơ làm việc ổn định khi điện áp trong mạng giao động;</para>
+        <para id="id4670392">- Góp phần tăng hệ số công suất cos khi tham gia bù đồng bộ trong lưới điện .</para>
+      </section>
+      <section id="id-177872653791">
+        <title>Các loại cơ cấu truyền động từ động cơ cho máy bơm</title>
+        <para id="id4670420">Cơ năng do trục động cơ truyền cho trục máy bơm có thể qua các thiết bị khác nhau như: khớp nối đĩa, khớp nối thủy lực, khớp nối điện từ, truyền động đai truyền, truyền động bánh răng ..v.v...</para>
+        <para id="id4044952">1. Khớp nối đĩa ( Hình 9- 7,a ).</para>
+        <para id="id4044968">Khớp nối trục loại đĩa được dùng để nối trục động cơ và trục máy bơm có cùng vòng quay định mức . Các chốt 2 một đầu bị nối cứng trên đĩa 1 nối trục động cơ và </para>
+        <para id="id4044994">được lồng bên ngoài bằng ống cao su đem lắp vào các lổ ở đĩa 3 của của trục máy bơm. Khớp đĩa này nhờ có các ống cao su nên khi mô men xoắn truyền từ trục động cơ cho trục máy bơm sẽ có va đập mềm. Loại khớp nối này có cấu tạo đơn giản và tiện lợi cho vận hành. Hiệu suất của nó gần bằng 1. Bởi vậy khớp nối đĩa được dùng rộng rãi.</para>
+        <figure id="id4045001">
+          <media id="id2433146" alt=""><image src="../../media/graphics7-7a77.png" mime-type="image/png" height="288" width="591"/></media>
+        </figure>
+        <para id="id4783209"/>
+        <para id="id4783215">Hình 9 - 7. Các loại khớp nối trục động cơ và trục máy bơm.</para>
+        <para id="id4783225">a- khớp nối đĩa; b- khớp nối thủy lực; c- khớp nối điện từ.</para>
+        <para id="id3810679">2. Khớp nối thủy lực ( Hình 9 - 7,b ):</para>
+        <para id="id3810694">Khớp nối thủy lực được dùng nối trục động cơ và trục máy bơm khi cần điều chỉnh vòng quay của máy bơm cho phù hợp với các điểm công tác trên đường H - Q nhưng vòng quay của động cơ không đổi. Cấu tạo của khớp thủy lực gồm có: bánh xe bơm li tâm 2 nối với trục dẫn động 1 ( trục động cơ ) và bánh xe công tác turbin 4 nối với trục bị động 3 ( trục máy bơm ). Bánh xe li tâm 2 quay do trục động cơ kéo và làm tăng năng lượng của chất lỏng chảy qua nó ( từ tâm đến chu vi ). Năng lượng này truyền cho bánh công tác turbin 4, bánh 4 nối với trục máy bơm chính thông qua trục bị động 3. Trục 3 làm việc có độ trượt tương đối so với trục dẫn động 1. Mức độ trượt phụ thuộc vào lượng chất lỏng đưa vào khớp nối do một máy bơm đặc biệt cung cấp. Khi thay đổi độ trượt cũng là thay đổi vòng quay của máy bơm chính và hiệu suất của khớp nối cũng phụ thuộc vào mức độ trượt. Nếu mức độ trượt là 2 ... 3 % thì hiệu suất của khớp thủy lực đạt 0,96 ... 0,98, khi mức độ trượt lớn hơn 50% thì hiệu suất khớp nối giảm đến 0,6.</para>
+        <para id="id3810732">3. Khớp nối điện từ ( Hình 9 - 7,c ):</para>
+        <para id="id4622192">Khớp nối điện từ được dùng cũng giống điều kiện của khớp nối thủy lực. Cấu tạo của nó gồm phần cảm 2 được gắn với trục máy bơm và phần ứng 1 gắn với trục động cơ. Khi dòng điện một chiều qua vòng tiếp xúc 5 dẫn vào cuộn kích thích 3 thì giữa phần ứng 1 và phần cảm 2 xuất hiện quan hệ điện từ. Quan hệ này làm cho phần cảm phải quay theo vòng quay của phần ứng với một mức độ trượt nào đó. Khi dòng điện thay đổi đều đặn thì mức độ trượt cũng thay đổi đều đặn và do vậy cũng làm cho vòng quay của máy bơm thay đổi. Ưu điểm chính của khớp nối điện từ là đơn giản cho việc điều khiển, sữa chữa và công việc dự phòng, các chi tiết ít bị mòn, có khả năng điều khiển từ xa và tự động hóa. Nhược điểm của nó là khối lượng và kích thước của nó lớn, khi nhiệt độ môi trường thay đổi thì làm việc kém ổn định. Hiệu suất của khớp nối này phụ thuộc vào mức độ trượt của phần cảm.</para>
+        <para id="id4622234">4. Truyền động bằng đai truyền. </para>
+        <para id="id4622243">Truyền động này được sử dụng khi vòng quay trục động cơ khác vòng quay trục máy bơm hoặc khi trục động cơ và trục máy bơm đặt cách nhau hoặc được đặt ở những mặt phẳng nằm ngang khác nhau. Nhánh kéo của đai thường đặt bên dưới còn nhánh không tải đặt phía trên nhánh kéo. Hiệu suất của đai truyền vào khoảng 0,94 ... 0,98.</para>
+        <para id="id4619882">5. Truyền động bánh răng ( bộ biến tốc ).</para>
+        <para id="id4619891">Truyền động bánh răng cũng được dùng giống như truyền động đai. Bộ biến tốc gồm các trục và các bánh răng lắp hoàn chỉnh trong một hộp nhỏ. Trong thời gian làm việc nó cần được bôi trơn bằng dầu. Hiệu suất của truyền động bánh răng đạt 0,98 ... 0,99.</para>
+        <para id="id4619909">Tính hợp lý của việc sử dụng loại khớp nối hoặc truyền động nào trong trường hợp cụ thể phải được lập luận qua tính toán kinh tế kỹ thuật thận trọng.</para>
+      </section>
+      <section id="id-444149910698">
+        <title>Chọn động cơ điện cho máy bơm.</title>
+        <para id="id5119812">Trong một số bảng tra máy bơm người ta đã cho động cơ điện đi kèm. Trong trường hơp máy bơm chưa có động cơ đi kèm ta phải tiến hành tính toán và lựa chọn động cơ thích hợp. Điều kiện chọn động cơ kéo máy bơm là động cơ được chọn phải đảm bảo truyền công suất cần thiết cho máy bơm với số vòng quay đã có của máy bơm. Công suất cần thiết và vòng quay trục động cơ có thể được chỉ dẫn ở tài liệu máy bơm. Vòng quay của động cơ được chọn và vòng quay của máy bơm chênh lệch không quá 5%.</para>
+        <para id="id5119843">Công suất yêu cầu lớn nhất của máy bơm ( kW ) khi số vòng quay đã cho trên trục của máy bơm được tính theo công thức:</para>
+        <para id="id5119856"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>9,</m:mn></m:mrow><m:mtext>81</m:mtext><m:mtext>.</m:mtext><m:mi>Q</m:mi><m:mtext>.</m:mtext><m:mrow><m:mi>H</m:mi><m:mo stretchy="false">/</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{N} }  rSub { size 8{"max"} } =9,"81" "." Q "." H/} {}</m:annotation></m:semantics></m:math>( 9 - 7 )</para>
+        <para id="id4643308">Trong đó: Q, H,  là lưu lượng ( m3/s ), cột nước ( m ) và hiệu suất máy bơm lấy với công suất yêu cầu lớn nhất. Đối với máy bơm li tâm tỉ tốc vừa và nhỏ thì công suất lớn nhất xảy ra khi Q = Qmax và H = Hmin ( Hình 9 - 8,a ) . Đối với máy bơm hướng trục</para>
+        <figure id="id4643346">
+          <media id="id2730559" alt=""><image src="../../media/graphics8-ac3f.png" mime-type="image/png" height="247" width="555"/></media>
+        </figure>
+        <para id="id4892608"/>
+        <para id="id4892614"> Hình 9 - 8. Xác định Q, H,  dựa vào đường đặc tính của máy bơm.</para>
+        <para id="id4892633">thì công suất lớn nhất xảy ra khi Q = Qmin và H = Hmax ( Hình 9 - 8,b ).</para>
+        <para id="id4892641">Công suất để chọn động cơ điện sẽ là:</para>
+        <para id="id4892650">N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math>  k. N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math> / 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "td"} } } {}</m:annotation></m:semantics></m:math>( 9 - 8 )</para>
+        <para id="id4773953">Trong đó: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "td"} } } {}</m:annotation></m:semantics></m:math> là hiệu suất truyền động. Lấy 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "td"} } } {}</m:annotation></m:semantics></m:math> = 1 với khớp nối đĩa.</para>
+        <para id="id3887965"> k là hệ số an toàn công suất, lấy theo bảng sau:</para>
+        <table id="id4671778" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>N ( kW )</entry>
+                <entry>2</entry>
+                <entry>2.... 5</entry>
+                <entry>5... 50</entry>
+                <entry>50 ... 100</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>k</entry>
+                <entry>1,7 ... 1,5</entry>
+                <entry>1,5 ... 1,3</entry>
+                <entry>1,15 ... 1,1</entry>
+                <entry>1,08 ... 1,05</entry>
+                <entry>1,05</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4493290">Có thể tham khảo thêm tài liệu của Liên Xô cũ: Khi N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math> 20 kW thì k = 1,25; khi N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math>= 21 ... 50 kW thì k = 1,21; khi N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math>= 51 ... 300 kW thì k = 1,15; khi N
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math>&gt; 300 kW thì k = 1,1.</para>
+        <para id="id4138596">Kinh nghiệm thực tế cho thấy khi công suất yêu cầu của máy bơm  200 kW người ta khuyên dùng động cơ điện dị bộ có điện áp thấp ( điện áp lưới  1000 V ); khi công suất yêu cầu của bơm lớn hơn 200 kW và việc khởi động cũng như dừng máy tiến hành thường xuyên thì nên dùng động cơ điện dị bộ có điện áp cao ( điện áp &gt; 1000 V ); còn khi công suất yêu cầu của máy bơm lớn hơn 200 kW và việc khởi động và dừng máy không thường xuyên thì nên dùng động cơ điện đồng bộ có điện áp cao.</para>
+        <para id="id4431635">Ngoài việc chọn động cơ theo công suất và vòng quay đã nêu trên, khi chọn động cơ điện còn phải xét đến vấn đề khởi động của từng loại máy bơm mà động cơ kéo. Từ đường N - Q của máy bơm ( xem Hình 9 - 9,a ) ta thấy rằng: bơm li tâm tỉ tốc vừa và thấp khi khởi động ( khi Q nhỏ ) thì có công suất yêu cầu thấp; còn bơm li tâm tỉ tốc cao </para>
+        <figure id="id4431656">
+          <media id="id1154592" alt=""><image src="../../media/graphics9-c33d.png" mime-type="image/png" height="204" width="563"/></media>
+        </figure>
+        <para id="id4924894">Hình 9 - 9. So sánh đường đặc tính công suất các laọi bơm.</para>
+        <para id="id4924903">  a - Dạng đường N - Q của các loại máy bơm khác nhau.</para>
+        <para id="id4924920">  b - Biểu đồ thay đổi công suất động cơ khi khởi động.</para>
+        <para id="id4924938">và bơm hướng trục khi khởi động ( Q nhỏ ) thì công suất rất lớn. Như vậy bơm hướng trục và bơm li tâm tỉ tốc cao ( nS &gt; 300 v/ph ) phải có công suất khởi động lớn, cần phải rất chú ý vấn đề khởi động khi chọn động cơ điện cho hai loại máy bơm nầy.</para>
+        <para id="id5145637">Trong mọi trường hợp, mô men quay do động cơ tạo ra phải luôn lớn hơn mô men cản khi máy bơm làm việc, nhất là khi mở máy. Giá trị của các mô men này có thể tra được trong các bảng tra động cơ. Xét khái quát về các loại động cơ điện ta thấy ( xem Hình 9 - 9,b ): Trục tung biểu thị tỷ số giữa mô men và mô men định mức ( M/MO ), trục hoành biểu thị tỉ số vòng quay và vòng quay định mức ( n/nO ) đồng thời cũng biểu thị độ trượt  = ( nO - n ) /nO, khi khởi động thì  = 1, khi vòng quay đạt đến vòng quay định mức thì  = 0. Từ biểu đồ trên Hình 9 - 9,b ta thấy:</para>
+        <para id="id3226296">- Đối với máy bơm li tâm sử dụng động cơ dị bộ rô to ngắn mạch. Khi khởi động nếu đóng kín van ống đẩy thì mô men cản diễn biến theo đường I và cao nhất chỉ chiếm 0,35 ... 0,5 mô men định mức. Nếu lúc khởi động mở hết van ống đẩy thì mô men cản diễn biến theo đường II và cũng chỉ đạt đến bằng mô men định mức. Đối vơi bơm li tâm tỉ tốc cao, công suất khi Q = 0 xấp xỉ công suất định mức do vậy đường diễn biến của nó cũng tương tự đường II. Điều này cho thấy đối với máy bơm li tâm nói chung nếu dùng động cơ điện dị bộ rô to ngắn mạch thì vấn đề khởi động không có gì đáng ngại.</para>
+        <para id="id3226331">- Đối với máy bơm hướng trục, nếu có dùng van ống đẩy khi khởi động thì đường mô men cản sẽ lên cao theo đường III, do đó có khả năng quá tải động cơ. Do vậy cần tiến hành kiểm tra quá tải khi mở máy trong nội dung chọn động cơ.</para>
+        <para id="id3226336">Hiện nay ở các trạm bơm nho,̉ động cơ dị bộ rô to ngắn mạch được dùng rất phổ biến và dùng cầu giao trực tiếp mở máy. Với cách khởi động này dòng điện khởi động đột tăng đến 5 ... 7 lần dòng điện định mức. Các động cơ điện phải có cách mở máy thích hợp với điều kiện công suất nguồn cung cấp cho nó và công suất trạm biến áp. Trong việc mở máy ta cần tìm biện pháp giảm dòng điện và điện áp mở máy. Có thể dùng biện pháp đấu sao - tam giác ( Y/ ) để khởi động động cơ có cuộn dây stator đã đấu tam giác. Có thể dùng biến áp tự ngẫu hạ điện áp xuống còn 0,6 đến 0,8 điện áp định mức rồi đóng máy để khởi động, cách này giảm được điện áp mở máy nhưng lại làm giảm mô men mở máy, nên nó được dùng cho các động cơ có mô men cản nhỏ, không nên dùng với động cơ có mô men cản lớn vì có khả năng động cơ không kéo nổi máy bơm. </para>
+        <para id="id4866235">Động cơ điện đồng bộ có mô men quay tỉ lệ bậc nhất với điện áp ( trong khi động cơ điện dị bộ có mô men quay tỉ lệ bậc hai với điện áp ), do vậy sự thay đổi điện áp trong dây dẫn ít ảnh hưởng đến mô men quay. Đó là một ưu điểm lớn của nó so với động cơ dị bộ. Động cơ đồng bộ cũng thường khởi động bằng các phương pháp khởi động của động cơ dị bộ. Trong các trạm thủy điện tích năng, để khởi động "tổ máy ba máy" động cơ đồng bô,̣ khi chuyển chế độ người ta có thể dùng turbin gáo nhỏ để quay tổ máy về chế độ đồng bộ rồi mới đóng máy vào lưới. </para>
+        <para id="id4866242">Tóm lại nội dung chọn động cơ điện như sau:</para>
+        <para id="id4125257">- Dựa vào công suất động cơ tính theo công thức ( 9 - 8 ) và vòng quay của máy bơm đã biết, hình thức trục tổ máy, tra được động cơ điện và các thông số cơ bản của động cơ được chọn ( trong đó có công suất định mức Nđc và vòng quay định mức ).</para>
+        <para id="id4866249">- Kiểm tra điều kiện quá tải động cơ với cột nước lớn nhất hoặc nhỏ nhất xảy ra trong hai trường hợp thiết kế và trường hợp kiểm tra. Yêu cầu công suất quá tải phải nhỏ</para>
+        <para id="id4125285">hơn hoặc bằng công suất định mức của động cơ Nđc đã chọn. Kiểm tra độ chênh lệch vòng quay giữa động cơ và máy bơm không được quá 5 %.</para>
+        <para id="id4125296">- Xem xét tính năng khởi động của động cơ có phù hợp với máy bơm hay không và dùng biện pháp khởi động nào cho thích hợp.</para>
+      </section>
+    </section>
+    <section id="id-213716405022">
+      <title>MÁY BIẾN ÁP VÀ CHỌN MÁY BIẾN ÁP CHO TRẠM BƠM</title>
+      <para id="id4830534">Trạm bơm tưới tiêu thường được xây dựng ở vùng nông thôn và thường lấy điện từ những nguồn điện và sơ đồ nối dây khác nhau. Nếu trạm bơm đặt trong khu vực có trạm hạ áp của nông trang, của trang trại hay của nhà máy thì có thể lấy điện từ trạm hạ áp. Nếu trạm bơm lấy điện từ đường dây cao áp có cấp điện áp cao hơn điện áp động cơ cần phải xây trạm hạ áp ngay cạnh trạm bơm. Máy biến áp được bố trí hoặc cạnh nhà máy bơm hoặc đặt trong một gian độc lập của nhà máy. Nếu trạm bơm được trang bị những động cơ có điện áp cao ( trên 1.000 V ) thì để có điện tự dùng ( để chạy động cơ nhỏ của các thiết bị phụ hay chiếu sáng ...v.v.. ) cần phải đặt thêm các máy biến áp nhỏ phụ trong nhà máy. Nếu có một số trạm bơm nằm gần nhau thì có thể xây dựng một trạm hạ thế riêng phục vụ chung cho chúng. </para>
+      <para id="id4830572">Đối với các trạm bơm lớn, quan trọng ví dụ trạm bơm tiêu lớn tiêu nước cho khu vực rộng thì cần phải lấy điện từ hai nguồn độc lập và tải điện bằng các đường dây độc lập để đảm bảo tính an toàn cao.</para>
+      <para id="id4830579">Chọn sơ đồ cấp điện nào cũng phải qua tính toán và so sánh kinh tế - kỹ thuật để quyết định. Việc chọn máy biến áo cho trạm bơm nhỏ thường chọn một máy còn trạm lớn có thể nhiều hơn. Để chọn máy biến áp ta phải biết công suất yêu cầu của trạm (Syc), điện áp của nguồn điện ( Ul ), điện áp động cơ ( Udc ), số máy biến áp ... </para>
+      <para id="id4783052">Công suất yêu cầu của trạm hạ áp tính theo công thức sau:</para>
+      <para id="id4783062"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>yc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>1,</m:mn><m:mtext>05</m:mtext><m:mtext>.</m:mtext><m:mtext>.</m:mtext><m:mtext>.</m:mtext><m:mn>1,1</m:mn><m:mo stretchy="false">)</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mtext>cos</m:mtext><m:mi>j</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>td</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext>cos</m:mtext><m:mi>j</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{S} }  rSub { size 8{ ital "yc"} } = \( 1,"05" "."  "."  "." 1,1 \)  {  { { size 24{K} }  rSub { size 8{1 "." } }  "."  { size 24{K} }  rSub { size 8{2} }  "."  { size 24{N} }  rSub { size 8{ ital "dc"} } }  over  { { size 24{h} }  rSub { size 8{ ital "dc"} }  "." "cos"j} } + { size 24{K} }  rSub { size 8{3} }  "."  {  { { size 24{N} }  rSub { size 8{ ital "td"} } }  over  {"cos"j} } } {}</m:annotation></m:semantics></m:math>( kVA )( 9 - 9 )</para>
+      <para id="id4524676">Trong công thức: </para>
+      <para id="id4524684"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msubsup><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>cong</m:mtext><m:mtext>suat</m:mtext><m:mtext>lon</m:mtext><m:mtext>nhat</m:mtext><m:mtext>tren</m:mtext><m:mtext>truc</m:mtext><m:mtext>dong</m:mtext><m:mtext>co</m:mtext><m:mtext>voi</m:mtext><m:mtext>che</m:mtext><m:mtext>do</m:mtext><m:mtext>thiet</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ke</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mtext>cong</m:mtext><m:mtext>suat</m:mtext><m:mtext>dinh</m:mtext><m:mtext>muc</m:mtext><m:mtext>cua</m:mtext><m:mtext>dong</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>co</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{K} }  rSub { size 8{1} } = {  { { size 24{N} }  rSub { size 8{"max"} }  rSup { size 8{ ital "tk"} } }  over  { { size 24{N} }  rSub { size 8{ ital "dc"} } } } = {  {"cong""suat""lon""nhat""tren""truc""dong""co""voi""che""do""thiet" ital "ke"}  over  {"cong""suat""dinh""muc""cua""dong" ital "co"} } } {}</m:annotation></m:semantics></m:math>, là hệ số phụ tải ;</para>
+      <para id="id5181016"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>so</m:mtext><m:mtext>may</m:mtext><m:mtext>lam</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>viec</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mtext>tong</m:mtext><m:mtext>so</m:mtext><m:mtext>may</m:mtext><m:mtext>trong</m:mtext><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tram</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{K} }  rSub { size 8{2} } = {  {"so""may""lam" ital "viec"}  over  {"tong""so""may""trong" ital "tram"} } } {}</m:annotation></m:semantics></m:math>, gọi là hệ số sử dụng đồng thời ;</para>
+      <para id="id3864935"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0,7</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>.</m:mtext><m:mtext>.</m:mtext><m:mn>1,0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{K} }  rSub { size 8{3} } =0,7 "."  "."  "." 1,0} {}</m:annotation></m:semantics></m:math>, gọi là hệ số thắp sáng ;</para>
+      <para id="id3881690"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dc</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "dc"} } } {}</m:annotation></m:semantics></m:math>là hiệu suất của động cơ.</para>
+      <para id="id4785871">Dựa vào Ul, Udc và Syc và số máy biến áp ta có thể tra ra máy biến áp cần dùng. Chú ý rằng máy biến áp có loại trong và ngoài nước sản xuất. Loại nước ngoài sản xuất cần phải tiến hành tính toán hiệu chỉnh nhiệt độ sau khi tính theo ( 9 - 9 ) rồi mới tra chọn máy biến áp. Cấu tạo và những vấn đề liên quan đến máy biến áp có thể tham khảo trong các giáo trình và tài liệu liên quan.</para>
+    </section>
+  </content>
+</document>

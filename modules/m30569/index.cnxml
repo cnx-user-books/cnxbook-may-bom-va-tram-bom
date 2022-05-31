@@ -1,0 +1,187 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nhà máy của trạm bơm - Phần 2</title>
+  <metadata>
+  <md:content-id>m30569</md:content-id><md:title>Nhà máy của trạm bơm - Phần 2</md:title>
+  <md:abstract>Phần này tiếp tục giới thiệu về các loại nhà máy bơm</md:abstract>
+  <md:uuid>cbf81907-b456-4ac0-9060-891941b96967</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-679506842316">
+      <title>NHÀ MÁY BƠM KIỂU MÓNG TÁCH ĐẶT LỘ THIÊN.</title>
+      <section id="id-707071563043">
+        <title>Đặc điểm và kết cấu nhà máy bơm kiểu móng tách đặt lộ thiên</title>
+        <para id="id3934028">Đặc̣ điểm nổi bật của kiểu nhà máy nầy là hệ móng của tổ máy bơm chính đặt tách riêng khỏi móng nhà máy, hoặc nền nhà máy chỉ là tấm bê tông rất mỏng liên kết với móng máy chỉ để chống nước thấm. Kiểu nhà máy nầy chỉ có một tầng nằm trên mặt đất ( xem Hình 11 - 1,a ) và ( Hình 11 - 19 ). Nhà máy kiểu này thường dùng cho trạm bơm nhỏ và trung bình với máy bơm trục ngang có tổng lưu lượng trạm đến 5 m3/s, lưu lượng máy bơm nhỏ hơn 1 m3/s. Tuy vậy cũng có một số trạm bơm với cột nước dư, dùng máy bơm lớn trục ngang loại song hướng sử dụng kiểu nhà máy này đạt tới lưu lượng 4 m3/s mỗi máy. Do móng máy đặt tách riêng với các móng nhà do vậy sự rung động của máy không ảnh hưởng đến móng nhà máy và giảm khối lượng móng nhà máy. Kiểu nhà máy móng tách nầy có độ cao hút nước hS &gt; 0 nên yêu cầu giao động mực nước ở bể hút phải</para>
+        <figure id="id3670080">
+          <media id="id2123183" alt=""><image src="../../media/graphics1-9fe4.png" mime-type="image/png" height="709" width="520"/></media>
+        </figure>
+        <para id="id3942542">Hình 11 - 19. Sơ đồ nhà máy bơm móng tách bơm li tâm trục ngang.</para>
+        <para id="id3942549">1- bể tập trung; 2- cửa lấy nước; 3- ống hút; 4,8,10- ống nối; 5- móng nhà máy; 6- máy bơm song hướng; 7- móng máy bơm; 9- van ống đẩy; 13- các ray ở dàn công tác.</para>
+        <para id="id5190802">nằm trong phạm vi chiều cao hút nước địa hình cho phép. Khi xây dựng cần chú ý mực nước ngầm phải thấp hơn nền nhà máy, nếu phải xây ở vùng có nước ngầm cao hơn nền nhà máy ( như các trạm bơm tiêu ven đê về mùa lũ ) phải xây móng nhà máy liền khối để bảo đảm không thấm nước lên nhà máy.</para>
+        <para id="id5190806">Việc bố trí nhà máy bơm nói chung và nhà máy bơm móng tách nói riêng cần phải:</para>
+        <para id="id4620919">- Đảm bảo chăm sóc bảo dưỡng và vận hành máy móc thuận lợi và an toàn;</para>
+        <para id="id4820848">- Tạo điều kiện thuận lợi cho việc bố trí đường ống trong nhà máy;</para>
+        <para id="id4948111">- Khoảng cách giữa các máy bơm phải đủ rộng để vừa bảo đảm cho nhân viên vận hành đi lại thuận tiện, vừa đảm bảo an toàn ( thường khoảng cách lưu thông 1 ... 1,5 m ). Chiều rộng gian máy nên chọn kết hợp với quy cách nhịp cầu trục để tăng nhanh thời hạn xây lắp và giảm giá thành cầu trục.</para>
+        <para id="id3973883">- Khi tháo bơm theo chiều dọc trục để rút trục khoảng cách đối diện với phương rút trục phải lấy lớn hơn chiều dài trục.</para>
+        <para id="id4076697">- Bố trí cửa sổ phải đảm bảo ánh sáng và thông gió. Thường chiều cao từ sàn máy đến xà đỡ mái lấy không nhỏ hơn 3 m. Tường xây bằng loại gạch tốt.</para>
+        <para id="id5190611">- Các gian phụ về cơ điện và sàn lắp ráp nếu đủ diện tích thì nên đặt trong nhà máy, nếu không đủ thì đặt ở các buồng xây ghé với gian máy chính.</para>
+        <para id="id4524160">Sau đây là một số sơ đồ bố trí khu nhà máy kiểu móng tách ( Hình 11 - 20):</para>
+        <figure id="id4787547">
+          <media id="id3182238" alt=""><image src="../../media/graphics2-56d7.png" mime-type="image/png" height="283" width="462"/></media>
+        </figure>
+        <para id="id3662840">a,  - các gian phụ đặt dọc và đặt một đầu gian máy chính; b - các gian phụ đặt một đầu và một phần dọc gian chính; - các gian phụ đặt tách khỏi gian chính. 1- gian máy chính; 2 - gian thiết bị phân phối; 3- sàn lắp ráp; 4- hành lang nối.</para>
+        <para id="id5144768">Sơ đồ bố trí như Hình 11 - 20,a có lợi là giảm được chi phí cáp điện, nhưng có nhược điểm là vướng đoạn ra ống đẩy. Sơ đồ Hình 11- 20,,b ngược lại làm tăng chi phí cáp động lực và cáp kiểm tra, khó quan sát bằng mắt khi tổ máy làm việc. Nhưng lại có ưu điểm ở chỗ là việc lắp ráp các thiết bị phụ cơ điện có thể tiến hành khi chưa kết thúc việc xây dựng nhà máy chính, giảm được tiếng ồn và rung động trong các gian máy phụ. Sơ đồ Hình 11 - 20, được dùng trong điều kiện gian máy chính và các gian máy phụ khác</para>
+        <para id="id4944861">cao trình nhau. Các gian máy phụ đặt ở nhà riêng cạnh nhà máy chính và nối với gian máy chính bởi hành lang nối 4. Sơ đồ này có ưu điểm như ở sơ đồ ,b, ngoài ra còn cho phép đơn giản về kết cấu móng.</para>
+        <para id="id4944868">Về kiểu nhà máy, tùy vào định hình của tổ máy bơm chính, tùy thuộc vào điều kiện thiên nhiên và vật liệu xây dựng mà có thể có một số sơ đồ sau:</para>
+        <figure id="id3760695">
+          <media id="id2221003" alt=""><image src="../../media/graphics3-b137.png" mime-type="image/png" height="392" width="407"/></media>
+        </figure>
+        <para id="id4505642">a - dùng bơm song hướng;  - bố trí tổ máy bơm trong buồng nhỏ; b - nhà máy đặt gần giếng bờ. 1- móng nhà máy; 2- khung; 3- gian máy; 4- cầu trục treo; 5- rãnh cáp;6- máy bơm; 7- van; 8,9 - ống hút và ống đẩy; 10- giếng bờ; 11- lỗ lấy nước; 12- các cửa van và thiết bị điều khiển; 13- các rãnh của: lưới chắn rác, van sữa chữa.</para>
+        <para id="id3865772">Sơ đồ a được dùng phổ biến nhất trong trạm bơm tưới tiêu. Thông thường dùng các kấu kiện bê tông cốt thép đã đúc sẵn ở nhà máy và các trang thiết bị phụ như cầu trục treo hay cầu trục cầu đem đến và lắp ráp tại hiện trường. Sơ đồ  phức tạp hơn sơ đồ a một ít. Nhà máy được xây dựng theo sơ đồ này đắt hơn theo sơ đồ a, nhưng lại có một loạt ưu điểm : đường ống đẩy có thể đặt trong đất mà không phải dùng ống khuỷu; gian lắp ráp và cầu công tác có thể đặt cùng một cao trình; chiều cao phần trên thấp hơn. Sơ đồ b chỉ được sử dụng trong trường hợp nếu nền công trình là đá cứng hoặc đất chặt nửa cứng, trong đó hố móng có thể đào mái dốc đứng.</para>
+        <para id="id5111831">Hình 11 - 21*biểu thị việc bố trí nhà máy bơm móng tách trên mặt đất cung cấp nước vào mạng lưới kín. Chiều dài gian máy được xác định bới kích thước của máy bơm chính và máy bơm tăng áp ( hoặc máy bơm "bổ sung ") đặt một dãy và kích thước máy nén khí.( Khi số máy bơm bằng hoặc nhiều hơn bốn máy có thể bố trí hai dãy. Cách bố trí hai dãy sẽ rút ngắn chiều dài nhà máy nhưng lại làm tăng bề rộng nhà máy và cầu trục ). Trong nhà máy cần làm cầu công tác 5 để đi lại do đường ống đặt trên sàn ngăn trỡ. Sàn lắp ráp đặt ở một đầu nhà, đầu nhà đối diện là các phòng phụ đặt các tủ điều khiển 11 và các thiết bị phân phối điện 10, phòng phân phối đặt gần máy biến áp ngoài trời. Phần trên bố trí cầu trục dầm treo 3 để thao tác các thiết bị khi tháo lắp sữa chữa.</para>
+        <figure id="id5111837">
+          <media id="id2602162" alt=""><image src="../../media/graphics4-1058.png" mime-type="image/png" height="249" width="527"/></media>
+        </figure>
+        <para id="id4366402">1- rãnh đặt cáp động lực và cáp kiểm tra; 2- gian máy; 3- cầu trục dầm treo; 4- van ;5- cầu công tác; 6- van ngược; 7- máy bơm chính; 8- động cơ điện của bơm chính; 9,12-móng của bơm tăng áp và của máy nén khí; 10- tổ hợp thiết bị phân phối; 11-t.b.đ.khiển</para>
+      </section>
+      <section id="id-733352409304">
+        <title>Cấu tạo móng tổ máy bơm trục ngang.</title>
+        <para id="id5000381">Kết cấu móng của tổ máy bơm phụ thuộc vào kích thước máy. Trong nhà máy đặt trên mặt đất với tổ máy trục ngang thường làm móng bê tông cốt thép tách rời móng nhà máy, đáy móng máy đặt sâu xuống nền và phần bê tông nhô lên cao hơn mặt sàn gian máy một khoảng từ 10 ... 15 cm. Sơ đồ Hình 11 - 22 trình bày cách liên kết giữa máy và móng máy trục ngang. Móng máy bơm thường cấu tạo gồm có : khối móng bê tông cốt thép, lớp thép đệm có chiều dày 5 ... 20 mm lót dưới chân máy và các buloong néo một đầu chôn chặt vào móng còn đầu phía trên dùng êcu để siết khi lắp ráp. Lớp thép đệm được đặt trên mặt bê tông hoặc đặt trên khung được tạo từ thép chữ I hàn vào cốt thép của móng. Việc sử dụng khung thép làm tăng khối lượng thép nhưng lại có tác dụng giảm ứng suất cục bộ tác động lên mặt bê tông và làm đơn giản khâu lắp ráp và giảm khối lượng lắp đặt, việc thay thế buloong néo được giảm nhẹ hơn.</para>
+        <para id="id5000389">Hình 11 - 22,a là móng tách của tổ máy trục ngang bơm li tâm công xôn. Hình 11 - 22, là móng của máy bơm song hướng trục ngang phức tạp hơn, sự liên kết giữa thiết bị và móng có thể dùng cho cả móng tách hoặc móng kiểu buồng. Đối với loại móng kiều buồng thì phần bê tông của móng máy được đúc liền khối với móng nhà, do vậy càng tăng mức ổn định và tính chịu lực của móng.</para>
+        <para id="id4866888">Đối với bơm li tâm trục đứng lưu lượng dưới 3,5 m3/s thì thân máy bơm có thể đặt hở trên các móng trụ, còn khi lưu lượng lớn hơn thì cần chôn một phần hay toàn bộ trong khối bê tông.</para>
+        <figure id="id4491134">
+          <media id="id3276934" alt=""><image src="../../media/graphics5-6fd4.png" mime-type="image/png" height="547" width="410"/></media>
+        </figure>
+        <para id="id5228764">Hình 11 - 22. Các sơ đồ đặt tổ máy bơm trục ngang và móng tách.</para>
+        <para id="id5228768">a - khi công suất &lt; 1000 kW;  - khi công suất &gt; 1000 kW; 1- máy bơm li tâm; 2- động </para>
+        <para id="id3744093">cơ điện; 3- móng bê tông cốt thép; 4- bu loong ngàm vào bê tông ; 5- bu loong néo; 6,7,11- các khung của tổ máy bơm, của động cơ điện, của máy bơm; 8- hố của móng; 9- dẫn khí; 10- thép chôn; 12- ghép bu loong.</para>
+        <para id="id3771983">Móng dưới máy và đáy móng cần tính với những tải trọng sau: Tải trọng tĩnh gồm trọng lượng thiết bị kể cả nước và dầu trong nó, trọng lượng bản thân móng và sàn giữa hai tầng ( nếu có ), trọng lượng ống tựa trên máy bơm, áp lực nước lên cửa ra của bơm; Tải trọng động gồm trọng lượng rôto + trục của tổ máy, lực nước dọc trục lên BXCT, các tải trọng phát sinh ở chế độ quá trình quá độ và ngắn mạch cuộn stator động cơ điện.</para>
+      </section>
+      <section id="id-397530108621">
+        <title>Bố trí và ghép nối đường ống trong trạm bơm</title>
+        <para id="id4873247">1. Bố trí và ghép nối ống hút</para>
+        <para id="id4873256">Đường ống hút dùng để lấy nước từ công trình tập trung nước (bể hút,buồng hút) đến máy bơm. Việc bố trí và kích thước gian máy bơm phụ thuộc vào sơ đồ ghép nối đường ống hút và ống đẩy trong nhà máy. Yêu cầu cơ bản đối với ống hút là:</para>
+        <list id="id4944837" list-type="bulleted">
+          <item>Phải kín để không cho không khí lọt vào máy bơm, vì nếu không khí lọt vào sẽ làm giảm độ chân không, gây nên giảm lưu lượng và hiệu suất của máy bơm; cố gắng giảm tổn thất cột nước trong ống hút để độ cao hút địa hình hS tăng. Hình 11 - 23 là một số cách bố trí và nối ống hút để tránh không khí lọt vào bơm và giảm tổn thất trên ống hút. Để tránh các túi khí cần làm đoạn ống nối từ miệng vào của máy bơm và đoạn ống hút có dạng hình nón lệch với tuyến trên của đoạn nối được đặt nằm ngang ( xem hình ), không làm đoạn ống nối lồi cao, đặt đầu ống hút chênh cao lên máy bơm với độ dốc  0,005 để không khí bị tháo theo dòng nước ra khỏi ống hút khi dừng máy.</item>
+        </list>
+        <figure id="id4637212">
+          <media id="id2129975" alt=""><image src="../../media/graphics6-2c6e.png" mime-type="image/png" height="387" width="399"/></media>
+        </figure>
+        <para id="id4969362"> Hình 11 - 23. Cách nối ống hút đối với máy bơm li tâm.</para>
+        <para id="id5159491">- Độ sâu ngập miệng vào ống hút phải đảm bảo không sinh xoáy nước hình phểu khi dòng chảy vào máy bơm. Do vậy ở chỗ ống hút xoay góc trước khi vào máy bơm cần đặt đoạn nối thẳng để dòng xoáy bị cách li không trực tiếp vào trong bơm ( xem hình ).</para>
+        <para id="id4862186">Đường kính ống hút lấy theo tốc độ cho phép ở miệng vào ống hút V = 0,8 ... 1 m/s, còn vận tốc trong ống V = 1 ... 1,2 m/s. Độ ngập miệng ống hút h2 lấy như đã trình bày ở trên, để tránh bùn cát vào máy bơm thì h1 nên lấy 0,8 Dv trở lên. Khoảng cách giữa các trục ống hút khi dùng chung không ngăn bể hút lấy không nhỏ hơn 1,5Dv.</para>
+        <para id="id4118612">Đoạn ống hút gắn với bể tập trung nước nên có đai thép giữ cho khỏi rung và đoạn ống hút ở chỗ xuyên qua tường hút không nên gắn cứng để khi lún không đều thì ống hút không bị ứng lực do lún tác động. Đoạn ống hút đặt trên mặt đất có bệ đỡ, khoảng cách giữa các bệ đỡ xác định theo điều kiện làm việc tĩnh. Các chỗ nối bích gữa các đoạn ống không nên đắp đất vì sẽ làm hỏng bulông và khó quản lý sữa chữa.</para>
+        <para id="id4937320">Thông thường khi ống hút ngắn thường mỗi máy bơm dùng riêng một ống hút ( xem Hình 11 - 24,a ), khi đường ống hút dài và đường kính nhỏ hoặc vì xây bể tập trung nước quá rộng có thể bố trí một hoặc hai, ba ... ống hút chung cho các tổ máy ( xem Hình 24,b,c ). Số lượng ống hút ít sẽ giảm được thép và giảm kích thước bể hút, tuy nhiên sẽ làm tăng số lượng các van, tăng tổn thất cột nước và còn làm tăng kích thước mặt bằng nhà máy. Do vậy phải qua tính toán so sánh kinh tế kỹ thuật để chọn sơ đồ.</para>
+        <figure id="id3930704">
+          <media id="id2264713" alt=""><image src="../../media/graphics7-504c.png" mime-type="image/png" height="198" width="460"/></media>
+        </figure>
+        <para id="id3995669">4 - ống hút; 5- ống nối; H1, H2, H3 là các máy bơm; 1', 2' ... các van.</para>
+        <para id="id5075487">2. Ghép nối ống đẩy trong nhà máy bơm</para>
+        <para id="id5075497">Thông thường mỗi máy bơm có một ống hút và một ống đẩy riêng ( xem Hình 11 - 24,a và Hình 11 - 25,a ). Tuy nhiên khi đường ống đẩy ngoài nhà máy dài, nếu dùng mỗi máy một ống đẩy thì sẽ tăng khối lượng ống hoặc số ống đẩy nhiều phải mở rộng kích thước bể tháo, trường hợp này có thể ghép ống đẩy theo nhóm để giảm khối lượng ống và kích thước bể tháo ( xem Hình 11 - 24 và 11- 25 : , b, ). Các đoạn ống ghép nối đặt trong nhà máy để có thể bơm nước vào bất cứ đường ống nào ở ngoài nhà máy.</para>
+        <para id="id3807889">Sơ đồ hệ thống van ghép nối trên đường ống phụ thuộc vào điều kiện làm việc của trạm bơm và yêu cầu kỹ thuật của trạm bơm: Các trạm bơm tưới nếu cho phép tạm thời ngừng riêng từng máy hoặc ngừng toàn bộ các máy ít ngày để sữa chữa thì sơ đồ ghép nối sẽ đơn giản, còn trạm bơm tiêu hoặc trạm bơm cấp nước phải hoạt động liên tục thì sơ đồ ghép nối sẽ phức tạp hơn do tăng các thiết bị trên sơ đồ.</para>
+        <para id="id5252324">Đường kính ống áp lực ( ống đẩy ) DH xác định theo vận tốc cho phép của dòng nước trong ống: đối với DH  250 mm thì VH = 1,5 ... 2 m/s; với ống DH  250 mm thì VH = 2 ... 2,5 m/s. Vì vận tốc nước ở cửa ra máy bơm rất lớn V = 5 ... 7 m/s, do đó phải lắp thêm đoạn ống mở rộng dần với góc ở chóp từ 80 ... 120 để giảm dần vận tốc.</para>
+        <para id="id4948158">Cách ghép nối ống đẩy trong nhà máy cần thỏa mãn các điều kiện sau:</para>
+        <para id="id4727184">- Bảo đảm có thể sữa bất kỳ máy bơm nào mà không dừng hay làm ảnh hưởng </para>
+        <para id="id4635576">đến sự làm việc của các máy khác.;</para>
+        <para id="id4727189">- Khi cần có thể tháo lắp nhanh các thiết bị, đi lại quản lý thiết bị dễ dàng;</para>
+        <para id="id3922284">- Bảo đảm các điều kiện làm việc của các máy bơm với các ống đẩy bên ngoài.</para>
+        <para id="id5075463">Hình 11 - 24 trình bày một số sơ đồ ghép ống áp lực với bơm li tâm trục đứng. Trên</para>
+        <para id="id4830228">tuyến ống áp lực chỉ đặt van chặn dòng, phía trước van chỉ đặt đoạn ống lắp ráp, phần lớn các trường hợp không lắp van ngược vì khi ngắt sự cố van ngược sẽ sinh áp lực nước</para>
+        <figure id="id4511536">
+          <media id="id2640831" alt=""><image src="../../media/graphics8-e899.png" mime-type="image/png" height="372" width="420"/></media>
+        </figure>
+        <para id="id4777936">va rất lớn trong ống, bơm li tâm trục đứng và động cơ điện của nó cho phép quay ngược rôtor tạm thời, mặc khác loại van ngược có đường kính lớn hơn 1 m nói chung không được sản xuất . Sau đây ta phân tích một số sơ đồ ghép nối trên Hình 11 - 24:</para>
+        <para id="id4784019">Sơ đồ a được dùng trong trường hợp chiều dài của ống áp lực ( ống đẩy ) nhỏ. Mỗi máy bơm cung cấp nước vào một ống, nghĩa là số ống bằng số máy bơm. Sơ đồ này đơn giản, không yêu cầu chuyển đổi giữa các ống. Van lắp trên ống đẩy chỉ làm nhiệm vụ ngắt máy bơm khỏi đường ống.</para>
+        <para id="id5000364">Các sơ đồ  và được dùng khi số lượng tổ máy bơm là chẵn ( bốn và sáu ) chiều dài ống tương đối lớn. Một nửa số tổ máy bơm nước vào một đường ống, nửa còn lại bơm vào ống thứ hai. Nhược điểm của các sơ đồ này là lưu lượng trong các ống nhánh không đều nhau khi số nhánh cùng làm việc là số lẻ; nhưng ưu điểm của các sơ đồ này là ghép nối đơn giản hơn so với sơ đồ b.</para>
+        <para id="id4710406">Sơ đồ b được dùng khi số lượng tổ máy là số lẻ, chiều dài ống lớn. Cả hai truyến ống đặt van ngăn dòng nước và cho phép máy bơm giữa có thể đổi nối qua cả hai tuyến ống</para>
+        <para id="id3771914">Người ta bố trí thiết bị trên ống trong một giếng riêng ngoài nhà máy. Sơ đồ ghép nối này cho ta khả năng phân bố đều lưu lượng theo các ống khi số tổ máy bơm cùng làm việc là lẻ ( với yêu cầu tổ máy giữa trong số các tổ máy phải làm việc ).</para>
+        <para id="id4033136">Hình 11 - 25 trình bày các sơ đồ ghép nối ống đẩy của trạm bơm dùng các tổ máy bơm hướng trục và máy bơm li tâm trục ngang. Sau đây ta cũng phân tích các sơ đồ nầy:</para>
+        <figure id="id3893126">
+          <media id="id2126484" alt=""><image src="../../media/graphics9-b7bd.png" mime-type="image/png" height="498" width="328"/></media>
+        </figure>
+        <para id="id3865737">Trên sơ đồ a chỉ dẫn cách ghép nối đơn giản nhất, dùng cho máy bơm hướng trục, không đặt van trên ống đẩy. Khi đoạn khuỷu cong ở phần ra BXCT có góc dẫn 600 thì ống đẩy nối trực tiếp vào đó và tạo một góc 300 với phương ngang rồi lắp tiếp đoạn mở rộng và nối với ống áp lực. Khi đoạn khuỷu cong ở phần ra BXCT có góc 900 thì lắp ống đẩy nằm ngang.</para>
+        <para id="id4778720">Sơ đồ  được áp dụng rộng rãi ở trạm bơm tưới với bốn tổ máy bơm nước và hai ống áp lực. Trên tuyến ống áp lực có thể có hai phương án bố trí thiết bị :</para>
+        <para id="id3732018">phương án thứ 1: lần lượt đặt đoạn lắp ráp, van ngược, van chặn, đoạn mở rộng;</para>
+        <para id="id4846602">phương án thứ 2 : lần lượt: đoạn mở rộng, đoạn lắp ráp, van ngược, van chặn.</para>
+        <para id="id4753087">Việc đặt van ngược trước van chặn cho ta khả năng thay thế nó mà không phải tháo đường ống . Van ngược thường ít hỏng hơn van điều tiết. Vì kích thước van ngược loại đĩa treo tương đối lớn trong một số trường hợp riêng để giảm bề rộng nhà máy người ta đưa nó ra ngoài nhà máy và đặt trong giếng riêng.</para>
+        <para id="id5192054">Sơ đồ b được dùng trong trạm bơm tưới với bốn máy bơm chính và hai máy bơm phụ ( bơm tăng áp ) bơm nước vào đường ống kín đến các máy tưới kiểu phun mưa. Các ống đẩy của máy bơm ghép vào đoạn ống góp áp lực. Mỗi nhánh ống của tổ máy bơm đặt đoạn lắp ráp, van ngược và van điều tiết. Thường đường kính tuyến áp lực nhỏ do vậy lấy bằg đường kính đoạn nối của máy bơm, còn đường kính đoạn góp lấy không đổi và bằng đường kính ống áp lực. Đầu ống áp lực được nối với thùng không khí - nước. Để bảo đảm trạm bơm làm việc tự động, ta đặt dụng cụ đo lưu lượng kiểu cảm ứng.</para>
+        <para id="id4635191">Sơ đô ̀... đặc trưng cho trạm bơm cấp nước nông thôn. Bất cứ máy bơm nào trong sơ đồ này đều có thể đóng vào ống chính trái hoặc phải. Bởi vậy không chỉ đặt các van điều tiết trên ống đẩy của máy bơm mà còn đặt trên ống góp và trên các ống chính.</para>
+        <para id="id3826536">3. Bố trí ống áp lực trong nhà máy bơm</para>
+        <para id="id3978778">Trong nhà máy bơm kiểu buồng và kiểu móng tách đường ống có ảnh hưởng lớn đến việc bố trí và kích thước của gian máy. Khi đường kính ống nhỏ ( thường không qúa 400 mm ) thường đặt ống trong các rãnh dưới sàn máy và đậy nắp rãnh để đi lại an toàn, khi đường kính ống lớn hơn 400 mm thì thường đặt ống trên sàn. Những chỗ có đặt thiết bị trên ống như van, van ngược ... cần xây bệ đở để ống khỏi bị võng. Khi đặt ống trên mặt sàn, việc đi lại vận hành sẽ gặp khó khăn do vậy cần xây cầu công tác ( hay sàn lững ) trên đường ống để đi lại, thao tác thiết bị và đặt thiết bị điện ( nếu đặt thiết bị điện trong nhà máy, xem lại các Hình 11 - 14, và 11 - 15 ).</para>
+        <para id="id4952394">Hình 11 - 26*trình bày cách đặt ống dưới sàn máy. Kích thước rãnh lấy như sau:</para>
+        <para id="id4522382">h = Dng + ( 0,15 ... 0,3 ); ( m ); ( Dng là đường kính ngoài của ống, m )</para>
+        <figure id="id5140170">
+          <media id="id2774891" alt=""><image src="../../media/graphics10-8f00.png" mime-type="image/png" height="159" width="224"/></media>
+        </figure>
+        <para id="id4859113">Khi đường ống xuyên qua tường ra ngoài nhà máy bơm trục ngang kiểu buồng và nhà máy móng tách một phần nhỏ dưới mặt đất, để đảm bảo an toàn khi nhiệt độ thay đổi, khi lún không đều hoặc khi có động đất ( ở vùng có cấp động đất cao ), người ta dùng hình thức ngàm mềm vào tường ( như Hình 11 - 27,a, ) có vòng chống rò.</para>
+        <para id="id4620839">Hình 11 - 26,a là cấu tạo của vòng chống rò có vòng ép. Hình thức này được dùng khi điều kiện làm việc của đường ống ở nơi đất thấm nước và đất xốp. Đoạn ống 6 có gờ</para>
+        <para id="id4836615">5 được đổ bê tông chắc vào tường, dùng vòng ép 2 với các buloong 1 để điều chỉnh các vòng chống rò nước 4 bằng cao su hoặc dây gai tẩm nhựa sao cho không rò nước. Vòng chống rò kiểu trượt này có độ dẽo cao, an toàn và bảo đảm chống rò nước tốt.</para>
+        <para id="id3731074">Loại vòng chống rò không có vòng ép như Hình 11 - 26, có kết cấu đơn giản hơn loại a trên. Thân của nó là một đoạn ống có vòng gờ 5 làm bằng thép hàn. Bên trong đoạn thân ống có đặt hai vành tựa chắn 7 bằng dây dài 300 mm. Giữa hai vành chắn đặt các bó dây gai tẩm nhựa và đổ vữa xi mămg a mi ăng và bi tum mát tíc. </para>
+        <figure id="id3785058">
+          <media id="id2149146" alt=""><image src="../../media/graphics11-82be.png" mime-type="image/png" height="236" width="509"/></media>
+        </figure>
+        <para id="id5252351">Hình 11 - 26.Kết cấu của vòng chống rò ở chỗ ống xuyên tường.</para>
+        <para id="id3920510">Trên các trạm bơm nhà máy kiểu khối và kiểu buồng, tường của chúng được đổ bê tông khối, lắp máy bơm li tâm trục đứng và máy bơm hướng trục ( trong trường hợp riêng còn dùng cả cho máy trục ngang ), chỗ ống xuyên tường dùng ngàm cứng. Thường để chuyển ống qua tường ta dùng đoạn ống nối 2 được đổ bê tông chôn chặt trong tường và hàn vòng gờ 1 để giảm rò nước ( xem Hình 11 - 26,b ), đường ống xuyên qua tường có thể đặt ngang hoặc xiên một góc với đường ngang.</para>
+      </section>
+    </section>
+    <section id="id-639712693898">
+      <title>CÁC LOẠI NHÀ MÁY BƠM DI ĐỘNG</title>
+      <para id="id5159528">Như đã trình bày ở trước, nhà máy bơm loại di động có các loại: trạm bơm nổi ( trạm bơm thuyền ) và các loại di động trên đường bộ ( trên rây, trên ôtô ... ).</para>
+      <section id="id-89268126926">
+        <title>Trạm bơm thuyền</title>
+        <para id="id4877062">Thực chất trạm bơm thuyền thuộc loại nhà máy bơm kiểu buồng khô đặt trên nền nước. Ở những vùng có mạng lưới sông ngòi đi lại thuận tiện , mực nước lên xuống thường xuyên thì dùng loại bơm thuyền di chuyển trên các sông lạch để bơm nước tưới cho những khu tưới ven bờ sẽ rất lợi vì vốn đầu tư vào các công trình đường ống và các công trình đưa nước qua sông, kênh mương ..v.v.. sẽ nhỏ .</para>
+        <para id="id5075791">Trạm bơm thuyền có thể di chuyển bằng chèo hoặc dùng các phương tiện cơ giới để kéo. Vỏ thuyền có thể làm bằng bê tông cốt thép hoặc bằng thép hay bằng gỗ, tuy nhiên nên dùng làm bằng thép và bê tông cốt thép bền hơn và không thấm nước, khi bơm dùng</para>
+        <para id="id3826561">động cơ điện thì không được làm bằng vỏ gỗ. Sau đây giới thiệu cấu tạo của bơm thuyền. Trạm bơm thuyền bao gồm cầu phao nổi được làm ở dạng xà lan hay tầu thuyền để neo đậu cạnh bờ sông hoặc trong bến nhỏ để tránh sóng. Lưu lượng của mỗi trạm bơm thuyền thường không quá 20 m3/s và cột nước dưới 100 m, khi cần bơm lưu lượng lớn hơn thì ghép vài trạm lại. Máy bơm chính có thể đạt 3,5 m3/s với công suất đến 2000 kW và được đặt ở khoang tầu. Phổ biến nhất là dùng phao nổi bằng thép có mặt cắt ngang chữ nhật, phần trước và phần đuôi thuôn ( xem Hình 11 - 27 ). Tỷ số giữa chiều dài L và chiều rộng B vỏ thuyền khoảng 6 ... 7, giữa chiều rộng B và chiều cao H không lớn hơn 5, chiều dài phần thuôn lấy bằng l = 1/8 L, góc thon trên mặt bằng lấy bằng  = 14 ... 150, góc thon đứng  = 10 ... 120, chiều cao bộ phận che mưa h lấy không quá 4 m, chiều rộng lối đi lại lấy không nhỏ hơn 1 m. Hệ thống chịu lực là các sườn đặt cách nhau 600 mm ( ở phần giữa tầu ) và 500 mm ( ở phần thuôn ). Cách bố trí máy bơm như</para>
+        <figure id="id4617859">
+          <media id="id3313982" alt=""><image src="../../media/graphics12-6a98.png" mime-type="image/png" height="326" width="411"/></media>
+        </figure>
+        <para id="id4550380">1- động cơ điện; 2,9- máy bơm chính và máy bơm nước thấm trục ngang; 3- buồng lấy nước; 4- vỏ thuyền; 5- trục tời; 6- rây và pa lăng xích; 7- phần che mưa; 8- liên kết cầu; 10- cửa buồng.</para>
+        <para id="id4550385">chỉ dẫn trong hình vẽ. Phần cầu nổi của thuyền làm kiểu vách đôi, các vách ngăn không được thấm nước. Các tổ máy bơm chính trục ngang đặt trên các khung sườn ở đáy thuyền. Lỗ lấy nước ( xem Hình 11 - 28 ) được trang bị lưới chắn rác và lưới ngăn cá. Để quan trắc buồng lấy nước và dọn sạch lưới người ta trang bị van nắp .</para>
+        <para id="id3760493">Gian máy thường có trang bị cầu trục kiểu dầm hoặc cần trục cầu điều khiển thủ công có sức nâng dưới 10 tấn. Để neo buột thuyền sử dụng ba dây cáp tời, mỗi đầu buộc vào cột cáp. Nối phần ra ống đẩy với đường ống áp lực đến nơi tưới bằng khớp nối cầu, </para>
+        <para id="id3744044"/>
+        <figure id="id3976510">
+          <media id="id2296435" alt=""><image src="../../media/graphics13-ebc5.png" mime-type="image/png" height="250" width="408"/></media>
+        </figure>
+        <para id="id3882227">a- không có bộ phận bảo vệ cá;  - có lưới ngăn cá; 1- lưới chắn rác; 2- cửa van; 3- vật giữ; 4- nắp kín; 5- buồng nhận nước; 6- tấm chắn định hướng; 7,9- ống nối tiếp; 8- xích; 10- lưới trống ngăn cá; 11- đối trọng; 12- rây định hướng để nâng trống; 13- dây chão.</para>
+        <para id="id3767104">cách nối như thế cho phép trạm bơm dịch chuyển theo phương đứng mà ống không bị hỏng ( xem cấu tạo khớp cầu ở Hình 11 - 29,a,b ).</para>
+        <figure id="id3864817">
+          <media id="id2933381" alt=""><image src="../../media/graphics14-fce9.png" mime-type="image/png" height="318" width="527"/></media>
+        </figure>
+        <para id="id4854435">a - Cắt ngang thuyền bơm, máy bơm hướng trục trục ngang và nối với ống áp lực.</para>
+        <para id="id4854443">b -Cấu tạo khớp nối cầu: 1,5- phần tĩnh và phần động; 2- vòng ép; 3- êcu; 4- buloong;</para>
+        <para id="id4828247">6,7- vòng chống rò nước.</para>
+        <para id="id4828252">Hình 11 - 30 là một cách bố trí và cấu tạo khác của trạm bơm thuyền với quy mô lớn hơn, trong đó bố trí máy bơm li tâm song hướng tổ máy trục ngang, hai đầu của bơm thuyền bố trí các buồng thiết bị điện, máy biến áp ...v.v... và lấy nước ở bên hông của thuyền , phần trên ( phần che mưa ) có chiều cao thấp. Việc lấy nước ở hông được dùng</para>
+        <para id="id4784783">với điều kiện độ sâu mớm nước cao hơn mép trên cửa lấy nước tối thiểu 0,8 m.</para>
+        <figure id="id4923884">
+          <media id="id2982730" alt=""><image src="../../media/graphics15-aead.png" mime-type="image/png" height="258" width="410"/></media>
+        </figure>
+        <para id="id4739764">1- phần trên; 2- cầu trục chữ môn; 3- vỏ thuyền; 4- nối khớp cầu; 6,7,11- các buồng tương ứng: động có điện, máy biến áp, các cơ cấu phụ; 8- gian máy; 9- xưởng cơ khí; 10- khoang mũi; 12,13- buồng đặc biệt để giữ cân bằng và buồng lấy nước.</para>
+        <para id="id3766934">Độ nổi của bơm thuyền, cũng như của các vật thể nổi khác, là khả năng cân bằng được dưới tác dụng của hai lực: trọng lượng bơm thuyền và các thiết bị trên nó G đặt tại trọng tâm C và áp lực đẩy nổi của nước W ( ở đây W là thể tích nước bị phần thuyền bơm chiếm chỗ hay còn gọi là dung tích đẩy nổi ) đặt tại trọng tâm D ( xem Hình 11 - 31 ). Trường hợp lý tưởng ( khi tải trọng bố trí đối xứng ) thì đường nối qua điểm C và D</para>
+        <figure id="id3817616">
+          <media id="id2676868" alt=""><image src="../../media/graphics16-4634.png" mime-type="image/png" height="207" width="352"/></media>
+        </figure>
+        <para id="id4478660">gọi là trục nổi ) là thẳng đứng. Khi tải trọng đặt không đối xứng thì thuyền bị chồng chềnh lực đẩy P = W hướng lên trên, trọng tâm từ điểm D dịch sang điểm D' và có xu hướng quay trở về vị trí cân bằng ban đầu. Khi  &gt; 0, cặp lực trên tạo mô men ổn định thuyền:</para>
+        <para id="id4836590">Môđ = GhM sin = G ( I0 / P - d ).sin( 11 - 10 )</para>
+        <para id="id4573271">Ở đây: I0 là mô men quán tính của mặt cắt ngang lấy với trục O, Tm ;</para>
+        <para id="id3770683">hM là khoảng cách từ điểm C đến điểm M, nghĩa là tâm nghiêng ( điểm giao </para>
+        <para id="id3323144">của lực P với trục nổi ), m ; </para>
+        <para id="id3760459">d là khoảng các từ C đến D, m.</para>
+        <para id="id3760463">Phân tích công thức ( 11 - 10 ) và Hình 11 - 31 có thể rút ra kết luận rằng : Thuyền bơm sẽ nổi nếu G = P. Khi thuyền bị chồng chềnh nó sẽ ổn định nếu hM &gt; 0 và Môđ &gt; 0 ( thường hM &gt; 0,5 m ). Thuyền vẫn ở trạng thái nghiêng nếu lực đẩy P = W và qua điểm D' và C. Nếu  &gt; 20 thì cần phải có những khoang đặc biệt ở mũi và đuôi thuyền hoặc ở hai mạn thuyền để điều chỉnh giữ cân bằng cho thuyền.</para>
+        <para id="id4857871">Ưu điểm của trạm bơm nổi nói chung là có thể làm việc trong điều kiện lấy nước khó khăn ( giao động mực nước lớn hơn 5 m, lòng không ổn đinh, lượng bùn cát hơn 5 g/l ), an tòan hơn trong vận hành, so với các trạm bơm tĩnh tại thì giá thành của nó rẻ hơn, đơn giản hơn và xây dựng nhanh hơn. Tuy nhiên nó có những nhược điểm là: phức tạp trong việc sữa chữa, yêu cầu phải tăng thêm biên chế phụ về thủy thủ, thời hạn phục vụ thấp ( khoảng 2,5 lần ít hơn trạm bơm tĩnh tại ), khối lượng sữa chữa lớn.</para>
+      </section>
+      <section id="id-556167939464">
+        <title>Trạm bơm di động trên bộ</title>
+        <para id="id5059482">Loại trạm bơm này có một số cách như : trạm bơm chạy trên xe ( xem Hình11 - 2, ) và trạm bơm đặt trên rây, bờ dốc ( xem Hình 8 - 9 ). Thời gian gần đây việc tưới cho các loại cây trồng như rau xanh, cây công nghiệp nằm ven sông hoặc ven kênh dùng trạm bơm nước di động khá công dụng. Các trạm bơm này dùng cung cấp lượng nước không lớn theo mùa. Ưu điểm của trạm bơm di động là:</para>
+        <para id="id3770666">- Trong một thời gian ngắn có thể thay đổi vị trí trạm bơm khi mực nước nguồn thay đổi hoặc tưới luân lưu cho các khu tưới;</para>
+        <para id="id4579547">- Vào mùa lũ không phải lo công việc tháo lắp và di chuyển máy bơm;</para>
+        <para id="id4877093">- Có thể di chuyển từ công trình xây dựng này đến công trình xây dựng khác để bơm nước hố móng và cấp nước cho các khu có nhu cầu ( dùng trạm bơm trên xe kéo );</para>
+        <para id="id5217164">- Làm các trạm bơm di động sẽ giảm được giá thành xây dựng, chóng đưa trạm vào phục vụ sản xuất và tiết kiệm được vật liệu xây dựng.</para>
+        <para id="id4125373">Thường các trạm bơm di động có lưu lượng dưới 100 l/s, cột nước có thể lớn nhỏ, trạm tưới phun mưa có cột nước lên tới 100 m. Trạm bơm di động có thể sử dụng động cơ điện hoặc động cơ đốt trong. Đối với trạm bơm di động đường bộ sử dụng máy kéo để di chuyển thời gian không cần bơm có thể sử dụng máy kéo vào công việc khác.</para>
+        <para id="id4866862">Ngoài những kiểu nhà máy đã trình bày ở trên còn có nhiều kiểu nhà máy đặc biệt như : nhà máy bơm cáp xun, nhà máy thủy điện có turbin thuận nghịch ( vừa bơm vừa là turbin ), nhà máy bơm trục xiên, nhà máy bơm ống đẩy xi phông ..v.v...</para>
+        <figure id="id4673108">
+          <media id="id2900206" alt=""><image src="../../media/graphics17-532a.png" mime-type="image/png" height="650" width="591"/></media>
+        </figure>
+      </section>
+    </section>
+  </content>
+</document>

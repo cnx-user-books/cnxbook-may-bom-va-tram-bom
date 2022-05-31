@@ -1,0 +1,322 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hệ thống công trình trạm bơm</title>
+  <metadata>
+  <md:content-id>m31066</md:content-id><md:title>Hệ thống công trình trạm bơm</md:title>
+  <md:abstract>Phần này trình bày khái niệm chung về hệ thống công trình trạm bơm</md:abstract>
+  <md:uuid>3c17c9bb-9f82-42f5-8005-84c963346188</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-222320862655">
+      <title>KHÁI NIỆM CHUNG VỀ HỆ THỐNG CÔNG TRÌNH TRẠM BƠM</title>
+      <para id="id4850935">Hệ thống công trình trạm bơm là tổ hợp các công trình thủy công và các trang thiết bị cơ điện ... nhằm đảm bảo lấy nước từ nguồn nước, vận chuyển và bơm nước đến nơi sử dụng hoặc cần tiêu nước thừa ra nơi khác.</para>
+      <section id="id-566836636707">
+        <title>Các thành phần công trình của hệ thống trạm bơm.</title>
+        <para id="id5133941">Trên hình ( 1 - 3 ) ở cuối chương I đã trinh bày khái niệm về hệ thống một trạm bơm. Sau đây chúng ta hãy xét thành phần đầy đủ của một hệ thống trạm bơm, như Hình 8 -1 dưới đây để hiểu vị trí và công dụng của mỗi thành phần tạo nên hệ thống trạm bơm:</para>
+        <figure id="id4139955">
+          <media id="id8356519" alt=""><image src="../../media/graphics1-c126.png" mime-type="image/png" height="194" width="386"/></media>
+        </figure>
+        <para id="id4742764"/>
+        <para id="id4742771"/>
+        <para id="id4742778">Hình 8 - 1. Sơ đồ bố trí hệ thống các công trình trạm bơm.</para>
+        <para id="id4482050">- Công trình cửa lấy nước 1, lấy nước từ nguồn ( lấy từ sông, hồ, kênh dẫn ... ) ;</para>
+        <para id="id4482064">- Công trình dẫn nước 2, có nhiệm vụ đưa nước từ cửa lấy nước về bể tập trung nước trước nhà máy bơm. Công trình dẫn nước có thể là kênh dẫn, đường ống dẫn hoặc xi phông. Trên công trình dẫn có thể có bể lắng cát 3, nếu có luận chứng thỏa đáng ;</para>
+        <para id="id4482071">- Bể tập trung nước 4 nằm trước nhà máy bơm, nó có nhiệm vụ nối tiếp đường dẫn với công trình nhận nước ( bể hút ) của nhà máy sao cho thuận dòng;</para>
+        <para id="id5111259">- Công trình nhận nước 9 ( bể hút ) lấy nước từ bể tập trung và cung cấp nước cho ống hút hoặc ống tự chảy vào máy bơm ;</para>
+        <para id="id5111272">- Nhà máy bơm 5, đây là nơi đặt các tổ máy bơm và các thiết bị phụ cơ điện ;</para>
+        <para id="id5158775">- Đường ống áp lực ( ống đẩy ) 6, đưa nước từ máy bơm lên công trình tháo 7;</para>
+        <para id="id5158786">- Công trình tháo 7 ( bể tháo ) nhận nước từ ống đẩy, làm ổn định mực nước, phân phối nước cho kênh dẫn 8 hoặc công trình nhận nước .</para>
+        <para id="id5158800">Thành phần các công trình của trạm, vị trí và hình thức kết cấu của chúng phụ thuộc vào nhiều yếu tố như : mục đích sử dụng của trạm bơm, lưu lượng, cột nước, điều kiện tự nhiên ( địa hình nơi đặt, giao động mực nước thượng hạ lưu, lượng dòng chảy rắn, điều kiện địa chất công trình, tình hình vật liệu địa phương ), việc cung cấp kỹ thuật thi - công xây lắp ..v.v.. mà quyết định. Ví dụ, khi dòng nước ít bùn cát hoặc độ lớn hạt không nguy hiểm cho máy bơm thì không cần xây bể lắng cát, khi cột nước cần bơm rất thấp, mực nước bể tháo rất ít giao động thì có thể không cần xây ống đẩy mà xây bể tháo liền vào sát nhà máy ..v.v..</para>
+      </section>
+      <section id="id-328673899624">
+        <title>Phân loại trạm bơm</title>
+        <para id="id5273289">Việc phân loại trạm bơm có rất nhiều cách dựa vào các căn cứ sau:</para>
+        <para id="id4773066">Phân theo mục đích sử dụng của trạm bơm: </para>
+        <para id="id4773075">- Trạm bơm tưới, mục đích làm việc của nó là cung cấp nước tưới cho nông nghiệp ;</para>
+        <para id="id3798377">- Trạm bơm tiêu, mục đích của nó là đưa nước thừa vào vùng nhận nước tiêu ;</para>
+        <para id="id3798388">- Trạm bơm tháo nước,nhằm chuyển nước mưa,nước sinh hoạt và nước công nghiệp; </para>
+        <para id="id3798402">- Trạm bơm cấp nước nông thôn, nhằm cấp nước cho các hộ dùng nước nông thôn;</para>
+        <para id="id4676814">Phân loại theo sơ đồ bố trí hệ thống các công trình của trạm:</para>
+        <para id="id4676824">- Bố trí kết hợp hay riêng biệt giữa nhà máy và công trình lấy nước ;</para>
+        <para id="id4676835">- Bố trí kết hợp hay riêng biệt giữa nhà máy với công trình tháo nước ;</para>
+        <para id="id5113199">- Bố trí toàn khối.</para>
+        <para id="id5113207">Phân loại theo sơ đồ bố trí kết hợp hay riêng lẻ với công trình lấy nước :</para>
+        <para id="id4851327">- Nguồn cấp nước là sông, ta có:</para>
+        <para id="id4851336">+ Bố trí kết hợp bên bờ sông ( xem Hình 8 - 2,a ).</para>
+        <para id="id4851343">+ Bố trí riêng biệt bên bờ sông ( xem Hình 8 - 2,b và 8 - 4,b).</para>
+        <para id="id4851351">+ Bố trí kết hợp ở lòng sông ( xem Hình 8 - 4,a ). </para>
+        <para id="id5089510">+ Bố trí riêng biệt, cửa lấy nước ở lòng sông ( xem Hình 8 - 3 ). </para>
+        <para id="id5089518">- Nguồn cấp nước là hồ chữa, ta có:</para>
+        <para id="id5089528">+ Bố trí kết hợp ở thượng lưu hồ chứa ( xem Hình 8 - 5 ).</para>
+        <para id="id5089536">+ Bố trí riêng biệt ở hạ lưu hồ chứa ( xem Hình 8 - 6 ).</para>
+        <para id="id5158730">+ Bố trí kết hợp ở giữa thân đập ( xem Hình 8 - 7 ).</para>
+        <para id="id5158738">- Nguồn cấp nước là kênh chính, ta có:</para>
+        <para id="id5158747">+ Bố trí kết hợp ( xem Hình 8 - 8 );</para>
+        <para id="id5158752">+ Bố trí riêng biệt ( xem Hình 8 - 2,b ).</para>
+        <para id="id5158762">Phân loại theo quy mô lưu lượng và cột nước :</para>
+        <para id="id4777313">- Trạm bơm nhỏ ( lưu lượng trạm : Q  1 m3/s ); trạm trung bình (1 &lt; Q  10 m3/s ); trạm lớn ( 10 m3/s &lt; Q  100 m3/s ) và trạm cực lớn ( Q &gt; 100 m3/s ).</para>
+        <para id="id4876750">- Trạm bơm cột nước thấp ( H  20 m ); trạm cột nước trung bình ( 20 &lt; H  60 m ); trạm cột nước cao ( H &gt; 60 m ).</para>
+        <para id="id5273315">Ngoài các cách phân loại đã nêu ra ở trên còn nhiều cách phân loại khác, ví dụ căn cứ theo sự bố trí giữa nhà máy và bể tháo phân ra bố trí tách biệt hoặc kết hợp ..v.v..</para>
+      </section>
+      <section id="id-309003124935">
+        <title>Một số lời khuyên về việc bố trí công trình trạm bơm.</title>
+        <para id="id5273325">Khi nghiên cứu thiết kế hệ thống trạm bơm cho nhu cầu cải tạo đất và cấp nước nông thôn, điều trước tiên cần giải quyết hai nhiệm vụ: Xác định tuyến công trình và xác định tối ưu số lượng trạm bơm và vị trí đặt các trạm. Để giải quyết những nhiệm vụ này có thể dựa vào những kinh nghiệm sau đây:</para>
+        <para id="id4525218">- Tùy thuộc vào điều kiện địa hình, chiều dài công trình dẫn nước và địa điểm của các kênh dẫn nước tưới và cấp nước nông thôn của vùng, có thể xây dựng một hoặc </para>
+        <para id="id4041639">vài bậc trạm, nghĩa là một hoặc vài trạm bơm. Số lượng bậc cần được quyết định theo</para>
+        <para id="id4041656">tiêu chuẩn tính toán kinh tế - kỹ thuật. Khi các chi phí quy đổi cân bằng giữa các phương án thì người ta ưa chọn phương án có số bậc nhỏ nhất; </para>
+        <para id="id4892364">- Để giảm khối lượng công tác và giá thành xây dựng, chiều dài của tuyến trạm cần ngắn nhất. Các trạm bơm đầu mối cố gắng đặt gần khu tưới ( hoặc khu tiêu ). Các công trình thủy công của trạm, các kênh dẫn chính, đường xá và đường tải điện cần phải xây dựng trên các phần đất không sử dụng được đối với việc sản xuất nông nghiệp. Cần chú trọng đến công tác phòng hộ rừng. Các công trình dạng tuyến, mong muốn bố trí theo ranh giới ruộng luân canh, dọc đường và tuyến tải điện hiện hành.</para>
+        <para id="id4892370">- Nếu không có nhu cầu đặc biệt thì không cho phép xây dựng các công trình thủy công trên vùng có khoáng sản, trong vùng cactơ, vùng sụt lở, vùng có thác nước ... </para>
+        <para id="id4041660">- Khi nguồn nước có các hạt rắn lơ lửng với đường kính hạt từ 0,25 ... 0,5 mm thì nên xây dựng bể lắng. Vị trí bể lắng đặt khoảng giữa công trình lấy nước và nhà máy Đối với phù sa, đường kính hạt rắn nhỏ không có nguy hại cho máy bơm thì nên thiết kế kênh dẫn mang phù sa bón ruộng. Nên bố trí kết hợp cửa lấy nước với nhà máy, sử dụng cửa lấy nước nhiều tầng để lấy nước trong, loại trừ cát lớn vào máy bơm.</para>
+        <para id="id4805660">- Ở vị trí có bãi sông hẹp, bờ sông dốc và giao động mực nước sông không lớn hơn 8 m, nếu dùng sơ đồ kênh dẫn sẽ đào kênh sâu dẫn đến khối lượng lớn, lại dễ bồi lắng bùn cát trong quá trình làm việc. Do vậy, trường hợp này nên dùng sơ đồ kết hợp giữa nhà máy và công trình lấy nước thành khối ( Hình 8 -2,a ), hoặc công trình lấy nước và nhà máy đặt tách nhưng gần nhau bên bờ sông ( xem Hình 8 - 2,b ).</para>
+        <figure id="id4820697">
+          <media id="id8346410" alt=""><image src="../../media/graphics2-f66f.png" mime-type="image/png" height="316" width="591"/></media>
+        </figure>
+        <para id="id3917372"/>
+        <para id="id3917378"/>
+        <para id="id3917383"> Hình 8 - 2. Sơ đồ bố trí nhà máy - cửa lấy nước bên bờ sông.</para>
+        <para id="id3917393">a) Bố trí kết hợp:1- nguồn nước; 2- phần cửa lấy nước; 3,5 - cầu trục cửa lấy nước va cầu trục gian máy; 4- gian máy chí8nh; 7- nửa tầng cáp điện; 9- van đĩa;10- động cơ điện; 11- bơm li tâm trục đứng; 12 - ống hút cong; 13- MBA.b) Bố trí riêng lẻ bên bờ: 1- giếng bờ; 2- nhà máy; 3- ống hút; 5- rãnh lưới chắn rác; 6- van lấy nước.</para>
+        <para id="id3917397">- Khi bãi sông rộng, mực nước sông giao động ít ( dưới 4 m ), trường hợp này nên chọn sơ đồ bố trí loại riêng biệt trên bãi sông : công trình lấy nước đặt ở mép nước </para>
+        <para id="id5213354"><figure id="id5213357"><media id="id8359566" alt=""><image src="../../media/graphics3-1d91.png" mime-type="image/png" height="217" width="470"/></media></figure>lớn nhất, còn nhà máy đặt trên bãi sông, công trình dẫn nước là kênh hở hoặc ống dẫn tự chảy ( xem Hình 8 - 3 ).</para>
+        <para id="id4489228"/>
+        <para id="id4489234"/>
+        <para id="id4489241"> Hình 8 - 3. Sơ đồ bố trí riêng biệt, ống dẫn tự chảy.</para>
+        <para id="id3917342">- Khi mực nước sông giao động lớn ( từ 10 - 20 m ), để bảo đảm ổn định công trình và giảm giá thành xây dựng nên áp dụng sơ đồ bố trí kết hợp nhà máy với công trình lấy nước ở lòng sông ( xem Hình 8 - 4,a ). Chú ý điều kiện vận tải thủy trên sông. Hoặc có thể chọn sơ đồ bố trí riêng biệt: cửa lấy nước ở lòng sông còn nhà máy trên bờ ( xem Hình 8 - 4,b ).</para>
+        <figure id="id4742286">
+          <media id="id8346590" alt=""><image src="../../media/graphics4-92a5.png" mime-type="image/png" height="351" width="581"/></media>
+        </figure>
+        <para id="id4742314"/>
+        <para id="id4742321"/>
+        <para id="id4623921"/>
+        <para id="id4623928"> Hình 8 - 4. Sơ đồ lấy nước ở lòng sông.</para>
+        <para id="id4623940">- Trong trường hợp lưu lượng hồ nhỏ, mực nước giao động trong phạm vi chiều cao hút nước hs cho phép của máy bơm thì có thể đặt ống hút trên giá đỡ gỗ hoặc trên khung bê tông cốt thép để lấy nước trực tiếp từ sông hồ một cách đơn giảm, kinh tế.</para>
+        <para id="id4623945"><figure id="id4623948"><media id="id8370442" alt=""><image src="../../media/graphics5-b923.png" mime-type="image/png" height="380" width="591"/></media></figure>- Đối với trạm bơm lấy nước từ hồ chứa, nếu mực nước giao động không lớn lắm ( đến 8 m ) nên chọn sơ đồ kết hợp ở thượng lưu ( xem Hình 8 - 5 ).</para>
+        <para id="id3809233"/>
+        <para id="id4887115"/>
+        <para id="id4887122"> Hình 8 - 5. Sơ đồ kết hợp lấy nước thượng lưu hồ chứa.</para>
+        <para id="id4887134">1- bể tháo; 2 - bể áp lực; 3- kênh tháo; 4 - tháo nước thừa; 5 - đập đất; </para>
+        <para id="id5255369">6 - nhà máy;7 - trạm phân phối điện.</para>
+        <para id="id5255375">- Khi mực nước hồ giao động lớn, nếu đặt trạm ở thượng lưu hoặc trên đập thì khó bảo đảm lấy nước thường xuyên quanh năm mà vận hành phức tạp và tốn kém đầu tư , trường hợp này nên chọn sơ đồ bố trí riêng biệt phía sau đập ( xem Hình 8 - 6 ). Cách bố trí này làm cho công trình trạm bơm đơn giản hơn nhiều vì không trực tiếp chịu áp lực nước thượng lưu. Thường người ta chọn vị trí lấy nước trực tiếp từ cống ngầm. Trường hợp nếu không cho phép lấy nước qua cống ngầm mà phải xây dựng một đường ống riêng qua thân đập thì sẽ phải tăng vốn đầu tư. Lúc này cần so sánh phương án lấy nước này với phương án đặt nhà máy ở thượng lưu, qua so sánh kinh tế - kỹ thuật để chọn phgương án có lợi.</para>
+        <para id="id5255381">- Trường hợp lấy nước từ hồ chứa có giao động mực nước nhỏ ( dưới 3 m ), đập thấp và điều kiện ổn định đập cho phép ta có thể chọn cách bố trí nhà máy bơm ngang đập, như Hình 8 - 7 dưới đây.</para>
+        <figure id="id5255398">
+          <media id="id8370526" alt=""><image src="../../media/graphics6-4402.png" mime-type="image/png" height="318" width="480"/></media>
+        </figure>
+        <para id="id4478277"/>
+        <para id="id4478283"/>
+        <para id="id4478289"> Hình 8 - 6. Sơ đồ trạm bơm bố trí phía hạ lưu đâp.</para>
+        <para id="id4879374">1- hồ chữa; 2- tháp lấy nước; 3- cửa lấy nước ; 4- van sữa chữa; 5- cống tháo đáy;</para>
+        <para id="id4879385">6- cầu công tác; 7- đập đất; 8- nhà máy bơm; 9, 10- cửa van và th.bị đo lưu lượng;</para>
+        <para id="id4879397">11- ống hút; 12- xả nước; 13- kênh tháo tiêu năng.</para>
+        <figure id="id4879409">
+          <media id="id8370587" alt=""><image src="../../media/graphics7-72e0.png" mime-type="image/png" height="241" width="480"/></media>
+        </figure>
+        <para id="id4887167"/>
+        <para id="id4887174"/>
+        <para id="id4887179">  Hình 8 - 7. Sơ đồ trạm bơm kết hợp với đập.</para>
+        <para id="id3798424">1- hạ lưu đập; 2- cầu trục và cửa van đập tràn; 3- gian máy; 4- đỉnh xi phông</para>
+        <para id="id3798435">tháo; 5- hành langlưu thông; 6- BXCT bơm hướng trục; 7- ống hút cong.</para>
+        <para id="id3798443"/>
+        <para id="id3798448">- Các trạm bơm lấy nước trên kênh thường chọn sơ đồ bố trí kết hợp nhà máy bơm với công trình lấy nước ( xem Hình 8 - 8 ). Sơ đồ nầy, nhà máy và cửa lấy nước thường liền khối . Dưới đây là trạm bơm lấy nước từ kênh chính, đưa nước vào bể tháo bằng hình thức xi phông, giảm được các cửa van chặn nước chảy ngược từ bể tháo ngược về ống đẩy.</para>
+        <figure id="id5157483">
+          <media id="id8370691" alt=""><image src="../../media/graphics8-3f9f.png" mime-type="image/png" height="193" width="591"/></media>
+        </figure>
+        <para id="id4721365"/>
+        <para id="id4721371"/>
+        <para id="id4721378">Hình 8 - 8. Sơ đồ bố trí kết hợp, lấy nước trên kênh chính.</para>
+        <para id="id4721387"> 1- công trình chắn rác; 2- nhà máy; 3- ống đẩy; 4- xi phông tháo.</para>
+        <para id="id4721402">- Những vùng tưới nhỏ ven sông, ven hồ chứa có mực nước thay đổi nhiều, địa hình, địa chất phức tạp, lưu lượng không lớn ( dưới 5 m3/s ) nên dùng các trạm bơm đặc biệt, như: trạm bơm thuyền, trạm bơm đặt trên ray ( xem Hình 8 - 9 ) ... </para>
+        <para id="id4033272">Các loại trạm bơm cấp nước dân dụng lấy nước từ sông cũng tương tự như các trạm bơm tưới tiêu đã trình bày trên, chỉ khác là từ bể tháo trở đi là đường ống áp lực hoặc có thêm bể lọc nước ...</para>
+        <figure id="id4877377">
+          <media id="id8370796" alt=""><image src="../../media/graphics9-1913.png" mime-type="image/png" height="291" width="417"/></media>
+        </figure>
+        <para id="id4877405"/>
+        <para id="id4877412"/>
+        <para id="id4950058">Hình 8 - 9. Trạm bơm đặt trên ray.</para>
+        <para id="id4950067">1- đường ray; 2- khung; 3- giá tựa; 4- kết cấu phần trên; </para>
+        <para id="id4950079"> 5- tổ máy bơm; 6- ống đẩy; 7- dây kéo.</para>
+      </section>
+    </section>
+    <section id="id-72910521839">
+      <title>TRẠM BƠM TƯỚI.</title>
+      <para id="id4489250">Trạm bơm tưới có những đặc điểm sau đây:</para>
+      <para id="id4489259">- Làm việc vào thời kỳ khô hạn trong năm;</para>
+      <para id="id4489268">- Việc ngừng làm việc chỉ cho phép tùy thuộc vào cấp an toàn cấp nước;</para>
+      <para id="id4489279">- Nói chung không yêu cầu nước phải sạch về bùn cát và vật nổi, chỉ cần không để những đối tượng và hạt có khả năng mài mòn và làm hư hỏng bánh xe công tác của máy bơm. Riêng những trạm bơm cấp nước cho các máy tưới phun mưa thì yêu cầu nước phải qua lưới lọc kỹ để loại bỏ những hạt có đường kính lớn lấp nhét lổ phun; </para>
+      <para id="id4742217">Do trạm bơm làm việc theo mùa do vậy cho phép đơn giản nhiều về kết cấu nhà máy, giảm yêu cầu về khả năng ổn định nhiệt của trang thiết bị và kết cấu bao che</para>
+      <para id="id4742232">Nhà trạm còn có thể được thay thế bằng trạm di động hoặc phao nhẹ nhàng hơn khi máy bơm nhỏ nhẹ. Gian máy cho phép thấp hơn do đặt cần trục bên ngoài. </para>
+      <para id="id4671951"><figure id="id4671954"><media id="id8370987" alt=""><image src="../../media/graphics10-71e0.png" mime-type="image/png" height="227" width="480"/></media></figure> Việc bố trí trạm bơm tưới lấy nước mặt rất đa dạng; kiểu bố trí hay gặp nhất như Hình 8 - 9. Ngoài những công trình chính còn có những nhà máy phụ, đường xá, cầu, công trình dẫn nước, tiêu nước, phần xây áp để đặt thiết bị điện, tường chắn ..v.v...</para>
+      <para id="id4587620"/>
+      <para id="id4587626"/>
+      <para id="id4587632">Hình 8 - 9. Sơ đồ các công trình của trạm bơm lấy nước mặt.</para>
+      <para id="id4587642">1- nguồn nước mặt; 2,6,10- các công trình tương ứng: cửa lấy nước, lưới chắn rác</para>
+      <para id="id4721491">và bể tháo; 3- bể lắng cát; 4,11- kênh dẫn, kênh tháo; 5- bể tập trung nước; 7- bể hút;</para>
+      <para id="id4721499">8- nhà máy; 9,12- ống đẩy và ống hút.</para>
+      <para id="id4721506">Việc lựa chọn thành phần công trình tùy thuộc vào điều kiện thực tế. Ví dụ, cống điều tiết đầu nút cửa vào của kênh dẫn chỉ có mặt khi có nhu cầu điều chỉnh mực nước hoặc yêu cầu làm khô để sữa chữa các bộ phận công trình nằm dưới mực nước kênh. Cùng với cống điều tiết thường có bố trí công trình bảo vệ cá. Bể lắng cát được đưa vào thành phần trạm khi trong nước có chứa nhiều bùn cát lơ lửng và các hạt có hại cho an toàn của máy bơm và làm lắng đọng mạng lưới tưới. Để làm sạch nước khỏi bùn cát có thể xây những túi bắt cát và dùng rãnh tháo cát đi.</para>
+      <para id="id4721521">Hình 8 - 10 thể hiện việc bố trí các phần diện tích xây áp sát nhà máy để đặt các thiết bị phân phối điện và trạm máy biến áp, mối quan hệ về vị trí giữa nhà máy và thiết bị của trạm bơm tưới loại lớn.</para>
+      <figure id="id4097860">
+        <media id="id8371129" alt=""><image src="../../media/graphics11-1526.png" mime-type="image/png" height="324" width="480"/></media>
+      </figure>
+      <para id="id4775549"/>
+      <para id="id4775556"/>
+      <para id="id4775562"> Hình 8 - 10. Mặt bằng các diện tích xây áp của một trạm bơm lớn.</para>
+      <para id="id5253045">1- bể tập trung nước; 2- lưới chắn rác; 3- kết cấu ngăn cá; 4- gian máy ; 5- trạm</para>
+      <para id="id5253056">phân phối ; 6- trạm Máy biến áp.</para>
+      <para id="id5253065">Trong thực tế xây dựng Thủy lợi chúng ta hay gặp những trường hợp như: giao động mực nước nguồn lớn hơn hoặc bằng 5 m, bãi tràn rộng hơn 300 m, bờ sông không đủ chiều cao, lớp nước tràn khá dày mang đầy bùn cát, điều kiện địa chất bất lợi đối với việc xây dựng kênh dẫn và nhà máy bơm, đoạn lòng sông kém ổn định và không đủ độ sâu để bố trí lỗ nhận nước .. vv.. , khi đó nhà máy cần phải chìa ra phía lòng sông hoặc hồ chứa ( ngoài vùng dòng chảy bờ ). Trong trường hợp này, chọn sơ đồ nhà máy kết hợp với lưới chắn rác, công trình bảo vệ cá và bể hút thành khối, không còn cống điều tiết kênh dẫn và bể tập trung nữa.</para>
+      <para id="id5253072">Trạm bơm tưới có thể được bố trí bên cạnh đập, nhà máy của trạm thường được đặt ở các trụ của đập tràn hoặc ở hạ lưu. Trong trường hợp này kích thước phần khối dưới của nhà máy thường lấy theo kích thước đập và nhà máy trở thành một phần của đập hoặc bị cắt ra khỏi mái hạ lưu đập. Thông thường nhà máy như thế thích hợp với bơm trục đứng lưu lượng lớn ( xem Hình 8 - 7 đã trình bày ở trên ). </para>
+      <para id="id4954426">Trường hợp khác, khi cột nước cần bơm lớn hơn cột nước mà máy bơm có khả năng tạo ra, lúc này trên tuyến dẫn có thể xây dựng hai hoặc hơn hai trạm bơm nối tiếp. Khi đó trước trạm bơm số hai và các trạm bơm tiếp theo ( nếu có ) người ta xây dựng hoặc là một bể điều tiết hở ( như kênh hoặc bể điều tiết ) hoặc tháp điều áp ( xem Hình 8 - 11 ). Nhà máy của trạm bơm II và các trạm bơm nâng tiếp theo ( khi làm việc cùng một đường ống ) được bố trí theo cách nào đó để bảo đảm các máy bơm luôn làm việc ở chế độ nước dâng không lớn. Nhờ tháp điều áp 4 đặt trên ống áp lực nên áp lực nước tác động lên máy bơm không vượt quá trị số an toàn khi khởi động máy trạm bơm nâng sốII</para>
+      <para id="id3786968">( khi đó lưu lượng trạm bơm II bằng 0, cột nước do trạm bơm I tạo thành sẽ làm tăng cột nước cưả vào của trạm bơm II ) và cũng nhờ có tháp điều áp 4 mà giảm được trị số áp lực nước va tác động lên máy bơm của trạm số II ...</para>
+      <figure id="id3786975">
+        <media id="id8371299" alt=""><image src="../../media/graphics12-f49b.png" mime-type="image/png" height="298" width="528"/></media>
+      </figure>
+      <para id="id4857617"/>
+      <para id="id4857623"/>
+      <para id="id4857629">Hình 8 - 11. Sơ đồ bố trí nối tiếp bậc thang các trạm bơm .</para>
+      <para id="id4857638">1- nguồn nước; 2,5- trạm bơm nâng số I và số II; 3- các đường ống áp lực; 4- tháp điều áp ( tháo sự cố ); 6- kênh tháo; 7,8,9- biểu đồ cột nước tương ứng: khi hai trạm làm việc bình thường, khi QI,II = 0 và ngắt sự cố , khi bơm II có QII = 0 và tháo sự cố.</para>
+      <para id="id5180867">Ở vùng núi và trung du, các khu tưới thường có đặc điểm: ruộng đất có độ dốc lớn và ruộng bậc thang, diện tích tưới nhỏ, phân tán, các khu tưới lại xa nguồn nước, sông suối miền núi có lưu lượng thay đổi lớn giữa lũ và kiệt, dòng chảy mang nhiều phù sa về mùa lũ, cao trình đặt máy lại cao so với mực nước biển ... những đặc điểm này gây bất lợi về giá thành lẫn vấn đề khí thực. Do vậy khi bố trí trạm cần phải có những giải pháp thích hợp để giảm đầu tư và đảm bảo an toàn cho trạm, như: </para>
+      <para id="id5180874">+ Vì ruộng bậc thang nên cần phân cấp các trạm bơm theo khu tưới để tiết kiệm năng lượng khi bơm;</para>
+      <para id="id5180884">+ Do ống đẩy dài, cột nước cao để giảm giá thành ống cần giảm hợp lý đường kính ống đẩy và phải kiểm tra nước va đường ống khi dừng máy đột ngột;</para>
+      <para id="id5007737">+ Giao động mực nước giữa hai mùa kiệt và lũ rất lớn , cao trình đặt máy lại cao so với cao trình biển, dòng chảy nhiều bùn cát ... việc chọn cao trình đặt máy cần phải đảm bảo chống khí thực ..v.v..</para>
+      <para id="id5007743">Có những cách bố trí sau đây áp dụng với trạm bơm tưới vùng cao ( Hình 8 - 12 ):</para>
+      <para id="id5000853">Bố trí trạm bơm một cấp ( Hình 8 - 12,a ): Dùng một trạm bơm có bể tháo đặt ở cao trình khống chế toàn bộ diện tích tưới. Sơ đồ này thường thích hợp với vùng đồi ven sông, khu tưới rãi thành những rẻo nhỏ;</para>
+      <para id="id5000868">Bố trí cùng một trạm bơm bơm lên nhiều bể tháo có cao trình khác nhau , mỗi bể tháo khống chế một khu tưới ( Hình 8 - 12,b):có thể dùng ống đẩy chung rồi phân nhánh</para>
+      <para id="id4431171">đưa nước về các bể tháo ở các cao độ khống chế;</para>
+      <para id="id4431177">Bố trí nhiều trạm bơm riêng biệt cung cấp nước cho từng khu tưới có cao trình khống chế khác nhau ( Hình 8 - 12,c ). Cách bố trí này thường được áp dụng khi khu tưới trải dọc theo bờ nguồn nước;</para>
+      <para id="id4431192">Bố trí trạm bơm nhiều cấp, nối tiếp từ trạm cấp 1 lên đến trạm cấp cuối cùng . Ở tại mỗi cấp sẽ cấp nước tưới tương ứng và bơm tiếp lên trạm trên ( Hình 8 - 12,d ).</para>
+      <para id="id4431207">Những cách bố trí sau đem lại lợi ích kinh tế hơn so với việc dùng một trạm tưới cho cả vùng có cao trình khác nhau.</para>
+      <figure id="id5094220">
+        <media id="id8371537" alt=""><image src="../../media/graphics13-6496.png" mime-type="image/png" height="611" width="499"/></media>
+      </figure>
+      <para id="id5094248"/>
+      <para id="id4742245"/>
+      <para id="id4742252">Hình 8 - 12. Một số sơ đồ bố trí trạm bơm tưới vùng cao.</para>
+      <para id="id4742261">a) Trạm bơm một cấp ; b) Một trạm bơm nhiều bể tháo ; </para>
+      <para id="id4742269"> c) Nhiều trạm riêng biệt ; d) Trạm bơm nhiều cấp.</para>
+    </section>
+    <section id="id-354857343354">
+      <title>TRẠM BƠM TIÊU VÀ TRẠM BƠM TƯỚI TIÊU KẾT HỢP</title>
+      <para id="id4742285">Trạm bơm tiêu được xây dựng để bơm nước từ kênh tiêu hở, từ các giếng khoan đứng, từ các hố móng của vùng ngập nước... Ở nước ta do các sông chia cắt ruộng đất thành từng vùng có đê ngăn lũ bảo vệ, do vậy về mùa mưa, lũ mực nước sông lên cao hơn mặt ruộng trong đồng , nước thừa trong đồng không tiêu tự chảy ra sông được gây nên úng ngập đồng, do vậy cần phải bơm tiêu úng chủ động.</para>
+      <para id="id4013925">Trạm bơm tiêu được phân ra các loại: trạm tiêu nước mặt, trạm tiêu nước ngầm, trạm bơm tiêu kết hợp cả nước mặt lẫn nước ngầm.</para>
+      <para id="id4013939">Thời gian làm việc của các trạm bơm tiêu cũng khác nhau: các trạm bơm tiêu nước lũ và nước mưa rào làm việc có tính chu kỳ, thời gian ngắn trong năm, còn bơm nước ngầm thông thường làm việc quanh năm. Ở nước ta hiện nay chủ yếu là tiêu nước mặt cho cây trồng. Trạm bơm tiêu có những đặc điểm sau:</para>
+      <para id="id5183368">- Lưu lượng bơm rất không đều và rất lớn. Mức độ không đều tùy thuộc nhiều vào sự giao động của nước mặt và nước ngầm. </para>
+      <para id="id5183381">- Làm việc gián đoạn. Thời gian trạm không làm việc tùy thuộc vào sưć chứa của dung tích điều tiết và thời gian ngập cho phép của khu vực.Thời gian trạm bơm tiêu làm việc trong năm tuy ít nhưng rất căng thẳng.</para>
+      <para id="id5183398">- Cột nước cần bơm thấp nhưng thay đổi liên tục.</para>
+      <para id="id4892402">- Lưu lượng tính toán của các máy bơm chính trong trạm bơm tiêu được chọn cần phải tính đến ngập cục bộ có thể xảy ra trong thời gian ngắn. Bởi vậy phần trên của kết cấu dưới nước nhà máy và sàn phần trên nhà máy cần phải đặt cao hơn từ  0,5 m so với cao trình nền hoặc mực nước tính toán lớn nhất khi có sóng dâng.</para>
+      <para id="id4892432">Trong điều kiện vào thời điểm nào đó các kênh tiêu có khả năng tháo tự chảy thì cần xem xét tính hợp lý việc xây dựng công trình tháo tự chảy. Công trình tháo tự chảy đặt tách biệt với nhà máy bơm nếu lưu lượng tháo tự chảy lớn hơn lưu lượng của trạm bơm; hoặc công trình tự chảy kết hợp với nhà máy nếu như lưu lượng này không vượt quá lưu lượng của trạm bơm và không được mở rộng phần dưới nước của nhà máy. Để mái dôc kênh tháo không bị phá hoại thì lưu lượng của trạm cần được thay đổi một cách đều đặn. Yêu cầu này sẽ đạt được ở các trạm bơm có số lượng tổ máy bơm chính nhiều hoặc có đặt các máy bơm " thay thế " hoặc các máy bơm có khả khả năng thay đổi số vòng quay.</para>
+      <para id="id4820667">Một số trạm bơm tiêu do chênh lệch lưu lượng và cột nước tiêu nhiều có thể phải chọn một số máy bơm khác loại trong một nhà máy để tránh việc chọn quá nhiều máy bơm chính không kinh tế. Tuy nhiên chọn như vậy sẽ gây khó khăn cho quản lý, vận hành.</para>
+      <para id="id4820671">Kênh tiêu thường mang một lượng rác và vật trôi lớn bởi vậy trạm bơm tiêu phải trang bị lưới chắn rác an toàn. Hình 8 - 13 dưới đây trình bày các sơ đồ chung của trạm bơm tiêu. Thành phần của trạm phụ thuộc vào các thông số của trạm và điều kiện thiên nhiên nơi đặt trạm:</para>
+      <para id="id3792092">- Khi cột nước trạm tương đối nhỏ ( đến 5 m ) và với việc dùng máy bơm lớn, nhà máy bơm có thể làm kết hợp với công trình tháo ( Hình 8 - 13,b ). Thường dùng đường ống dẫn để đưa nước cần tiêu đến nhà máy bơm. Khi đường ống làm chức năng kênh chính vận chuyển nước thì trạm bơm được thiết kế như trạm bơm nâng cấp II thông thường. Còn nếu như đường ống làm việc với chế độ thường xuyên không đầy, thì trước nhà máy đặt một bể điều tiết lấy mực nước lớn nhất trong bể thấp hơn tâm đường ống (xem Hình 8 - 13, , ).</para>
+      <figure id="id3792112">
+        <media id="id8371823" alt=""><image src="../../media/graphics14-3328.png" mime-type="image/png" height="221" width="499"/></media>
+      </figure>
+      <para id="id4587687"/>
+      <para id="id4587694"/>
+      <para id="id4587701">Hình 8 - 13. Các sơ đồ trạm bơm tiêu.</para>
+      <para id="id4587710">a), ) - Sơ đồ bố trí tách biệt và kết hợp nhà máy với công tháo tự chảy ; b) - sơ đồ trạm không có công trình tháo tự chảy ; ) - trạm bơm bố trí trên ống tiêu ;  ) - trạm bơm lấy nước từ giếng tháo: 1- sông ( hoặc hồ chứa ); 2- đê; 3- cống tháo tự chảy; 4- bể tập trung; 5- kênh dẫn; 6,10 - lưới chắn rác và bể tháo; 7 - bể hút ; 8 - nhà máy; 9 - ống đẩy; 11- giếng góp nước tiêu.</para>
+      <para id="id4954454">Ở nước ta việc tưới và tiêu nước cho một vùng sản xuất nông nghiệp là một trong những đặc điểm thường gặp của công tác thủy lợi vì canh tác nông nghiệp có hai ba vụ trong năm, mưa nắng lại bất thường gây nên lúc úng lúc hạn xen kẻ nhau. Do vậy, xây trạm bơm tưới tiêu kết hợp sẽ nâng cao hiệu quả sử dụng máy và công trình, hạ giá thành hơn so với việc xây các trạm bơm tưới và trạm bơm tiêu riêng. Vì lợi ích này nên khi có điều kiện cho phép cần quan tâm hơn đến việc chọn sơ đồ trạm tưới tiêu kết hợp. Với loại trạm bơm này khi bố trí các công trình cần chú ý đến chất lượng nước bơm lên khi tiêu để bố trí công trình ngăn sự chua hóa đồng ruộng. Phương pháp thiết kế công trình và lựa chọn thiết bị đối với trạm bơm tưới tiêu kết hợp nói chung không có gì khác như đối với trạm bơm thông thường mà chỉ cần làm sao bảo đảm hai nhiệm vụ tưới, tiêu.</para>
+      <para id="id4096651">Các công trình trong trạm bơm tưới tiêu kết hợp nên tận dụng sử dụng chung cho hai mục đích để giảm đầu tư và chú ý yếu tố thuận tiện cho quản lý. Sự khác biệt nhiều hay ít giữa hai mực nước ở hai bể tháo khi tưới và khi tiêu cũng có ảnh hưởng nhiều đến việc chọn sơ đồ bố trí các thành phần công trình của trạm. Dưới đây giới thiệu một số sơ đồ bố trí của trạm khi mực nước ở hai chế độ có mức độ chênh lệch khác nhau và cách làm việc của một trạm bơm tưới tiêu kết hợp ( xem Hình 8 - 14 ).</para>
+      <para id="id4954465">Hình 8 - 14,a là sơ đồ bố trí các công trình khi chênh lệch mực nước ở bể tháo tưới 7 và bể tháo tiêu 8 chênh lệch nhau nhiều và lưu lượng tiêu nhỏ hơn lưu lượng tưới, phải</para>
+      <para id="id4825557">dùng hai bể tháo có cao trình khác nhau. Mực nước bể tháo tưới cao hơn mực nước bể tháo tiêu và dùng ống rẻ để đưa nước về bể tháo tiêu. Hoạt động của trạm tưới tiêu theo sơ đồ nầy như sau:</para>
+      <figure id="id4954474">
+        <media id="id8371986" alt=""><image src="../../media/graphics15-9249.png" mime-type="image/png" height="361" width="591"/></media>
+      </figure>
+      <para id="id4620498"/>
+      <para id="id4620504"/>
+      <para id="id4772906">Hình 8 - 14. Các sơ đồ bố trí trạm bơm tưới tiêu kết hợp.</para>
+      <para id="id4772915">a) Sơ đồ trạm khi mực nước hai bể tháo chênh lệch nhiều;</para>
+      <para id="id4772924">b) Sơ đồ trạm khi mực nưóc hai bể tháo ít chênh lệch.</para>
+      <para id="id4772934">Thời đoạn tưới: mở cống 2 để lấy nước từ sông vào bể hút 3, các van khác trên đường ống rẻ 10 được đóng lại. Nước được bơm lên bể tháo tưới 7 và dẫn vào kênh tưới chính đến nơi cần tưới. Thời đoạn tiêu nước từ kênh tiêu 4 ra sông: đóng cống 2 và các van 11, mở các van 10, nước từ kênh tiêu 4 về bể hút 3và được bơm vào bể tháo tiêu 8, mở cửa tháo 9 để dẫn nước tiêu ra sông. Hình thức bố trí này được áp dụng khi lưu lượng của trạm bơm nhỏ, khi lưu lượng lớn thì đường kính các đường ống 10 và 11 sẽ phải lớn, yêu cầu các cửa van khóa phải lớn làm phức tạp và việc điều khiển van sẽ khó khăn nhiều hơn. Mặt khác khi lưu lượng tiêu lớn hơn lưu lượng tưới nhiều thì phải bố trí thêm một số máy bơm tiêu riêng, như vậy việc kết hợp chỉ có được ở một số hạng mục công trình còn hiệu quả sử dụng máy sẽ gỉam thấp, tính ưu việt của loại hình tưới tiêu kết hợp bị giảm.</para>
+      <para id="id4772942">Hình 8 - 14,b trình bày sơ đồ bố trí và hoạt động của trạm bơm tưới tiêu kết hợp khi mực nước yêu cầu ở hai bể tháo tưới và tiêu chênh lệch nhau rất ít ( dưới 1 m ), trường hợp này có thể dùng tường chắn để dâng mực nưóc trong bể tháo khi yêu cầu mực nước cao hơn và dùng bể tháo 6 chung cho hai mục đích. Hoạt động của trạm như sau: Thời đoạn tưới: mở cống 2 lấy nước tưới từ sông vào bể hút 3( các của van của kênh tiêu 8 và</para>
+      <para id="id5187666">van 9 của kênh tháo tiêu ra sông đã bị đóng ) và được bơm lên bể tháo chung 6, theo kênh dẫn 7 đưa đi tưới. Thời đoạn tiêu nước: đóng các cống lấy nước tưới 2 và kênh tháo tưới 7, mở cửa van kênh tiêu 8 đưa nước về bể hút 3, bơm nuớc lên bể tháo chung 6 và dẫn nước tiêu ra sông qua cưả tháo 9 đã mở.</para>
+      <para id="id5187680">Hình 8 - 15 trình bày só đồ bố trí trạm bơm tưới tiêu kết hợp ở vùng bắc sông Đuống</para>
+      <figure id="id4721353">
+        <media id="id8372149" alt=""><image src="../../media/graphics16-cf44.png" mime-type="image/png" height="377" width="373"/></media>
+      </figure>
+      <para id="id4867051"/>
+      <para id="id4867057"/>
+      <para id="id4867063">Hình 8 - 15. Sơ đồ khác về bố trí trạm bơm tưới tiêu kêt hợp.</para>
+      <para id="id4867072">1- kênh tiêu; 2- bể hút; 3- nhà máy bơm; 4- bể tháo; 5- kênh tháo tiêu; 6- kênh tưới nam;7- kênh tưới bắc; 8- cầu máng; 9- cống lấy nước tưới; 10- kênh dẫn lấy nước tưới.</para>
+    </section>
+    <section id="id-286499188208">
+      <title>TRẠM BƠM CẤP NƯỚC NÔNG THÔN</title>
+      <para id="id4867077">Người ta gọi nhà máy trong đó chứa các máy bơm chính và máy bơm phụ cùng các trang thiết bị liên quan nhằm cấp nước cho vùng nông thôn là trạm bơm cấp nước nông thôn. Loại trạm bơm này được phân chia ra theo các cách sau:</para>
+      <para id="id5205594">- Phân theo vị trí tuyến bơm nước: Trạm bơm nâng đầu nút I, trạm bơm nâng chuyển tiếp II và các trạm bơm nâng tiếp theo.</para>
+      <para id="id5205604">-Phân theo công dụng của trạm: Trạm bơm cấp nước uống trang trại, trạm bơm cấp nước sản xuất;</para>
+      <para id="id4033296">- Phân theo đặc điểm công nghệ: Trạm bơm bờ sông , trạm bơm lòmg sông;</para>
+      <para id="id4033305">- Phân theo đặc điểm kết cấu: Trạm bơm tách riêng , trạm bơm kết hợp.</para>
+      <para id="id4033314">Đặc điểm của trạm bơm cấp nước nông thôn là thời gian làm việc tiến hành cả năm . </para>
+      <para id="id4033323">Yêu cầu đặt ra đối với loại trạm bơm này như sau:</para>
+      <para id="id4033333">Có tính an toàn cao. Vì vậy ngoài thiết bị bơm chính còn phải lắp đặt các tổ máy bơm dự phòng và các trang thiết bị phụ.</para>
+      <para id="id4935564">Đảm bảo yêu cầu vệ sinh cao. Xung quanh trạm bơm cần bảo đảm vệ sinh, bên trong nhà máy cần có các công trình vệ sinh và bố trí các phòng cho nhân viên trực ban nghỉ.</para>
+      <para id="id4935575">Cần có mức tự động hóa cao;</para>
+      <para id="id4935584">Lưu lượng trạm bơm cấp tương đối nhỏ, bởi vậy các đường ống được làm bằng thép cán có đường kính nhỏ, điều này cho phép dễ dàng lắp ghép đường ống trong nhà máy. </para>
+      <para id="id4935600">Thành phần của các trạm bơm loại này có thể thay đổi phụ thuộc vào điều kiện tự nhiên. Bởi vậy, thường bố trí tối ưu của chúng được chọn thông qua kết quả so sánh kinh tế - kỹ thuật nhiều phương án.</para>
+      <section id="id-296136553598">
+        <title>Lấy nước từ nguồn nước mặt</title>
+        <figure id="id4670480">
+          <media id="id8372417" alt=""><image src="../../media/graphics17-d57b.png" mime-type="image/png" height="471" width="467"/></media>
+        </figure>
+        <para id="id4587235"/>
+        <para id="id4587241"/>
+        <para id="id4587248">Hình 8 - 16. Các sơ đồ trạm bơm đầu nút của trạm bơm cấp nước nông thôn. </para>
+        <para id="id4587258">a, , , - nhà máy bơm tương ứng: đứng tách riêng, kết hợp với giếng bờ, nằm trong vùng </para>
+        <para id="id4587269">giếng bờ, kiểu lòng sông : 1- đầu nút ngập; 2- ống tự chảy (hoặc xi phông ); 3- giếng bờ</para>
+        <para id="id4830586">4- hai dãy lưới phẳng; 5,7 - ống hút và ống đẩy; 6- nhà máy bơm; 8,9- buồng cửa van và ngăn hút; 10 - cầu công tác.</para>
+        <para id="id4830596">Công trình lấy nước của trạm bơm nâng đầu nút I được xây dựng trên nền đất yếu bảo hòa nước đặt ở bãi bồi sông và hồ chứa khi mực nước giao động lớn rất phức tạp trong việc bố trí ( xem Hình 8 - 16 ).</para>
+        <para id="id4587273">Sơ đồ a có thể được áp dụng rộng rãi với mọi loại bãi bồi, mọi loại địa chất, mọi cấp lưu lượng và giao động mực nước nào của nguồn. Sơ đồ này có nhược điểm là có số lượng công trình nhiều, người ta luôn tìm cách giảm bớt số lượng hạng mục, nếu được.</para>
+        <para id="id4666192">Sơ đồ  có lợi hơn sơ đồ a ở chỗ nhà máy kết hợp với giếng bờ. Các sơ đồ b và ... cũng áp dụng với mọi cấp lưu lượng nhưng phức tạp cả trong thi công lẫn trong vận hành do đặt gần giữa sông.</para>
+        <para id="id4666219">Nhà máy của trạm bơm đặt ở lòng sông hoặc trong bãi bồi ngập nước thường được làm ở dạng giếng chìm ( xem Hình 8 - 16 ).</para>
+        <figure id="id4666236">
+          <media id="id8372580" alt=""><image src="../../media/graphics18-6548.png" mime-type="image/png" height="575" width="315"/></media>
+        </figure>
+        <para id="id4721463"/>
+        <para id="id4721469"/>
+        <para id="id4721475"> Hình 8 - 16. Kết cấu công trình lấy nước đầu nút kết hợp trạm nâng I</para>
+        <para id="id4869789">1- giếng lấy nước; 2- buồng bơm; 3- tường giếng chìm; 4- ống dẫn tự chảy; 5- phần trên;</para>
+        <para id="id4869797">6- lưới mịn lọc nước; 7- máy bơm chính.</para>
+        <para id="id4869807">Để đảm bảo việc cấp nước không bị phá hoại, khi thiết kế trạm bơm cần chú ý đến:</para>
+        <para id="id4869816">- Việc phân đoạn của công trình lấy nước ( số lượng các đoạn làm việc độc lập của công trình lấy nước, tuyến tự chảy và các phân đoạn lưới của giếng bờ không được nhỏ hơn hai );</para>
+        <para id="id4721485">- Đối với công trình cấp 1, xây dựng hai công trình lấy nước với hai cách lấy nước khác nhau .</para>
+        <para id="id3768507">Các sơ đồ trạm bơm nâng chuyển nước II đơn gỉan hơn trạm bơm dâng đầu nút I.</para>
+        <para id="id3768518">Sơ đồ tổng hợp giữa công trình lấy nước và làm sạch nước khi bố trí kiểu nhà máy tách rời của trạm bơm I và II được trình bày ở Hình 8 - 17,a.Trạm bơm nâng I bơm nước</para>
+        <figure id="id3768536">
+          <media id="id8372736" alt=""><image src="../../media/graphics19-7a99.png" mime-type="image/png" height="456" width="422"/></media>
+        </figure>
+        <para id="id4773013"/>
+        <para id="id4773020"/>
+        <para id="id4773028">Hình 8 - 17. Các sơ đồ tổng hợp công trình của trạm bơm cấp nước nông thôn. a, - bố trí tách biệt và kết hợp nhà máy cuat trạm nâng I và II; b- bố trí các công trình của trạm bơm II và III; ,  - khi lấy nước ngầm: 1- nút nhận nước; 2- ống dẫn; 3- phần nhận nước của nhà máy trạm nâng I; 4- gian máy; 5- ống áp lực; 6- buồng van; 7- công trình làm sạch nước; 8- dung tích điều tiết; 9,11- nhà máy của trạm nâng II và III; 10- tháp áp lực; 12- lấy nước ngầm ( từ hố khoan hoặc giếng lò ).</para>
+        <para id="id5191768">đến công trình làm sạch nước 7, nước sạch đã được khử nhiễm được đưa đến bể nước sạch. Từ bể này, nước sạch được trạm nâng II bơm vào mạng ống áp lực hoặc vào tháp áp lực. </para>
+        <para id="id5191777">Máy bơm của trạm nâng II còn có thể được đặt trong nhà của trạm bơm nâng I ( xem </para>
+        <para id="id5191788">Hình 8 - 17,  ). Nước từ công trình làm sạch quay lại về trạm nâng I. Trang thiết bị của trạm nâng II cũng được đặt trong nhà máy bơm của trạm nâng I.</para>
+        <para id="id5092548">Các sơ đồ công trình của các trạm bơm II và III được chỉ dẫn trên Hình 8 - 17,b. Nhà máy của trạm III được bố trí bên cạnh ống áp lực mà không đặt trực tiếp trên ống, điều này có lợi trong giai đoạn tháo nước nhỏ và tổn thất cột nước nhỏ khi ngắt và cấp nước chỉ một mình trạm nâng II.</para>
+      </section>
+      <section id="id-212965788066">
+        <title>Lấy nước từ nguồn nước ngầm</title>
+        <para id="id5092575">Khi thiếu nguồn nước mặt có thể lấy nước ngầm. Nếu chất lượng nước ngầm đúng quy cách nước uống thì không cần phải xử lý nước ( xem Hình 8 - 17, ). Nếu nước ngầm cần phải xử lý thêm thì trong thành phần công trình của trạm bơm cấp nước nông thôn cần đưa vào công trình xử lý nước ( như Hình 8 - 17, ). Công trình lấy nước ngầm được chia làm các dạng: lấy nước ngang, lấy nước đứng và lấy nước dạng tia:</para>
+        <para id="id4755430">- Lấy nước ngang: thường được áp dụng khi mực nước ngầm không sâu ( đến 5 m ) và lớp nước không dày. Cửa lấy nước này gồm những hành lang thu nước hoặc những ống có đục lỗ đặt trong lớp thấm cuội cát, chúng tập trung nước vào giếng thu, trong giếng đặt tổ máy bơm để bơm lấy nước. Các ống thu nước đặt dọc lòng sông hoặc ngang dòng nước ngầm.</para>
+        <para id="id4755446">- Lấy nước đứng được áp dụng khi lớp nước ngầm sâu hơn 5 m. Thường chúng có dạng giếng lò hoặc hố khoan ( xem Hình 8 - 18 ). Để ngăn ngừa trôi đất, người ta dùng các lưới lọc và dây kim loại quây trong giếng khoan hoặc đổ sỏi trong giếng lò.</para>
+        <figure id="id4140290">
+          <media id="id8372930" alt=""><image src="../../media/graphics20-08a0.png" mime-type="image/png" height="268" width="472"/></media>
+        </figure>
+        <para id="id4140319"/>
+        <para id="id4519928"/>
+        <para id="id4519933"> Hình 8 - 18. Các sơ đồ công trình lấy nươc ngầm.</para>
+        <para id="id4519944">a) giếng lò; , b) hố khoan đặt bơm nhúng ; ) lấy nước dạng tia . </para>
+        <para id="id4519962">1- giếng lò; 2- đất ngậm nước; 3- giếng khoan; 4- máy bơm giếng phun; 5- động cơ điện</para>
+        <para id="id4519970">6- gian trên; 7- ống áp lực; 8- máy bơm nhúng; 9,10- giếng ngầm và giếng chìm; 11- ống lọc nằm ngang - tia; 12- van và cần điều khiển van.</para>
+        <para id="id3817312">Công trình lấy nước đứng có thể gồm từ 1 đến 30 chiếc giếng lò hoặc giếng khoan và</para>
+        <para id="id3817323">thường được bố trí thành tuyến song song với tuyến lỗ lấy nước bờ, đặt vuông góc hoặc tạo một góc với dòng chảy để thu được nước dưới lòng sông hoặc để phân bố đều trên một diện tích nhất định sao cho các giếng không gây hỗn loạn lẫn nhau khi hoạt động.</para>
+        <para id="id3817343">Hình 8 - 19 thể hiện một hình thức khác về lấy nước đứng từ các giếng khoan. Nước được lấy từ cụm các giếng khoan 1 theo ống tập trung 2 và được bơm 4 bơm đến nơi dùng. Bơm chân không 3 để tạo chân không liên tục trong ống hút của bơm.</para>
+        <figure id="id5182093">
+          <media id="id8373078" alt=""><image src="../../media/graphics21-b28a.png" mime-type="image/png" height="377" width="446"/></media>
+        </figure>
+        <para id="id5182120"/>
+        <para id="id5182126"/>
+        <para id="id4944221"> Hình 8 - 19. Sơ đồ lấy nước từ các giếng khoan.</para>
+        <para id="id4944232">a) Nối ống tập trung nước trực tiếp với ống hút của bơm chính.</para>
+        <para id="id4944240">b) Đặt mút cuối ống tập trung nước dưới mực nước thấp nhất của giếng.</para>
+        <para id="id4944249"> 1- giếng khoan; 2- ống tập trung nước; 3- đến bơm chân không; </para>
+        <para id="id4944265"> 4- bơm chính; 5- mực nước động; 6- giếng góp.</para>
+        <para id="id4107649">- Lấy nước dạng tia, thông thường được áp dụng để lấy nước ngầm từ những lớp nước mỏng trong trường hợp khoan số lượng lớn giếng khoan là không kinh tế. Loại tia thường được làm từ dạng giếng lò 10 thông thường hoặc giếng chìm, các giếng này được sử dụng làm giếng tập trung nước ( xem Hình 8 - 18, ). Theo hướng bán kính của giếng tập trung đặt các ống lọc nước nằm ngang 11 cắm sâu vào đất thấm chứa nước. Nước thu được từ các ống này được tập trung về giếng tập trung và được bơm lên .</para>
+      </section>
+    </section>
+  </content>
+</document>

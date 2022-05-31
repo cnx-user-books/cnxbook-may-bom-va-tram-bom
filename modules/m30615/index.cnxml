@@ -1,0 +1,975 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Khí thực</title>
+  <metadata>
+  <md:content-id>m30615</md:content-id><md:title>Khí thực</md:title>
+  <md:abstract>Phần này trình bày về hiện tượng khí thực</md:abstract>
+  <md:uuid>b57db284-5285-45af-96a5-526965e04467</md:uuid>
+</metadata>
+
+<content>
+    <para id="id23524003">KHÍ THỰC TRONG MÁY BƠM CÁNH QUẠTHIỆN TƯỢNG KHÍ THỰC VÀ NGUYÊN NHÂN PHÁT SINH </para>
+    <section id="id-731002549514">
+      <title>Hiện tượng khí thực, quá trình và nguyên nhân phát sinh khí thực.</title>
+      <para id="id23524026"><figure id="id23524029"><media id="id1171124076576" alt=""><image src="../../media/graphics1-2369.png" mime-type="image/png" height="167" width="472"/></media></figure> Hiện tượng khí thực trong dòng chất lỏng phát sinh trong trường hợp, khi áp suất thủy tĩnh ở một vùng nào đó (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p} {}</m:annotation></m:semantics></m:math>) của dòng chảy giảm đến bằng hoặc nhỏ hơn áp suất hóa hơi (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math>). Đối với nước thường, áp suất hóa hơi thực tế chỉ phụ thuộc vào nhiệt độ và không vượt quá 0,4 m cột nước đối với nhiệt độ t  300C. Ở nơi áp suất giảm thấp này chất lỏng bị sôi và xuất hiện túi hổng chứa đầy hơi nước và khí, ta gọi là bọt khí. Bọt khí này bị kéo theo dòng chất lỏng đến vùng có áp suất thủy tĩnh cao hơn áp suất hóa hơi thì hơi nước trong các bọt khí đột ngột ngưng tụ lại, tạo nên độ chân không sâu và chất lỏng xung quanh có xu thế lao vào tâm bọt khí để chiếm chỗ. Quá trình xâm thực lặp đi lặp lại trong lòng chất lỏng. Tốc độ lao vào tâm bọt khí của các hạt chất lỏng đủ cao, bởi vậy kéo theo va đập thủy lực cục bộ gây nên tiếng ồn và rung động. Ở nơi xảy ra khí thực áp suất có thể đạt hàng nghìn át mốt phe và làm tăng tổn thất thủy lực dòng chảy. Nếu các bọt khí bị phá vỡ cạnh bề mặt tiếp xúc thì do va đập thủy lực cục bộ với tần số cao sau một thời gian sẽ bắt đầu phá hoại bề mặt tiếp xúc của bơm, hình thành những "nêm thủy lực" bóc bề mặt vật liệu làm bơm ( xem Hình 5 - 1,a ).</para>
+      <para id="id24012960"/>
+      <para id="id24013963">Hình 5 - 1. Sơ đồ khí thực phá hoại bề mặt tiếp xúc.</para>
+      <para id="id24013972">Một lượng nhỏ chất khí tách ra từ chất lỏng vào bọt khí do quá trình tiếp xúc quá nhanh không kịp hòa tan, do vậy chất khí bị nén và do nhiệt độ tăng đột ngột phát sinh quá trình điện phân ... Tất cả những nguyên nhân trên dẫn tới phát sinh các tác nhân cơ học, điện phân, nhiệt và hóa học tăng tác động phá hoại của khí thực đối với bề mặt tiếp xúc giữa thành máy bơm và chất lỏng. Bề mặt thành máy bơm bị rỗ, nặng hơn nữa sẽ bị thủng lổ chỗ. Hình thức phá hoại này gọi là " sự ăn mòn khí thực ".</para>
+      <para id="id24014004">Từ phân tích nguyên nhân của sự ăn mòn khí thực ở trên ta nhận thấy rằng tác dộng phá hoại của khí thực có thể giảm nhỏ nếu dùng vật liệu chế tạo máy bơm có độ bền về hóa học cao, vật liệu có tính đàn hồi và dẻo cao và gia công bề mặt tiếp xúc nhẵn .</para>
+      <para id="id22853615">Trong máy bơm cánh quạt, khí thực xảy ra ở vùng qua nước, ở những nơi áp suất thủy tĩnh trong chất lỏng đạt trị số nhỏ nhất đó là: mặt sau rãnh cửa vào ( điểm A, Hình 5 - 1,b ) khe cánh BXCT, sau điểm A áp suất sẽ tăng lên nhờ áp lực từ cánh quạt truyền cho chất lỏng nên khả năng khí thực giảm dần. Trong máy bơm li tâm, vùng thường có khả năng khí thực là cánh quạt và đĩa BXCT, trong máy bơm hướng trục thường xảy ra ở phần trong vỏ máy và đặc biệt ở phía sau mút cánh . Khi khí thực phát sinh thường làm thay đổi ( thường giảm ) cột nước, công suất yêu cầu và hiệu suất của bơm. Khi hiện tượng khí thực phát sinh mạnh chế độ làm việc của bơm sẽ bị phá hoại. Khí thực trong máy bơm kéo theo tiếng ồn và làm rung máy.</para>
+      <figure id="id23626128">
+        <media id="id1171123232175" alt=""><image src="../../media/graphics2-4163.png" mime-type="image/png" height="194" width="299"/></media>
+      </figure>
+      <para id="id22853643"/>
+      <para id="id23542714">Hình 5 - 2. Các bánh xe cánh quạt bị khí thực phá hoại.</para>
+    </section>
+    <section id="id-551876231519">
+      <title>Những yếu tố có liên quan đến hiện tượng khí thực.</title>
+      <para id="id23542733">Điều kiện xảy ra khí thực tại một nơi nào đó là áp suất tại đó nhỏ hơn hoặc bằng áp suất hóa hơi. Như vậy việc nghiên cứu khí thực đưa về việc nghiên cứu những nguyên nhân dẫn tới việc làm giảm áp lực. Đo áp suất ở cánh máy bơm từ cửa vào đến cửa ra người ta nhận thấy áp suất tại điểm N ở cửa vào BXCT có áp suất nhỏ nhất. Tuy nhiên do phạm vi N rất hẹp, chất lỏng vượt qua quá nhanh, không kịp hình thành những bọt khí, do vậy khả năng phát sinh khí thực tại K sẽ nhiều hơn, tuy rằng áp suất tại K đo được lớn hơn tại A. Vì rằng áp suất tại K là nhỏ nhất đủ để phát sinh ra hiện tượng khí thực, cho nên ta coi pk = pmim ( xem Hình 5 - 3 ). Viết phương trình Becnully cho 0-0 và K ta có:</para>
+      <figure id="id23622409">
+        <media id="id2811224" alt=""><image src="../../media/graphics3-500e.png" mime-type="image/png" height="230" width="586"/></media>
+      </figure>
+      <para id="id24072080"/>
+      <para id="id24072089">Hình 5 - 3. </para>
+      <para id="id24072099">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow/>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mstyle fontsize="10pt">
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mi>g</m:mi>
+                            </m:mfrac>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:msub>
+                                <m:mstyle fontsize="10pt">
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mi>k</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mi>g</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>¸</m:mi>
+                          <m:mfrac>
+                            <m:msubsup>
+                              <m:mstyle fontsize="10pt">
+                                <m:mrow>
+                                  <m:mi>C</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mi>k</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mn>2g</m:mn>
+                          </m:mfrac>
+                          <m:mi>¸</m:mi>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:msubsup>
+                            <m:mstyle fontsize="10pt">
+                              <m:mrow>
+                                <m:mi>h</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="6pt">
+                              <m:mrow>
+                                <m:mi>s</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="6pt">
+                              <m:mrow>
+                                <m:mi>k</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                          <m:mi>¸</m:mi>
+                          <m:msub>
+                            <m:mstyle fontsize="10pt">
+                              <m:mrow>
+                                <m:mi>h</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="6pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>msh</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mi>¸</m:mi>
+                          <m:msub>
+                            <m:mstyle fontsize="10pt">
+                              <m:mrow>
+                                <m:mi>h</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="6pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>msvk</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msup>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ {  { { size 10{p} }  rSub { size 6{a} } }  over  {g} } = {  { { size 10{p} }  rSub { size 6{k} } }  over  {g} } ¸ {  { { size 10{C} }  rSub { size 6{k} }  rSup { size 6{2} } }  over  {2g} } ¸ \(  { size 10{h} }  rSub { size 6{s} }  rSup { size 6{k} } ¸ { size 10{h} }  rSub { size 6{ ital "msh"} } ¸ { size 10{h} }  rSub { size 6{ ital "msvk"} }  \) } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id23960994">Trong đó : 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math>là tổn thất thủy lực trong ống hút;</para>
+      <para id="id24057483"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msvk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msvk"} } } {}</m:annotation></m:semantics></m:math> là tổn thất thủy lực từ cửa vào đến điểm K;</para>
+      <para id="id23962988"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{C} }  rSub { size 8{k} } } {}</m:annotation></m:semantics></m:math> là vận tốc dòng chảy tại điểm K.</para>
+      <para id="id24001211">Chuyển vế công thức trên ta có áp suất tại điểm K ta cần nghiên cứu:</para>
+      <para id="id23887327"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="10pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:msubsup><m:mstyle fontsize="10pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mtext>msvk</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ {  { { size 10{p} }  rSub { size 6{k} } }  over  {g} } = {  { { size 10{p} }  rSub { size 6{a} } }  over  {g} } - {  { { size 10{C} }  rSub { size 6{k} }  rSup { size 6{2} } }  over  {2g} } - { size 10{h} }  rSub { size 6{s} }  rSup { size 6{k} } - { size 10{h} }  rSub { size 6{ ital "msh"} } - { size 10{h} }  rSub { size 6{"msvk"} } } } } {}</m:annotation></m:semantics></m:math> ( 5 - 1 ) </para>
+      <para id="id24030511">Phân tích ( 5 - 1 ) có thể rút ra được những nhân tố gây nên gỉam áp suất tại K:</para>
+      <para id="id23918709">- Nơi đặt máy bơm càng cao so với mực nước biển ( tức cao trình đặt máy đm) hoặc nhiệt độ môi trường cao thì áp suất khí quyển 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{p} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math> sẽ giảm, tức là trạm bơm ở miền núi dễ có nguy cơ bị khí thực hơn trạm bơm ở miền đồng bằng.</para>
+      <para id="id22852788">- Vận tốc dòng chảy 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{C} }  rSub { size 8{k} } } {}</m:annotation></m:semantics></m:math> qua máy bơm càng lớn do vòng quay tăng, cột nước vận hành thấp cũng là nguyên nhân gây giảm áp suất .</para>
+      <para id="id24088969">- Độ cao đặt máy bơm càng cao so với mực nước bể hút cũng là nguyên nhân gây giảm áp suất trong máy bơm. Việc hạ cao trình đm càng thấp càng có lợi về khí thực.</para>
+      <para id="id24088977">- Tổn thất ống hút 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math> càng lớn càng có nguy cơ sinh hiện tượng khí thực.</para>
+      <para id="id23887012">- Thiết kế dạng cánh và gia công bề mặt tiếp xúc với dòng chảy thích hợp sẽ giảm nguy cơ giảm áp và giảm nguy cơ khí thực.</para>
+      <para id="id23887025">- Trong vận hành nếu hãm máy đột ngột hay đổi hướng dòng chảy sẽ phát sinh nước va thủy lực làm tách dòng khỏi cánh cũng dễ phát sinh khí thực.</para>
+      <para id="id24316330">- Khi máy làm việc phát sinh rung động cũng gây tách dòng tạo bọt khí. Bọt khí vỡ tăng giảm áp lực có chu kỳ, tăng tần số gây nên khí thực càng ác liệt hơn.</para>
+      <para id="id24316344">Những kết luận rút ra được ở trên cần chú ý áp dụng trong thiết kế, vận hành máy bơm để tránh hoặc ngăn ngừa hiện tượng khí thực.</para>
+    </section>
+    <section id="id-270208108084">
+      <title>Những dấu hiện của hiện tượng khí thực và biện pháp ngăn ngừa.</title>
+      <section id="id-751343369524">
+        <title>Những dấu hiệu và tác hại của hiện tượng khí thực</title>
+        <para id="id24316378">Khi vận hành trạm bơm, nhất là vận hành ở trạng thái khác với trạng thái thiết kế, nếu nghe có tiếng nổ dòn, máy bị rung động là có thể có khí thực phát sinh, vì rằng khi có hiện tượng khí thực các bọt khí ngưng tụ lại nên phát sinh tiếng ồn. Nếu nghe thấy tiếng nổ có chu kỳ tức là các bọt khí nhỏ hợp thành các bọt khí lớn.</para>
+        <para id="id24316386">Khi mở máy ra quan sát, nếu thấy các bộ phận qua nước bị rỗ tổ ong, có nghĩa là hiện tượng khí thực đã gây phá hoại bề mặt các bộ phận đó, thường các mặt phía sau cánh bị rỗ nặng hơn. Khi Q &gt; Qtk thì có thể rỗ cả mặt trước của cánh. Những nơi thường bị rỗ nhất là: mép ra cánh, khe hở giữa cánh và vỏ, mặt cánh nơi tách dòng với vận tốc tương đối W. Khi vận hành lưu lượng quá lớn trong thời gian dài thì ngay phần vỏ xoắn cũng có thể bị rỗ.</para>
+        <para id="id24123418">Trong vận hành còn có dấu hiệu : Khi bơm lâm vào khí thực thì do chất lỏng phát sinh bọt khí làm cho cột nước giảm. Bọt khí nhiều dễ sinh tách dòng . Lúc này cả H, N,  đều giảm. Tuy nhiên tùy thuộc vào tỷ tốc mà độ giảm có mức độ khác nhau: Ở bơm li tâm tỷ tốc thấp, vì khe cánh hẹp do vậy khi phát sinh khí thực thì khí thực sẽ nhanh chóng phát triễn toàn khe, dẫn tới H, N,  giảm nhanh ở một lưu lượng nào đó. Ở máy bơm hướng trục, tỷ tốc cao, do khe cánh quá rộng do vậy khí thực chỉ có ở một phần tiết diện qua nước, do vậy H, N,  giảm từ từ, không có điểm gián đoạn như bơm li tâm vì vậy khó phát hiện hơn. Tuy nhiên khi phát sinh khí thực thì đường đặc  - Q giảm trước hai đường H - Q và N - Q, do vậy thường bơm hướng trục dùng việc giảm đường  - Q để nhận biết sự xuất hiện của hiện tượng khí thực.</para>
+      </section>
+      <section id="id-722817645317">
+        <title>Các biện pháp phòng ngừa hiện tượng khí thực.</title>
+        <para id="id24103365">Việc phòng ngừa hiện tượng khí thực phải được tiến hành ở mọi giai đoạn.</para>
+        <para id="id24103378">Trong việc chế tạo máy bơm, để tăng khả năng kháng chịu của máy bơm khi có xảy ra khí thực, người sử dụng thép không rỉ có hàm lượng crôm từ 12 ... 14% và kền từ 0,5 ...0,8%. Thiết kế dạng cánh hợp lý, mặt sau cánh có sự giảm áp lực đồng đều, không giảm đột ngột. Góc 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{β} }  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> ở cửa vào có gía trị nhỏ để độ dự trữ khí thực yêu cầu sẽ nhỏ do đó ít có khả năng phát sinh khí thực hơn. Dòng chảy vào BXCT không làm ngoặt đột ngột. Dùng bơm li tâm hai cửa vào để giảm vận tốc hoặc mở rộng đường kính vào D1, nhưng việc mở rộng này không nên làm cho tỷ số D2/D1 quá nhỏ để chiều dài khe cánh không quá nhỏ mới không sinh khí thực.</para>
+        <para id="id24056967">Về thiết kế công trình: Không chọn 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math> quá cao so với bể hút , nhưng cũng không chọn quá thấp để tránh xây lắp khối lượng lớn không kinh tế. Đối với máy bơm nhỏ có thể tăng đường kính và giảm chiều dài ống hút, giảm số lượng chỗ ngoặt, nên bỏ van trên ống hút để dòng chảy phân bố đều ... nhằm giảm tổn thất
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math>. Đối với bơm hướng trục lớn việc chọn hình thức và kích thước ống hút, buồng hút hợp lý cũng là một biện pháp chống khí thực . </para>
+        <para id="id23963152">Trong giai đoạn vận hành: Cho máy chạy phải đảm bảo độ cao hút nước nhỏ hơn độ cao hút nước cho phép. Khi mực nước trong bể hút thấp hơn mực nước cho phép thì phải dừng ngay máy. Tìm biện pháp giảm tổn thất thủy lực trong ống hút và bể hút. Có thể nghiên cứu việc dùng van phá chân không để phá khí thực. Tuy nhiên việc phá chân không có thể làm giảm khả năng hút của máy bơm mà việc chống khí thực chưa chắc có tác dụng tốt.</para>
+      </section>
+    </section>
+    <section id="id-807138489038">
+      <title>ĐỘ CAO ĐẶT MÁY BƠM</title>
+      <para id="id23963178">Độ cao đặt máy bơm (đm ) phải thỏa mãn yêu cầu về kỹ thuật là phòng tránh khí thực và phải thỏa mãn yêu cầu kinh tế là khối đào đắp phải không lớn. Quy định chọn cao trình đm ở nơi phát sinh khí thực nguy hiểm nhất đối với từng loại bơm và phương thức đặt máy bơm, cụ thể như Hình ( 5 - 4 ) sau đây:</para>
+      <para id="id24014086"><figure id="id24014096"><media id="id1171126132194" alt=""><image src=".png" mime-type="image/png" height="156" width="433"/></media></figure>Hình 5 - 4. Vị trí đm theo từng loại máy bơm.</para>
+      <para id="id24072156">Qua hình vẽ trên ta nhận thấy đm cũng chính là độ cao hút địa hình
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>, để an toàn lấy 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>  [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>] trong công thức ( 5 - 2 ), cao trình đặt máy bơm :</para>
+      <para id="id24317150">đm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Z} }  rSub { size 8{ ital "bh"} } } {}</m:annotation></m:semantics></m:math> + [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>] ( 5 - 2 )</para>
+      <para id="id24056930">trong đó [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>] có thể lấy dấu dương hoặc âm tùy điều kiện cụ thể. Để xác điịnh [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>] thường có hai cách, sẽ được trình bày sau đây:</para>
+      <section id="id-398206131911">
+        <title>Tính độ cao hút theo độ chân không cho phép [
+Hck size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} } } {}].</title>
+        <para id="id24124274">Viết phương trình Becnully cho hai mặt cắt 0 - 0 và B - B ( xem Hình 5 - 3,a ):</para>
+        <para id="id24124285"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{p} }  rSub { size 8{a} } }  over  {g} } = { size 24{h} }  rSub { size 8{s} } + {  { { size 24{p} }  rSub { size 8{b} } }  over  {g} } + {  { { size 24{C} }  rSub { size 8{b} }  rSup { size 8{2} } }  over  {2g} } + { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math>, trong đó 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math> là tổn thất thủy lực trong ống hút.</para>
+        <para id="id23632998">Chuyển vế công thức trên ta có : 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mfrac><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } = {  { { size 24{p} }  rSub { size 8{a-{}} }  { size 24{p} }  rSub { size 8{b} } }  over  {g} } - { size 24{h} }  rSub { size 8{ ital "msh"} } - {  { { size 24{C} }  rSub { size 8{b} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation></m:semantics></m:math>, vì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>g</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} } = {  { { size 24{p} }  rSub { size 8{a-{}} }  { size 24{p} }  rSub { size 8{b} } }  over  {g} } } {}</m:annotation></m:semantics></m:math> vậy</para>
+        <para id="id23948291"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } = { size 24{H} }  rSub { size 8{ ital "ck"} } - { size 24{h} }  rSub { size 8{ ital "msh"} } - {  { { size 24{C} }  rSub { size 8{b} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation></m:semantics></m:math> , ( * ) </para>
+        <para id="id23969209">Khi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} } } {}</m:annotation></m:semantics></m:math> đạt tới giới hạn cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>thì độ cao hút 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>cũng đạt đến độ hút cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>]. Vậy thay vào ( * ) ta có:</para>
+        <para id="id22850404">[
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] = \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] - { size 24{h} }  rSub { size 8{ ital "msh"} } - {  { { size 24{C} }  rSub { size 8{b} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation></m:semantics></m:math>( 5 - 3 )</para>
+        <para id="id23918905">Độ cao [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>có thể tra trên đường đặc tính của máy bơm. Sử dụng trị số này từ đường đặc tính cần chú ý hiệu chỉnh cho phù hợp với thực tế vì rằng thí nghiệm mô hình đã tiến hành trong điều kiện chuẩn: với cột áp khí quyển 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } = {  { { size 24{p} }  rSub { size 8{a} } }  over  {g} } ="10"} {}</m:annotation></m:semantics></m:math> mét cột nước, nhiệt độ không khí nơi thí nghiệm t = 200C (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0,</m:mn></m:mrow><m:mtext>24</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "hh"} } = {  { { size 24{p} }  rSub { size 8{ ital "hh"} } }  over  {g} } =0,"24"} {}</m:annotation></m:semantics></m:math>mét cột nước ) và vòng quay máy bơm thí nghiệm bằng vòng quay định mức (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{n} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math>). Cách hiệu chỉnh như sau:</para>
+        <para id="id23971955">Trong công thức ( 5 -3 ) khi hiệu chỉnh thay [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>bởi kí hiệu [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  rSup { size 8{'} }  \] } {}</m:annotation></m:semantics></m:math>:</para>
+        <para id="id24071327">- Khi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math>  10 m thì: [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mi>¸</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  rSup { size 8{'} }  \] = \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] -"10"¸ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id23625537">- Khi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math>  10 m và t  200C thì: [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mi>¸</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>¸</m:mi><m:mn>0,</m:mn><m:mrow><m:mtext>24</m:mtext><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  rSup { size 8{'} }  \] = \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] -"10"¸ { size 24{H} }  rSub { size 8{a} } ¸0,"24"- { size 24{H} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id24045045">- Khi n 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{n} }  rSub { size 8{ ital "tk"} } } {}</m:annotation></m:semantics></m:math> thì: [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:mfenced open="{" close="}"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mfrac><m:mi>n</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mfrac><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  rSup { size 8{'} }  \] = left lbrace  { size 24{H} }  rSub { size 8{a} } - \(  { size 24{H} }  rSub { size 8{a} } - \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \]  \)  \(  {  {n}  over  { { size 24{n} }  rSub { size 8{ ital "tk"} } } }  \)  rSup { size 8{2} }  right rbrace } {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id23948436">- Khi đặt máy bơm ở độ cao 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Ñ} {}</m:annotation></m:semantics></m:math> 0 thì: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow><m:mi>,</m:mi><m:mrow><m:mtext>33</m:mtext><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>Ñ</m:mi><m:mtext>900</m:mtext></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } ="10","33"- {  {Ñ}  over  {"900"} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id24109798">Ta còn có thể tra
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math> ở các cao độ theo bảng ( 5 -1 ) và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math> theo bảng ( 5 - 2 ):</para>
+        <para id="id24012900">Bảng ( 5 - 1)</para>
+        <table id="id24012908" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Độ cao so mặt chuẩn</entry>
+                <entry>0</entry>
+                <entry>100</entry>
+                <entry>200</entry>
+                <entry>300</entry>
+                <entry>400</entry>
+                <entry>500</entry>
+                <entry>600</entry>
+              </row>
+              <row>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math> ( m )</entry>
+                <entry>10,33</entry>
+                <entry>10,2</entry>
+                <entry>10,1</entry>
+                <entry>10</entry>
+                <entry>9,8</entry>
+                <entry>9,7</entry>
+                <entry>9,6</entry>
+              </row>
+              <row>
+                <entry>Độ cao so mặt chuẩn</entry>
+                <entry>700</entry>
+                <entry>800</entry>
+                <entry>900</entry>
+                <entry>1000</entry>
+                <entry>1500</entry>
+                <entry>2000</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math> ( m )</entry>
+                <entry>9,5</entry>
+                <entry>9,4</entry>
+                <entry>9,3</entry>
+                <entry>9,2</entry>
+                <entry>8,6</entry>
+                <entry>8,4</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id23539764"> Bảng ( 5 - 2 )</para>
+        <table id="id24316403" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Nhiệt độmôi trường 0C</entry>
+                <entry>5</entry>
+                <entry>10</entry>
+                <entry>20</entry>
+                <entry>30</entry>
+                <entry>40</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math> ( m cột nước )</entry>
+                <entry>0,09</entry>
+                <entry>0,12</entry>
+                <entry>0,24</entry>
+                <entry>0,43</entry>
+                <entry>0,75</entry>
+                <entry>1,25</entry>
+              </row>
+              <row>
+                <entry>Nhiệt độmôi trường 0C</entry>
+                <entry>60</entry>
+                <entry>70</entry>
+                <entry>80</entry>
+                <entry>90</entry>
+                <entry>100</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math> ( m cột nước )</entry>
+                <entry>2,02</entry>
+                <entry>3,17</entry>
+                <entry>4,82</entry>
+                <entry>7,14</entry>
+                <entry>10,33</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id23887112">Bơm li tâm sử dụng độ chân không
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>để xác định độ cao hút cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>.</para>
+      </section>
+      <section id="id-0993896687135">
+        <title>Tính độ cao hút theo độ dự trữ khí thực
+Dh size 12{Dh} {}:</title>
+        <para id="id24317083">Bơm hướng trục dùng độ dự trữ khí thực tới hạn cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> để tính độ cao hút cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>. Hình 5 - 3, ta đã viết phương trình Becnully cho hai mặt cắt 0 - 0 và điểm K và đã có được công thức ( 5 - 1 ), chuyển vế ta có: </para>
+        <para id="id24013490">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:msub>
+                                  <m:mstyle fontsize="10pt">
+                                    <m:mrow>
+                                      <m:mi>p</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="6pt">
+                                    <m:mrow>
+                                      <m:mi>a</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mi>g</m:mi>
+                              </m:mfrac>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mfrac>
+                                <m:msub>
+                                  <m:mstyle fontsize="10pt">
+                                    <m:mrow>
+                                      <m:mi>p</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="6pt">
+                                    <m:mrow>
+                                      <m:mi>k</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mi>g</m:mi>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mi>¸</m:mi>
+                            <m:mfrac>
+                              <m:msubsup>
+                                <m:mstyle fontsize="10pt">
+                                  <m:mrow>
+                                    <m:mi>C</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mi>k</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msubsup>
+                              <m:mn>2g</m:mn>
+                            </m:mfrac>
+                            <m:mi>¸</m:mi>
+                            <m:msubsup>
+                              <m:mstyle fontsize="10pt">
+                                <m:mrow>
+                                  <m:mi>h</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mi>s</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mi>k</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mi>¸</m:mi>
+                            <m:msub>
+                              <m:mstyle fontsize="10pt">
+                                <m:mrow>
+                                  <m:mi>h</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>msh</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mi>¸</m:mi>
+                            <m:msub>
+                              <m:mstyle fontsize="10pt">
+                                <m:mrow>
+                                  <m:mi>h</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mtext>msvk</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ {  { { size 10{p} }  rSub { size 6{a} } }  over  {g} } = {  { { size 10{p} }  rSub { size 6{k} } }  over  {g} } ¸ {  { { size 10{C} }  rSub { size 6{k} }  rSup { size 6{2} } }  over  {2g} } ¸ { size 10{h} }  rSub { size 6{s} }  rSup { size 6{k} } ¸ { size 10{h} }  rSub { size 6{ ital "msh"} } ¸ { size 10{h} }  rSub { size 6{"msvk"} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id23902215">nếu đặt 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>¸</m:mi><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{s} } = { size 24{h} }  rSub { size 8{ ital "msh"} } ¸ { size 24{h} }  rSub { size 8{s} }  rSup { size 8{k} } } {}</m:annotation></m:semantics></m:math>. trong đó như đã biết 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  rSup { size 8{k} } } {}</m:annotation></m:semantics></m:math> là độ cao hút từ mực nước bể hút đến điểm K đang nghiên cứu, còn 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math> là tổn thất cột cột nước trong ống hút. Vậy ta có:</para>
+        <para id="id23622679"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac></m:mrow><m:mi>¸</m:mi><m:mfrac><m:msubsup><m:mstyle fontsize="10pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mn>2g</m:mn></m:mfrac><m:mi>¸</m:mi><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mi>¸</m:mi><m:msub><m:mstyle fontsize="10pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="6pt"><m:mrow><m:mtext>msvk</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {} rSup { size 8{ {  { { size 10{p} }  rSub { size 6{a} } }  over  {g} } = {  { { size 10{p} }  rSub { size 6{k} } }  over  {g} } ¸ {  { { size 10{C} }  rSub { size 6{k} }  rSup { size 6{2} } }  over  {2g} } ¸ { size 10{H} }  rSub { size 6{s} } ¸ { size 10{h} }  rSub { size 6{"msvk"} } } } } {}</m:annotation></m:semantics></m:math>( * )</para>
+        <para id="id23570605">Thành phần tổn thất thủy lực từ cửa vào BXCT đến điểm K (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msvk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msvk"} } } {}</m:annotation></m:semantics></m:math>) với khoảng cách ngắn do đó chỉ xét đến tổn thất cục bộ, nên : </para>
+        <para id="id23632880">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mstyle fontsize="24pt">
+                          <m:mrow>
+                            <m:mi>h</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>msvk</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mi>λ</m:mi>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfrac>
+                          <m:msubsup>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>W</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>k</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msubsup>
+                          <m:mn>2g</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msvk"} } =λ cdot  {  { { size 24{W} }  rSub { size 8{k} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id23875034">Trong đó : 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>W</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{W} }  rSub { size 8{k} } } {}</m:annotation></m:semantics></m:math>là vận tốc tương đối của chất lỏng tại điểm K trên BXCT; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>λ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{λ} {}</m:annotation></m:semantics></m:math>là hệ số tính đến việc giảm áp lực thủy tĩnh, hệ số này phụ thuộc vào biên dạng cánh, hệ số tỷ tốc và các yếu tố khác, thường vào khoảng 0,2 ... 0,4 .</para>
+        <para id="id23946509">Thay trị số 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msvk</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{ ital "msvk"} } } {}</m:annotation></m:semantics></m:math> vào ( * ) rồi chuyển đổi công thức ta có ta có :</para>
+        <para id="id24317623"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:mi>g</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mi>¸</m:mi><m:mi>λ</m:mi><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>W</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mn>2g</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{s} } = {  { { size 24{p} }  rSub { size 8{a} } }  over  {g} } - {  { { size 24{p} }  rSub { size 8{k} } }  over  {g} } - {  { { size 24{C} }  rSub { size 8{k} }  rSup { size 8{2} } ¸λ { size 24{W} }  rSub { size 8{k} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mi>¸</m:mi><m:mi>λ</m:mi><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>W</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mn>2g</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } - { size 24{H} }  rSub { size 8{k} } - {  { { size 24{C} }  rSub { size 8{k} }  rSup { size 8{2} } ¸λ { size 24{W} }  rSub { size 8{k} }  rSup { size 8{2} } }  over  {2g} } } {}</m:annotation></m:semantics></m:math>( ** )</para>
+        <para id="id23887866">Điều kiện phát sinh khí thực tại K khi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{k} } = { size 24{H} }  rSub { size 8{ ital "hh"} } } {}</m:annotation></m:semantics></m:math> và lúc này 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math>đạt tới hạn 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mfenced open="" close=""><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( { size 24{H} }  rSub { size 8{s} }  right ) rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id23969705"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mfenced open="" close=""><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( { size 24{H} }  rSub { size 8{s} }  right ) rSub { size 8{ ital "th"} } ={}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mfrac><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mi>¸</m:mi><m:mi>λ</m:mi><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>W</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mn>2g</m:mn></m:mfrac><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{a} } - { size 24{H} }  rSub { size 8{k} } - \(  {  { { size 24{C} }  rSub { size 8{k} }  rSup { size 8{2} } ¸λ { size 24{W} }  rSub { size 8{k} }  rSup { size 8{2} } }  over  {2g} }  \)  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo><m:mi>¸</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  { size 24{h} }  rSub { size 8{s} }  \] ¸ { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math>( *** )</para>
+        <para id="id24312053">Thành phần 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mfrac><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mi>¸</m:mi><m:mi>λ</m:mi><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>W</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mn>2g</m:mn></m:mfrac><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \(  {  { { size 24{C} }  rSub { size 8{k} }  rSup { size 8{2} } ¸λ { size 24{W} }  rSub { size 8{k} }  rSup { size 8{2} } }  over  {2g} }  \)  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>, được gọi là " độ dự trữ khí thực tới hạn". Điều kiện để không phát sinh khí thực là độ dự trữ khí thực được chọn phải lớn hơn
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>.Từ công tức ( *** ) ta rút ra được [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>theo độ dự trữ cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>= k. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> như sau:</para>
+        <para id="id23570481">[
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">Dh</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>msh</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] = { size 24{H} }  rSub { size 8{a} } - { size 24{H} }  rSub { size 8{ ital "hh"} } -Dh- { size 24{h} }  rSub { size 8{ ital "msh"} } } {}</m:annotation></m:semantics></m:math>( 5 - 4 )</para>
+        <para id="id23633122">Trong công thức ( 5 - 4 ), độ dự trữ khí thực cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>tra được từ đường đặc tính của máy bơm và cũng chú ý rằng trị số này vẽ ra từ thực nghiệm ở điều kiện chuẩn, do vậy cũng phải tiến hành hiệu chỉnh cho điều kiện thực tế, cách hiệu chỉnh cũng giống như đã trình bày trong công thức tính đối với bơm li tâm. </para>
+        <para id="id23916660">Trị số 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> là độ dự trữ khí thực cho phép nhỏ nhất để không sinh khí thực. Để an toàn hơn còn yêu cầu nhân 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> với hệ số an toàn k  1,15 . Để hiểu thêm về
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>ta hãy xem thí nghiệm khí thực qua các giai đoạn như Hình ( 5 - 6 ) phần cuối chương này.</para>
+        <para id="id23931027">Trường hợp trong đường đặc tính của máy bơm không vẽ đường 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>- H - Q ta có thể dùng công thức của C.C. Rút nhép ( Nga ) sau Đây:</para>
+        <para id="id23904191"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi fontstyle="italic">Dh</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">⋅</m:mo><m:msqrt><m:mi>Q</m:mi></m:msqrt></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mfrac><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh="10" cdot  \(  {  {n cdot  sqrt {Q} }  over  { { size 24{C} }  rSub { size 8{ ital "th"} } } }  \)  rSup { size 8{4/3} } } {}</m:annotation></m:semantics></m:math>( 5 - 5 )</para>
+        <para id="id24101225"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{C} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> : là hệ số tỷ tốc khí thực, đối với máy bơm li tâm thông thường, lấy như sau:</para>
+        <table id="id24101294" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>ns</entry>
+                <entry>50 ... 70</entry>
+                <entry>70 ... 80</entry>
+                <entry>80 ... 150</entry>
+                <entry>150 ... 250</entry>
+              </row>
+              <row>
+                <entry>Cth</entry>
+                <entry>600 ... 750</entry>
+                <entry>800</entry>
+                <entry>800 ... 1000</entry>
+                <entry>1000 ... 1200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id24071973">Ngoài ra, Tôm còn đưa ra công thức gần đúng khác: </para>
+        <para id="id24071984"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi fontstyle="italic">Dh</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:mi>H</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh= { size 24{s} }  rSub { size 8{ ital "th"} }  cdot H} {}</m:annotation></m:semantics></m:math>( 5 - 6 )</para>
+        <para id="id24316288">Trong đó: hệ số khí thực 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{s} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> xác định theo các công thức thực nghiệm sau:</para>
+        <para id="id22853761">- Theo Stêpanốp:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{s} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>= 2,2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{"10"} }  rSup { size 8{-4} }  cdot  { size 24{n} }  rSub { size 8{s} }  rSup { size 8{4/3} } } {}</m:annotation></m:semantics></m:math> ;</para>
+        <para id="id23887447">- Theo Escher - Wyss: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{s} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>= 2,16. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{"10"} }  rSup { size 8{-4} }  cdot  { size 24{n} }  rSub { size 8{s} }  rSup { size 8{4/3} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id23645623">Đối với bơm hai cửa vào: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{s} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>= 1,37. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{"10"} }  rSup { size 8{-4} }  cdot  { size 24{n} }  rSub { size 8{s} }  rSup { size 8{4/3} } } {}</m:annotation></m:semantics></m:math>;</para>
+        <para id="id24309830">- Theo Viện nghiên cứu thủy lực Liên Xô (cũ): </para>
+        <para id="id24309838"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{s} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> = 2,05. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">/</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{"10"} }  rSup { size 8{-4} }  cdot  { size 24{n} }  rSub { size 8{s} }  rSup { size 8{4/3} } } {}</m:annotation></m:semantics></m:math> .</para>
+        <para id="id22861274">Sau khi tính 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>ta nhân thêm hệ số k = 1,15.</para>
+        <para id="id22861329">Bổ sung thêm công thức đồng dạng về độ dự trữ khí thực:</para>
+        <para id="id22861339"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">⋅</m:mo><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { size 24{D} }  rSub { size 8{h} } }  over  { { size 24{D} }  rSub { size 8{ ital "hm"} } } } = { size 24{i} }  rSub { size 8{D} }  rSup { size 8{2} }  cdot  { size 24{i} }  rSub { size 8{n} }  rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>( 5 - 7 )</para>
+      </section>
+      <section id="id-312923916998">
+        <title>Xác định cao trình đặt máy bơm ( đm )</title>
+        <para id="id23887179">Cao trình đặt máy bơm phải thỏa mãn yêu cầu an toàn khí thực trong mọi chế độ vận hành và cũng không đặt quá thấp để tránh tăng khối lượng công trình. Để chọn cao trình đặt máy trước tiên ta dùng lưu lượng và cột nước thiết kế để tính, sau đó kiểm tra trạng thái làm việc khác phải bảo đảm chống được khí thực.</para>
+        <para id="id23887203">1. Xác định cao trình đặt máy theo trạng thái thiết kế:</para>
+        <para id="id23887213">Từ công thức ( 5 - 2 ) ta viết:</para>
+        <para id="id23887221">đm 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle><m:mtext>min</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub><m:mi>¸</m:mi><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Z} }  rSub { size 8{ ital "bh""min"} } ¸ \[  { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>( 5 - 8 )</para>
+        <para id="id23946058">Trong đó: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle><m:mtext>min</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Z} }  rSub { size 8{ ital "bh""min"} } } {}</m:annotation></m:semantics></m:math>là mực nước thấp nhất trong bể hút.</para>
+        <para id="id23946132"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \[  { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>độ cao hút cho phép, tính theo trạng thái thiết kế, dùng ( 5 - 3 ) - đối với máy bơm li tâm, dùng ( 5 - 4 ) - đối với máy bơm hướng trục.</para>
+        <para id="id24103829">2. Kiểm tra cao trình đặt máy ở các chế độ làm việc khác:</para>
+        <para id="id24103840">Xác định đm theo công thức ( 5 - 8 ) đảm bảo không sinh khí thực khi máy bơm làm việc ở chế độ thiết kế. Để bảo đảm rằng khi máy bơm làm việc ở các chế độ khác chế độ thiết kế vẫn bảo đảm không phát sinh khí thực ta còn phải kiểm tra khí thực ở các chế độ giới hạn là chế độ làm việc với 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math> và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> nữa :</para>
+        <para id="id24311524">Gọi cao trình đặt máy bơm không sinh khí thực ở chế độ cột nước 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math>là
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{'} } } {}</m:annotation></m:semantics></m:math>:</para>
+        <para id="id24124421"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{'} } } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle><m:mtext>min</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub><m:mi>¸</m:mi><m:mo stretchy="false">[</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Z} }  rSub { size 8{ ital "bh""min"} } ¸ \[  { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>( 5 - 9 )</para>
+        <para id="id24101637">Độ cao hút cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>cũng tính giống như trên, nhưng sử dụng 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>max</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"max"} } } {}</m:annotation></m:semantics></m:math> để tra độ chân không cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math> ( hoặc độ dự trữ khí thực cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{D} }  rSub { size 8{h} } } {}</m:annotation></m:semantics></m:math> ) và lưu lượng tương ứng trong công thức ( 5 - 3 ) hoặc ( 5 - 4 ).</para>
+        <para id="id24001279">Gọi cao trình đặt máy bơm không sinh khí thực ở chế độ cột nước 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> là
+<m:math><m:semantics><m:mtable><m:mtr><m:mtext>} } } {}</m:mtext></m:mtr><m:mtr><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr><m:mtr><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:msubsup></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{"} } } {}</m:annotation></m:semantics></m:math>:</para>
+        <para id="id23620413"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>} } = { size 24{Z} }  rSub { size 8{ ital </m:mtext><m:mi fontstyle="italic">bh</m:mi><m:mtext/><m:mi fontstyle="italic">max</m:mi><m:mtext>} } + \[  { size 24{h} }  rSub { size 8{s} }  \] } {}</m:mtext></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr><m:mtr><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:msubsup></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{"} } = { size 24{Z} }  rSub { size 8{ ital "bh""max"} } + \[  { size 24{h} }  rSub { size 8{s} }  \] } {}</m:annotation></m:semantics></m:math>( 5 - 10 )</para>
+        <para id="id24100698">Trong công thức ( 5 - 10 ): 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>Z</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>bh</m:mtext></m:mrow></m:mstyle><m:mtext>max</m:mtext></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Z} }  rSub { size 8{ ital "bh""max"} } } {}</m:annotation></m:semantics></m:math>là mực nước cao nhất trong bể hút. Cũng từ cột nước 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>min</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{"min"} } } {}</m:annotation></m:semantics></m:math> ta tra ra [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math> ( hoặc độ dự trữ khí thực cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{D} }  rSub { size 8{h} } } {}</m:annotation></m:semantics></m:math> ) và lưu lượng tương ứng trong công thức ( 5 - 3 ) hoặc ( 5 - 4 ).</para>
+        <para id="id23931405">Cao trình đặt máy bơm theo trạng thái thiết kế nếu đm  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>'</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{'} } } {}</m:annotation></m:semantics></m:math> và 
+<m:math><m:semantics><m:mtable><m:mtr><m:mtext>} } } {}</m:mtext></m:mtr><m:mtr><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr><m:mtr><m:msubsup><m:mstyle fontsize="24pt"><m:mrow><m:mi>Ñ</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dm</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:msubsup></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{Ñ} }  rSub { size 8{ ital "dm"} }  rSup { size 8{"} } } {}</m:annotation></m:semantics></m:math>, đồng thời thỏa mãn yêu cầu của nhà máy chế tạo về độ nhúng BXCT dưới mực nước thấp nhất ở bể hút một độ sâu 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{h} }  rSub { size 8{s} } &lt;0} {}</m:annotation></m:semantics></m:math> ( đối với bơm hướng trục ) thì đm được chọn an toàn.</para>
+      </section>
+    </section>
+    <section id="id-583617995766">
+      <title>THÍ NGHIỆM KHÍ THỰC</title>
+      <para id="id23622503">Mục đích của việc thí nghiêm khí thực là xác định độ cao hút cho phép và quan hệ của nó đối với các thông số khác của máy bơm như H, Q, N, . Cùng với thí nghiệm vẽ các đường đặc tính H - Q, N - Q,  - Q ( như đã trình bày ở phần trước ), kết quả thí nghiệm khí thực vẽ ra được các đường đặc tính [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>- Q và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> - Q. </para>
+      <para id="id24001088">Có hai loại thiết bị thí nghiệm khí thực là thiết bị thí nghiệm hở ( như đối với thí nghiệm xác định H, Q, N trình bày phần trước ) và thiết bị thí nghiệm kín ( Hình 5 - 5 ):</para>
+      <para id="id24001104">
+        <figure id="id24001107">
+          <media id="id1171119653605" alt=""><image src="../../media/graphics4-55f6.png" mime-type="image/png" height="207" width="427"/></media>
+        </figure>
+      </para>
+      <para id="id24001140"/>
+      <para id="id24001150"> Hình 5 - 5. Thiết bị thí nghiệm khí thực kiểu kín.</para>
+      <para id="id24001163">Trong thiết bị thí nghiệm khí thực kiểu hở, ta dùng cửa van đặt trên ống hút để tăng dần tổn thất trên ống hút, làm áp suất cửa vào máy bơm giảm nhỏ dần cho đến khi sinh khí thực. Thiết bị này đơn giản nhưng kém chính xác. </para>
+      <para id="id23972023">Thiết bị thí nghiệm kiểu kín chính xác hơn thí nghiệm hở, nó là một hệ thống trong đó nước chảy theo vòng khép kín, gồm có : máy bơm 1, ống hút, van điều chỉnh 6, ống đẩy, thiết bị đo lưu lượng 4, van ống đẩy 5, bình kín 2 chứa đầy khí bên trên, bơm chân không 3, nhiệt kế để 9, van thông với khí trời 11... Bơm chân không 3 được nối với bình kín 2 để hút không khí trong bình nhằm làm giảm áp suất trong hệ thống mà không phá hoại chế độ làm việc của máy bơm. Dùng van ống đẩy 5 để điều chỉnh lưu lượng Q, khống chế lưu lượng không đổi cho từng mức thí nghiệm. Dùng chân không kế 7 để đo chân không trong ống hút.</para>
+      <para id="id23972060">Tiến hành thí nghiệm, với mỗi mức Q cho ta một trị số dự trữ khí thực
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>, với nhiều mức lưu lượng Q tương ứng có nhiều 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> ta vẽ ra được đường đặc tính 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> - Q (cho máy bơm hướng trục ), và từ từng cặp 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>- Q ta cũng có thể tính ra [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>:</para>
+      <para id="id23633865">
+        <figure id="id23633868">
+          <media id="id1171119540519" alt=""><image src="../../media/graphics5-cec7.png" mime-type="image/png" height="264" width="338"/></media>
+        </figure>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">[</m:mo>
+                    <m:msub>
+                      <m:mstyle fontsize="24pt">
+                        <m:mrow>
+                          <m:mi>H</m:mi>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>ck</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo stretchy="false">]</m:mo>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mstyle fontsize="24pt">
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mstyle fontsize="24pt">
+                                  <m:mrow>
+                                    <m:mi>p</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>hh</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mfrac>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mfrac>
+                            <m:msubsup>
+                              <m:mstyle fontsize="24pt">
+                                <m:mrow>
+                                  <m:mi>C</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msubsup>
+                            <m:mn>2g</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mi fontstyle="italic">Dh</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ \[  { size 24{H} }  rSub { size 8{ ital "ck"} }  \] = {  { { size 24{p} }  rSub { size 8{a} } - { size 24{p} }  rSub { size 8{ ital "hh"} } }  over  {g} } - {  { { size 24{C} }  rSub { size 8{1} }  rSup { size 8{2} } }  over  {2g} } -Dh} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id22850500"/>
+      <para id="id22850508"/>
+      <para id="id22850514">Hình 5 - 6. Diễn biến H = f (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>).</para>
+      <para id="id22850570">và vẽ đường đặc tính độ chân không cho phép [
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>H</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ck</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{H} }  rSub { size 8{ ital "ck"} }  \] } {}</m:annotation></m:semantics></m:math>- Q ( cho máy bơm li tâm ).</para>
+      <para id="id24057136">Các bước tiến hành thí nghiệm khí thực như sau:</para>
+      <para id="id24057145">- Dùng van ống đẩy 5 để mở một mức lưu lượng không đổi Q = hằng số và giữ cho máy bơm làm việc với trị số vòng quay không đổi suốt quá trình;</para>
+      <para id="id24057157">- Dùng bơm chân không 3 để tăng độ chân không trong bình kín 2, chân không kế 7 đo được các trị số chân không thay đổi. </para>
+      <para id="id24057168">- Dùng áp lực kế vi sai 8 đo
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id24057219">Từ kết quả thí nghiệm ( Hình 5 - 6 ) ta thấy: </para>
+      <para id="id24057228">+ Trong phạm vi vùng 1 chỉ số chân không thay đổi nhưng H = f (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>) vẫn không thay đổi, vùng này chưa phát sinh khí thực;</para>
+      <para id="id24071393">+ Tiếp tục giảm áp suất trong bình tới một trị số nào đó ( ứng với
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>I</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{I} } } {}</m:annotation></m:semantics></m:math>) xuất hiện tiếng động, biểu hiện của khí thực, tuy nhiên H ( và kéo theo N) chưa thay đổi rõ rệt. Tiếp tục làm việc lâu với tình trạng này sẽ có xói mòn khí thực ( vùng 2 ). Do vậy chỉ cho phép kéo dài tình trạng này trong thời gian rất ngắn. Ta lấy 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>I</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{I} } } {}</m:annotation></m:semantics></m:math> làm chế độ tới hạn thứ nhất;</para>
+      <para id="id23623075">+ Tiếp tục giảm áp suất, khi 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> giảm đến 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{"II"} } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> ( giữa vùng 2 và 3 ) thì H bắt đầu giảm mạnh. Không cho phép máy bơm làm việc trong vùng này. Lấy độ dự trữ khí thực 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{"II"} } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> làm chế độ tới hạn thứ hai, và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>II</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{"II"} } } {}</m:annotation></m:semantics></m:math>được gọi là " độ dự trữ khí thực tới hạn " với dấu hiệu cột nước giảm đột ngột 2% H.</para>
+      <para id="id23625654">Độ dự trữ khí thực cho phép được tính theo công thức:</para>
+      <para id="id23625663"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi fontstyle="italic">Dh</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>D</m:mi></m:mrow></m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh=A cdot D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>= a
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ cdot  { size 24{k} }  rSub { size 8{s} }  cdot  { size 24{k} }  rSub { size 8{l} } } {}</m:annotation></m:semantics></m:math>.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math>( 5 - 11 )</para>
+      <para id="id24074398">Trong đó A là hệ số an toàn, A = a
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">⋅</m:mo><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ cdot  { size 24{k} }  rSub { size 8{s} }  cdot  { size 24{k} }  rSub { size 8{l} } } {}</m:annotation></m:semantics></m:math> theo bảng sau đây:</para>
+      <table id="id24074485" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>D</m:mi>
+                            <m:msub>
+                              <m:mstyle fontsize="24pt">
+                                <m:mrow>
+                                  <m:mi>h</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>th</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>0</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>10</entry>
+              <entry>12</entry>
+              <entry>14</entry>
+              <entry>16</entry>
+            </row>
+            <row>
+              <entry>a</entry>
+              <entry>1,60</entry>
+              <entry>1,37</entry>
+              <entry>1,20</entry>
+              <entry>1,13</entry>
+              <entry>1,10</entry>
+              <entry>1,09</entry>
+              <entry>1,08</entry>
+              <entry>1,07</entry>
+              <entry>1,06</entry>
+              <entry>1,06</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id22862255">Hệ số 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ cdot  { size 24{k} }  rSub { size 8{s} } } {}</m:annotation></m:semantics></m:math> phụ thuộc vào tỷ tốc , gần đúng có thể tra bảng sau:</para>
+      <table id="id24109868" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>D2/D0</entry>
+              <entry>1,0</entry>
+              <entry>1,25</entry>
+              <entry>1,50</entry>
+              <entry>2,0</entry>
+              <entry>2,5</entry>
+              <entry>3,0</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mstyle fontsize="24pt">
+                              <m:mrow>
+                                <m:mi>k</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>s</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ { size 24{k} }  rSub { size 8{s} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>1,1</entry>
+              <entry>1,1</entry>
+              <entry>1,094</entry>
+              <entry>1,052</entry>
+              <entry>1,014</entry>
+              <entry>1,0</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id24028326">Hệ số 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { size 24{k} }  rSub { size 8{l} } } {}</m:annotation></m:semantics></m:math> = 1 đối với chất lỏng cần bơm là nước.</para>
+      <para id="id24028391">Với mỗi mức Q = hằng số ta vẽ được đường H = f (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>) và chọn ra được một trị số 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>D</m:mi><m:msub><m:mstyle fontsize="24pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>th</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D { size 24{h} }  rSub { size 8{ ital "th"} } } {}</m:annotation></m:semantics></m:math> rồi tính ra được độ dự trữ khí thực cho phép 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math> theo công thức ( 5 - 11 )  được một cặp Q, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>. Với nhiều mức Q khác cũng làm tương tự cũng sẽ được các cặp Q, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>khác . Nối các điểm ấy lại ta vẽ được đường đặc tính độ dự trữ khí thực ( hoặc độ chân không cho phép ).</para>
+    </section>
+  </content>
+</document>

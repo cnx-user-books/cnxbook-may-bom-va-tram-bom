@@ -1,3 +1,28 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10934</md:content-id>  <md:title>Máy bơm và trạm bơm</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>5505786a-beea-4243-83ce-0eab5354e9cb</md:uuid>
-<md:slug>may-bom-va-tram-bom</md:slug>
-</metadata>  <col:content>          <col:module document="m30175"/>                            <col:module document="m30533"/>                            <col:module document="m30399"/>                            <col:module document="m29958"/>                            <col:module document="m29953"/>                            <col:module document="m30615"/>                            <col:module document="m29892"/>                            <col:module document="m29875"/>                            <col:module document="m31066"/>                            <col:module document="m30464"/>                            <col:module document="m30450"/>                            <col:module document="m30573"/>                            <col:module document="m30569"/>                            <col:module document="m30421"/>                            <col:module document="m29815"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="PGS. TS. Nguy&#x1EC5;n Quang &#x110;o&#xE0;n">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10934</md:content-id>
+    <md:title>M&#xE1;y b&#x1A1;m v&#xE0; tr&#x1EA1;m b&#x1A1;m</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>5505786a-beea-4243-83ce-0eab5354e9cb</md:uuid>
+    <md:slug>may-bom-va-tram-bom</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30175"/>
+    <col:module document="m30533"/>
+    <col:module document="m30399"/>
+    <col:module document="m29958"/>
+    <col:module document="m29953"/>
+    <col:module document="m30615"/>
+    <col:module document="m29892"/>
+    <col:module document="m29875"/>
+    <col:module document="m31066"/>
+    <col:module document="m30464"/>
+    <col:module document="m30450"/>
+    <col:module document="m30573"/>
+    <col:module document="m30569"/>
+    <col:module document="m30421"/>
+    <col:module document="m29815"/>
+  </col:content>
+</col:collection>

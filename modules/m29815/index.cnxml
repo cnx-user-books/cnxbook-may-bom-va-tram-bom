@@ -32,7 +32,7 @@
         <title>Chi phí quy dẫn</title>
         <para id="id4591396">Tính toán kinh tế - kỹ thuật trạm bơm được tiến hành theo theo phương pháp phương án, nghĩa là đưa ra một số phương án công trình khả thi và hợp lý kỹ thuật, với từng phương án tiến hành xác định các chỉ tiêu kinh tế - kỹ thuật. Đối với mỗi phương án, xác định giá dự toán công trình bao gồm cả giá thành thiết bị ( tổng đầu tư ) và chi phí vận hành năm. Chọn ra phương án có các chỉ tiêu kinh tế - kỹ thuật tốt nhất. Chỉ tiêu cơ bản để chọn phương án công trình có lợi nhất là chi phí quy dẫn nhỏ nhất.</para>
         <para id="id4591368">- Khi thời hạn xây dựng công trình của các phương án so sánh như nhau thì chi phí quy dẫn được tính theo công thức:</para>
-        <para id="id4591344"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math>Z = C + K.EH( 13 - 1 )</para>
+        <para id="id4591344">Z = C + K.EH( 13 - 1 )</para>
         <para id="id4711202">Trong đó : C là chi phí vận hành hàng năm, ( đ ) ;</para>
         <para id="id3817178"> K là vốn đầu tư , ( đ ) ;</para>
         <para id="id4134828"> EH = 1/TH - là hệ số hiệu quả kinh tế , TH là thời gian hoàn vốn tiêu chuẩn</para>
@@ -61,7 +61,7 @@
       <title>XÁC ĐỊNH ĐƯỜNG KÍNH KINH TẾ ĐƯỜNG ỐNG.</title>
       <para id="id3972401">Cần tính toán đường kính kinh tế của ống áp lực ( ống đẩy ) trước khi chọn số ống , vật liệu làm ống và sơ đồ nối máy bơm với đường ống đẩy. Đường kính kinh tế ống được xác định theo chi phí quy dẫn nhỏ nhất ( công thức 13 - 1 ). Trong trường hợp này, vốn đầu tư bao gồm: giá thành đường ống và lắp đặt ống; còn chi phí vận hành năm gồm: khấu hao, sữa chữa và tiền điện bị tổn hao để khắc phục tổn thất cột nước trong ống. Như vậy, việc chọn lựa đường kính ống kinh tế được tiến hành với việc nghiên cứu đưa ra một số phương án ( không ít hơn ba ) đường ống có đường kính khác nhau và tính toán chỉ tiêu chi phí quy đổi cho từng phương án đó, chọn đường kính có chi phí quy dẫn nhỏ nhất làm đường kính kinh tế. Thông thường đường kính của các đường ống đặt song song thì bằng nhau và không thay đổi theo chiều dài ống, bởi vậy đường kính kinh tế có thể xác định trên 1 mét chiều dài ống.</para>
       <para id="id3953769">Chi phí quy dẫn nhỏ nhất theo công thức sau cho 1 m dài ống:</para>
-      <para id="id4123187"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math>Z = C + K.EH = a. + ( b / 100 ).K + K. EH( 13 - 3 )</para>
+      <para id="id4123187">Z = C + K.EH = a. + ( b / 100 ).K + K. EH( 13 - 3 )</para>
       <para id="id4722619">Trong đó a - giá tiền 1 kWh; </para>
       <para id="id3917812">  - lượng điện tiêu hao trên 1 m dài đường ống, kWh;</para>
       <para id="id4572372"> b - số % khấu hao để phục hồi, sữa chữa lớn và sữa chữa thường xuyên;</para>

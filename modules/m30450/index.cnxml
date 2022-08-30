@@ -428,7 +428,7 @@
         <para id="id3782919"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">Dh</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dh} {}</m:annotation></m:semantics></m:math>- độ chênh của cột chất lỏng trong ống hình chữ U.</para>
         <para id="id4799331">Công thức trên có thể tính khi thiết bị đo nước lắp ở đường ống hút hoặc ống đẩy.</para>
         <para id="id4799342">Ngoài ra còn có thể dùng công thức tính lưu lượng sau: </para>
-        <para id="id4799352"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math>Q = 0,0443
+        <para id="id4799352">Q = 0,0443
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>α</m:mi><m:msup><m:mstyle fontsize="24pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:msqrt><m:mfrac><m:mi>R</m:mi><m:mn>2D</m:mn></m:mfrac></m:msqrt><m:msqrt><m:mfrac><m:mi fontstyle="italic">Dh</m:mi><m:mi>g</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α { size 24{D} }  rSup { size 8{2} }  sqrt { {  {R}  over  {2D} } }  sqrt { {  {Dh}  over  {g} } } } {}</m:annotation></m:semantics></m:math>( 10 - 8 )</para>
         <para id="id3810062">Trong đó: 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>g</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>- dung trọng của nước;</para>
